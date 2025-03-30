@@ -1,0 +1,21 @@
+User: Which is the Address on university?
+Bot: <think>
+Okay, so I need to figure out the address of Peter the Great St. Petersburg Polytechnic University based on the given context. Let me start by reading through the context carefully.
+
+The context mentions several sections like Institutes, Departments, International Office, Admission Office, and various other links such as Prospective Students, Current Students, etc. There's also a mention of the university's ranking, system of education, visa issues, virtual tour, books, and some contact information at the end.
+
+Looking for the address, I see that towards the end of the context, there's an "Address" section. It says: "Contacts Address: Russia, 195251, St.Petersburg, Polytechnicheskaya, 29 B". There are also phone numbers provided, but since the question is about the address, I can focus on that part.
+
+I should make sure to include all parts of the address clearly. The country is Russia, the city is St. Petersburg, and the street is Polytechnicheskaya, 29 B. The postal code isn't directly mentioned, but sometimes in such contexts, the postal code might be inferred from the city, which is 195251 for St. Petersburg.
+
+I should present this information in a clear and concise manner, probably as a bullet point or separate lines for each part of the address to make it easy to read.
+</think>
+
+The address of Peter the Great St. Petersburg Polytechnic University is located at:
+
+- **Country:** Russia
+- **City:** St. Petersburg
+- **Street Address:** Polytechnicheskaya, 29 B
+- **Postal Code:** 195251 (for reference)
+
+This information is derived from the provided context and should be used accordingly.
