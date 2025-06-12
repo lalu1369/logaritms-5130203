@@ -1,0 +1,2836 @@
+|salesorderid|product_name                   |orderqty|unitprice |
+|------------|-------------------------------|--------|----------|
+|50,270      |Full-Finger Gloves, L          |44      |17.0955   |
+|67,266      |Women's Mountain Shorts, L     |41      |31.4955   |
+|51,783      |Women's Mountain Shorts, S     |40      |34.995    |
+|57,186      |Women's Mountain Shorts, L     |40      |34.995    |
+|48,089      |Full-Finger Gloves, L          |39      |18.995    |
+|67,266      |Women's Mountain Shorts, S     |38      |34.995    |
+|51,783      |Women's Mountain Shorts, L     |36      |34.995    |
+|51,109      |Classic Vest, S                |36      |31.75     |
+|46,673      |Full-Finger Gloves, L          |35      |18.995    |
+|46,610      |Full-Finger Gloves, L          |35      |18.995    |
+|46,611      |Full-Finger Gloves, L          |34      |18.995    |
+|47,065      |Full-Finger Gloves, L          |34      |18.995    |
+|46,647      |Full-Finger Gloves, L          |34      |18.995    |
+|47,698      |Full-Finger Gloves, L          |33      |18.995    |
+|57,186      |Women's Mountain Shorts, S     |33      |34.995    |
+|46,633      |Full-Finger Gloves, L          |33      |18.995    |
+|55,241      |Women's Mountain Shorts, S     |33      |34.995    |
+|50,294      |Full-Finger Gloves, L          |33      |18.995    |
+|51,089      |Women's Mountain Shorts, L     |33      |34.995    |
+|46,345      |Mountain Bike Socks, M         |32      |4.75      |
+|47,045      |Full-Finger Gloves, L          |32      |18.995    |
+|47,400      |Long-Sleeve Logo Jersey, L     |32      |24.0337   |
+|67,297      |Women's Mountain Shorts, L     |32      |34.995    |
+|51,789      |Classic Vest, S                |32      |31.75     |
+|53,527      |Women's Mountain Shorts, L     |32      |34.995    |
+|58,972      |Women's Mountain Shorts, L     |32      |34.995    |
+|49,843      |Full-Finger Gloves, L          |31      |18.995    |
+|51,108      |Women's Mountain Shorts, L     |31      |34.995    |
+|51,111      |Women's Mountain Shorts, S     |31      |34.995    |
+|48,350      |Full-Finger Gloves, L          |31      |18.995    |
+|71,841      |Women's Mountain Shorts, S     |31      |34.995    |
+|53,460      |Road-350-W Yellow, 48          |30      |850.495   |
+|51,751      |Hitch Rack - 4-Bike            |29      |60        |
+|51,154      |Classic Vest, S                |29      |31.75     |
+|47,065      |Full-Finger Gloves, M          |29      |18.995    |
+|49,849      |Full-Finger Gloves, L          |28      |18.995    |
+|48,770      |Full-Finger Gloves, L          |28      |18.995    |
+|55,282      |Classic Vest, S                |28      |31.75     |
+|69,424      |Racing Socks, L                |28      |4.495     |
+|47,355      |Women's Tights, S              |28      |37.495    |
+|53,475      |Hitch Rack - 4-Bike            |28      |60        |
+|46,622      |Full-Finger Gloves, L          |27      |18.995    |
+|47,399      |Full-Finger Gloves, L          |27      |18.995    |
+|46,633      |Full-Finger Gloves, M          |27      |18.995    |
+|55,261      |Women's Mountain Shorts, L     |27      |34.995    |
+|51,151      |AWC Logo Cap                   |27      |4.495     |
+|51,790      |Women's Mountain Shorts, S     |27      |34.995    |
+|47,352      |Full-Finger Gloves, L          |27      |18.995    |
+|58,959      |Women's Mountain Shorts, S     |27      |34.995    |
+|55,265      |Racing Socks, L                |27      |4.495     |
+|51,822      |Women's Mountain Shorts, L     |26      |34.995    |
+|47,664      |Full-Finger Gloves, L          |26      |18.995    |
+|58,905      |Women's Mountain Shorts, L     |26      |34.995    |
+|69,561      |Women's Mountain Shorts, S     |26      |34.995    |
+|50,310      |Full-Finger Gloves, L          |26      |18.995    |
+|53,536      |Classic Vest, S                |26      |31.75     |
+|55,282      |Touring-1000 Yellow, 46        |26      |1,192.035 |
+|43,906      |Mountain Bike Socks, M         |26      |4.75      |
+|59,011      |Classic Vest, S                |26      |31.75     |
+|48,340      |Full-Finger Gloves, L          |26      |18.995    |
+|55,253      |Women's Mountain Shorts, L     |26      |34.995    |
+|51,751      |Classic Vest, S                |26      |31.75     |
+|48,318      |Full-Finger Gloves, L          |26      |18.995    |
+|51,147      |Water Bottle - 30 oz.          |26      |2.495     |
+|67,272      |Women's Mountain Shorts, L     |26      |34.995    |
+|51,734      |Classic Vest, S                |25      |31.75     |
+|67,274      |Women's Mountain Shorts, S     |25      |34.995    |
+|53,484      |Women's Mountain Shorts, S     |25      |34.995    |
+|57,080      |Women's Mountain Shorts, S     |25      |34.995    |
+|55,261      |Women's Mountain Shorts, S     |25      |34.995    |
+|71,783      |Road-350-W Yellow, 48          |25      |850.495   |
+|51,127      |Women's Mountain Shorts, L     |25      |34.995    |
+|53,527      |Women's Mountain Shorts, S     |25      |34.995    |
+|47,400      |AWC Logo Cap                   |25      |4.3221    |
+|53,513      |Classic Vest, S                |25      |31.75     |
+|50,295      |Full-Finger Gloves, L          |25      |18.995    |
+|53,570      |Classic Vest, S                |25      |31.75     |
+|53,480      |Women's Mountain Shorts, L     |25      |34.995    |
+|51,810      |Bike Wash - Dissolver          |25      |3.975     |
+|51,131      |Short-Sleeve Classic Jersey, XL|25      |26.995    |
+|51,081      |Women's Mountain Shorts, S     |25      |34.995    |
+|53,621      |Women's Mountain Shorts, S     |25      |34.995    |
+|49,157      |Full-Finger Gloves, L          |24      |20.8945   |
+|58,958      |Classic Vest, S                |24      |34.925    |
+|51,154      |Sport-100 Helmet, Red          |24      |15.7455   |
+|69,437      |Classic Vest, S                |24      |34.925    |
+|53,454      |Women's Mountain Shorts, L     |24      |38.4945   |
+|53,616      |Hitch Rack - 4-Bike            |24      |66        |
+|46,947      |Full-Finger Gloves, M          |24      |20.8945   |
+|51,734      |AWC Logo Cap                   |24      |4.9445    |
+|51,810      |Classic Vest, S                |24      |34.925    |
+|48,767      |Full-Finger Gloves, L          |24      |20.8945   |
+|65,235      |Women's Mountain Shorts, L     |24      |38.4945   |
+|53,460      |Classic Vest, S                |24      |34.925    |
+|51,131      |Classic Vest, S                |24      |34.925    |
+|47,355      |Sport-100 Helmet, Red          |24      |18.5043   |
+|51,711      |Women's Mountain Shorts, L     |24      |38.4945   |
+|71,852      |Racing Socks, L                |24      |4.9445    |
+|51,855      |Racing Socks, L                |24      |4.9445    |
+|51,143      |Sport-100 Helmet, Black        |24      |15.7455   |
+|51,721      |Water Bottle - 30 oz.          |24      |2.7445    |
+|47,454      |Full-Finger Gloves, M          |23      |20.8945   |
+|61,211      |Women's Mountain Shorts, L     |23      |38.4945   |
+|61,217      |Women's Mountain Shorts, S     |23      |38.4945   |
+|44,284      |Mountain Bike Socks, M         |23      |5.225     |
+|53,460      |Short-Sleeve Classic Jersey, XL|23      |29.6945   |
+|51,140      |Sport-100 Helmet, Blue         |23      |15.7455   |
+|50,310      |Full-Finger Gloves, M          |23      |20.8945   |
+|51,739      |Classic Vest, S                |23      |34.925    |
+|71,797      |Classic Vest, S                |23      |34.925    |
+|50,270      |Full-Finger Gloves, M          |23      |20.8945   |
+|51,120      |Sport-100 Helmet, Blue         |23      |15.7455   |
+|51,853      |Women's Mountain Shorts, S     |23      |38.4945   |
+|51,832      |Women's Mountain Shorts, L     |23      |38.4945   |
+|55,328      |Classic Vest, S                |23      |34.925    |
+|51,748      |Bike Wash - Dissolver          |23      |4.3725    |
+|51,131      |HL Touring Frame - Blue, 54    |23      |552.1505  |
+|69,503      |Racing Socks, L                |23      |4.9445    |
+|48,341      |AWC Logo Cap                   |23      |4.7543    |
+|51,833      |Women's Mountain Shorts, S     |23      |38.4945   |
+|47,395      |Road-650 Red, 60               |23      |430.6445  |
+|51,169      |Classic Vest, S                |23      |34.925    |
+|71,784      |Classic Vest, S                |23      |34.925    |
+|51,721      |Long-Sleeve Logo Jersey, L     |23      |27.4945   |
+|51,092      |Short-Sleeve Classic Jersey, XL|22      |29.6945   |
+|50,293      |Full-Finger Gloves, M          |22      |20.8945   |
+|57,125      |Short-Sleeve Classic Jersey, XL|22      |29.6945   |
+|53,513      |Short-Sleeve Classic Jersey, XL|22      |29.6945   |
+|51,169      |Water Bottle - 30 oz.          |22      |2.7445    |
+|63,214      |Classic Vest, S                |22      |34.925    |
+|51,132      |Road-350-W Yellow, 40          |22      |935.5445  |
+|44,098      |Mountain Bike Socks, M         |22      |5.225     |
+|61,216      |Women's Mountain Shorts, L     |22      |38.4945   |
+|53,485      |Classic Vest, S                |22      |34.925    |
+|53,534      |Racing Socks, L                |22      |4.9445    |
+|53,536      |Long-Sleeve Logo Jersey, L     |22      |27.4945   |
+|51,810      |Short-Sleeve Classic Jersey, XL|21      |29.6945   |
+|57,138      |Women's Mountain Shorts, L     |21      |38.4945   |
+|50,203      |Road-650 Black, 52             |21      |430.6445  |
+|55,239      |Women's Mountain Shorts, L     |21      |38.4945   |
+|55,322      |Short-Sleeve Classic Jersey, XL|21      |29.6945   |
+|48,292      |Full-Finger Gloves, L          |21      |20.8945   |
+|51,739      |Hitch Rack - 4-Bike            |21      |66        |
+|49,869      |Full-Finger Gloves, L          |21      |20.8945   |
+|46,616      |Road-650 Red, 60               |21      |430.6445  |
+|48,031      |Full-Finger Gloves, M          |21      |20.8945   |
+|46,660      |Road-650 Black, 58             |21      |430.6445  |
+|47,400      |Sport-100 Helmet, Blue         |21      |18.5043   |
+|51,739      |Sport-100 Helmet, Black        |21      |19.2445   |
+|43,881      |Mountain Bike Socks, M         |21      |5.225     |
+|59,074      |Classic Vest, S                |21      |34.925    |
+|69,476      |Women's Mountain Shorts, L     |21      |38.4945   |
+|71,805      |Classic Vest, S                |21      |34.925    |
+|51,823      |Touring-1000 Yellow, 60        |21      |953.628   |
+|53,465      |Short-Sleeve Classic Jersey, XL|21      |29.6945   |
+|51,844      |Racing Socks, L                |21      |4.9445    |
+|51,092      |Sport-100 Helmet, Blue         |21      |15.7455   |
+|57,038      |Racing Socks, L                |21      |4.9445    |
+|49,831      |Long-Sleeve Logo Jersey, L     |21      |26.437    |
+|51,096      |Road-750 Black, 48             |21      |296.9945  |
+|53,483      |Hitch Rack - 4-Bike            |21      |66        |
+|46,660      |Road-650 Black, 52             |21      |430.6445  |
+|53,460      |AWC Logo Cap                   |21      |4.9445    |
+|53,460      |Short-Sleeve Classic Jersey, L |21      |29.6945   |
+|51,131      |Touring-1000 Blue, 60          |21      |1,311.2385|
+|47,680      |Full-Finger Gloves, L          |21      |20.8945   |
+|51,751      |Short-Sleeve Classic Jersey, XL|21      |29.6945   |
+|51,109      |Sport-100 Helmet, Red          |20      |15.7455   |
+|63,131      |Women's Mountain Shorts, S     |20      |38.4945   |
+|51,160      |Short-Sleeve Classic Jersey, XL|20      |29.6945   |
+|49,151      |Full-Finger Gloves, L          |20      |20.8945   |
+|67,349      |Classic Vest, S                |20      |34.925    |
+|58,972      |Women's Mountain Shorts, S     |20      |38.4945   |
+|58,918      |AWC Logo Cap                   |20      |4.9445    |
+|58,931      |Classic Vest, S                |20      |34.925    |
+|46,971      |Full-Finger Gloves, L          |20      |20.8945   |
+|55,277      |Women's Mountain Shorts, L     |20      |38.4945   |
+|58,927      |Short-Sleeve Classic Jersey, XL|20      |29.6945   |
+|50,312      |Full-Finger Gloves, L          |20      |20.8945   |
+|69,471      |Women's Mountain Shorts, L     |20      |38.4945   |
+|51,143      |Long-Sleeve Logo Jersey, L     |20      |27.4945   |
+|51,160      |AWC Logo Cap                   |20      |4.9445    |
+|55,324      |Water Bottle - 30 oz.          |20      |2.7445    |
+|53,570      |Hydration Pack - 70 oz.        |20      |30.2445   |
+|58,958      |Hitch Rack - 4-Bike            |20      |66        |
+|50,668      |Women's Tights, L              |20      |41.2445   |
+|51,718      |Women's Mountain Shorts, S     |20      |38.4945   |
+|71,803      |Women's Mountain Shorts, S     |20      |38.4945   |
+|69,493      |Racing Socks, L                |20      |4.9445    |
+|59,074      |Short-Sleeve Classic Jersey, XL|20      |29.6945   |
+|53,472      |Sport-100 Helmet, Red          |20      |19.2445   |
+|51,703      |Long-Sleeve Logo Jersey, L     |20      |27.4945   |
+|71,949      |Classic Vest, S                |20      |34.925    |
+|47,456      |Full-Finger Gloves, L          |20      |20.8945   |
+|49,061      |Full-Finger Gloves, L          |20      |20.8945   |
+|49,166      |Full-Finger Gloves, L          |20      |20.8945   |
+|51,131      |Bike Wash - Dissolver          |20      |4.3725    |
+|69,416      |Racing Socks, L                |20      |4.9445    |
+|53,465      |Sport-100 Helmet, Black        |20      |19.2445   |
+|58,981      |Water Bottle - 30 oz.          |20      |2.7445    |
+|47,355      |Road-650 Red, 60               |20      |430.6445  |
+|46,987      |Women's Tights, S              |20      |41.2445   |
+|51,753      |Racing Socks, L                |20      |4.9445    |
+|58,909      |Hitch Rack - 4-Bike            |20      |66        |
+|55,268      |Short-Sleeve Classic Jersey, XL|20      |29.6945   |
+|51,839      |Hydration Pack - 70 oz.        |20      |30.2445   |
+|53,621      |Women's Mountain Shorts, L     |20      |38.4945   |
+|51,751      |Half-Finger Gloves, M          |20      |13.4695   |
+|47,673      |Full-Finger Gloves, L          |20      |20.8945   |
+|51,090      |Hitch Rack - 4-Bike            |20      |66        |
+|51,157      |Classic Vest, S                |20      |34.925    |
+|51,090      |Hydration Pack - 70 oz.        |20      |30.2445   |
+|51,122      |Racing Socks, L                |20      |4.9445    |
+|51,154      |Short-Sleeve Classic Jersey, XL|19      |29.6945   |
+|58,918      |Classic Vest, S                |19      |34.925    |
+|71,794      |Short-Sleeve Classic Jersey, XL|19      |29.6945   |
+|51,734      |Long-Sleeve Logo Jersey, L     |19      |27.4945   |
+|51,739      |Classic Vest, M                |19      |34.925    |
+|51,741      |Racing Socks, L                |19      |4.9445    |
+|53,513      |AWC Logo Cap                   |19      |4.9445    |
+|51,751      |AWC Logo Cap                   |19      |4.9445    |
+|47,055      |Road-650 Red, 44               |19      |234.897   |
+|57,138      |Women's Mountain Shorts, S     |19      |38.4945   |
+|51,160      |Classic Vest, S                |19      |34.925    |
+|67,268      |Short-Sleeve Classic Jersey, XL|19      |29.6945   |
+|48,076      |Full-Finger Gloves, L          |19      |20.8945   |
+|51,131      |LL Touring Frame - Yellow, 62  |19      |183.381   |
+|51,822      |Classic Vest, S                |19      |34.925    |
+|51,828      |Racing Socks, L                |19      |4.9445    |
+|57,054      |Touring-1000 Blue, 46          |19      |1,311.2385|
+|51,168      |Classic Vest, S                |19      |34.925    |
+|51,109      |AWC Logo Cap                   |19      |4.9445    |
+|51,858      |Classic Vest, S                |19      |34.925    |
+|53,458      |AWC Logo Cap                   |19      |4.9445    |
+|53,458      |Classic Vest, S                |19      |34.925    |
+|63,291      |Women's Mountain Shorts, L     |19      |38.4945   |
+|50,745      |Full-Finger Gloves, L          |19      |20.8945   |
+|53,475      |Short-Sleeve Classic Jersey, L |19      |29.6945   |
+|53,472      |Hitch Rack - 4-Bike            |19      |66        |
+|48,293      |Full-Finger Gloves, M          |19      |20.8945   |
+|53,570      |Short-Sleeve Classic Jersey, XL|19      |29.6945   |
+|67,304      |Road-350-W Yellow, 40          |19      |935.5445  |
+|51,157      |Classic Vest, M                |19      |34.925    |
+|50,663      |Half-Finger Gloves, M          |19      |12.9515   |
+|50,322      |Full-Finger Gloves, L          |19      |20.8945   |
+|67,316      |Classic Vest, S                |19      |34.925    |
+|46,671      |Road-650 Red, 60               |19      |430.6445  |
+|55,322      |AWC Logo Cap                   |19      |4.9445    |
+|55,301      |Short-Sleeve Classic Jersey, XL|19      |29.6945   |
+|47,400      |Men's Bib-Shorts, M            |19      |49.4945   |
+|49,879      |Sport-100 Helmet, Black        |19      |18.5043   |
+|46,974      |AWC Logo Cap                   |19      |4.7543    |
+|47,400      |Full-Finger Gloves, L          |19      |20.8945   |
+|51,721      |AWC Logo Cap                   |19      |4.9445    |
+|58,976      |Racing Socks, L                |19      |4.9445    |
+|47,976      |Full-Finger Gloves, M          |19      |20.8945   |
+|61,238      |Short-Sleeve Classic Jersey, XL|19      |29.6945   |
+|49,826      |Full-Finger Gloves, L          |19      |20.8945   |
+|45,321      |Mountain Bike Socks, M         |19      |5.225     |
+|59,010      |Women's Mountain Shorts, L     |19      |38.4945   |
+|47,970      |Full-Finger Gloves, L          |19      |20.8945   |
+|48,341      |Full-Finger Gloves, L          |19      |20.8945   |
+|69,476      |Women's Mountain Shorts, S     |19      |38.4945   |
+|49,157      |Full-Finger Gloves, M          |19      |20.8945   |
+|47,400      |Women's Tights, S              |19      |41.2445   |
+|55,268      |Bike Wash - Dissolver          |19      |4.3725    |
+|46,957      |Full-Finger Gloves, L          |18      |20.8945   |
+|46,625      |Women's Tights, L              |18      |41.2445   |
+|51,864      |Women's Mountain Shorts, S     |18      |38.4945   |
+|51,823      |Touring-1000 Blue, 60          |18      |1,311.2385|
+|71,805      |Long-Sleeve Logo Jersey, L     |18      |27.4945   |
+|53,458      |Classic Vest, M                |18      |34.925    |
+|51,092      |Long-Sleeve Logo Jersey, L     |18      |27.4945   |
+|51,090      |AWC Logo Cap                   |18      |4.9445    |
+|51,131      |Hitch Rack - 4-Bike            |18      |66        |
+|47,380      |Full-Finger Gloves, M          |18      |20.8945   |
+|48,351      |Full-Finger Gloves, M          |18      |20.8945   |
+|53,458      |Long-Sleeve Logo Jersey, L     |18      |27.4945   |
+|47,355      |Men's Bib-Shorts, M            |18      |49.4945   |
+|51,810      |Long-Sleeve Logo Jersey, L     |18      |27.4945   |
+|53,460      |Hitch Rack - 4-Bike            |18      |66        |
+|47,450      |Long-Sleeve Logo Jersey, L     |18      |26.437    |
+|51,809      |Women's Mountain Shorts, S     |18      |38.4945   |
+|46,626      |Full-Finger Gloves, L          |18      |20.8945   |
+|51,703      |Half-Finger Gloves, M          |18      |13.4695   |
+|47,369      |Road-650 Red, 62               |18      |430.6445  |
+|51,791      |Short-Sleeve Classic Jersey, XL|18      |29.6945   |
+|53,465      |AWC Logo Cap                   |18      |4.9445    |
+|47,365      |Long-Sleeve Logo Jersey, L     |18      |26.437    |
+|50,716      |Men's Bib-Shorts, M            |18      |49.4945   |
+|47,365      |ML Mountain Rear Wheel         |18      |129.8138  |
+|65,256      |Racing Socks, L                |18      |4.9445    |
+|47,673      |Full-Finger Gloves, M          |18      |20.8945   |
+|45,782      |Mountain Bike Socks, M         |18      |5.225     |
+|61,182      |Women's Mountain Shorts, L     |18      |38.4945   |
+|69,511      |Classic Vest, S                |18      |34.925    |
+|47,353      |Full-Finger Gloves, M          |18      |20.8945   |
+|57,136      |Racing Socks, L                |18      |4.9445    |
+|51,168      |Hitch Rack - 4-Bike            |18      |66        |
+|53,570      |Long-Sleeve Logo Jersey, L     |18      |27.4945   |
+|58,951      |Women's Mountain Shorts, L     |18      |38.4945   |
+|46,611      |Full-Finger Gloves, M          |18      |20.8945   |
+|67,297      |Women's Mountain Shorts, S     |18      |38.4945   |
+|51,774      |Classic Vest, S                |18      |34.925    |
+|53,570      |Hitch Rack - 4-Bike            |18      |66        |
+|58,957      |Women's Mountain Shorts, S     |18      |38.4945   |
+|46,060      |Mountain Bike Socks, M         |18      |5.225     |
+|57,180      |Touring-3000 Blue, 50          |18      |408.2925  |
+|50,663      |Men's Bib-Shorts, M            |18      |49.4945   |
+|53,573      |Women's Mountain Shorts, S     |18      |38.4945   |
+|67,314      |Classic Vest, S                |18      |34.925    |
+|47,378      |Full-Finger Gloves, L          |18      |20.8945   |
+|67,315      |Racing Socks, L                |18      |4.9445    |
+|51,169      |Long-Sleeve Logo Jersey, L     |18      |27.4945   |
+|53,530      |Classic Vest, S                |18      |34.925    |
+|71,808      |Classic Vest, S                |18      |34.925    |
+|51,140      |AWC Logo Cap                   |18      |4.9445    |
+|57,125      |Classic Vest, S                |18      |34.925    |
+|50,294      |Full-Finger Gloves, M          |18      |20.8945   |
+|71,824      |Road-750 Black, 48             |18      |296.9945  |
+|51,168      |Short-Sleeve Classic Jersey, XL|18      |29.6945   |
+|51,751      |Water Bottle - 30 oz.          |18      |2.7445    |
+|67,339      |Classic Vest, S                |18      |34.925    |
+|46,981      |Long-Sleeve Logo Jersey, L     |18      |26.437    |
+|50,206      |Women's Tights, S              |18      |41.2445   |
+|50,206      |Full-Finger Gloves, L          |18      |20.8945   |
+|51,734      |Water Bottle - 30 oz.          |18      |2.7445    |
+|55,301      |Classic Vest, S                |18      |34.925    |
+|57,029      |Racing Socks, L                |18      |4.9445    |
+|44,489      |Mountain Bike Socks, M         |18      |5.225     |
+|53,615      |Classic Vest, S                |18      |34.925    |
+|69,413      |Women's Mountain Shorts, S     |18      |38.4945   |
+|51,151      |Hitch Rack - 4-Bike            |18      |66        |
+|65,191      |Classic Vest, S                |18      |34.925    |
+|58,908      |Sport-100 Helmet, Blue         |18      |19.2445   |
+|51,151      |Short-Sleeve Classic Jersey, XL|18      |29.6945   |
+|49,856      |Road-650 Red, 44               |18      |430.6445  |
+|53,616      |AWC Logo Cap                   |18      |4.9445    |
+|46,673      |Full-Finger Gloves, M          |18      |20.8945   |
+|48,069      |Full-Finger Gloves, M          |18      |20.8945   |
+|47,377      |Road-650 Red, 60               |18      |430.6445  |
+|47,400      |Women's Tights, L              |18      |41.2445   |
+|44,294      |Mountain Bike Socks, M         |18      |5.225     |
+|46,957      |ML Headset                     |18      |56.2595   |
+|61,230      |Women's Mountain Shorts, S     |18      |38.4945   |
+|46,947      |Full-Finger Gloves, L          |18      |20.8945   |
+|57,067      |Classic Vest, S                |18      |34.925    |
+|57,105      |Women's Mountain Shorts, S     |18      |38.4945   |
+|46,662      |Long-Sleeve Logo Jersey, L     |18      |26.437    |
+|61,228      |Short-Sleeve Classic Jersey, XL|18      |29.6945   |
+|69,532      |Women's Mountain Shorts, L     |18      |38.4945   |
+|55,282      |Touring-1000 Blue, 46          |18      |1,311.2385|
+|47,400      |Men's Sports Shorts, M         |18      |32.9945   |
+|47,411      |Full-Finger Gloves, L          |18      |20.8945   |
+|47,726      |Full-Finger Gloves, M          |18      |20.8945   |
+|46,067      |Long-Sleeve Logo Jersey, L     |18      |26.437    |
+|55,251      |Women's Mountain Shorts, L     |18      |38.4945   |
+|51,837      |Classic Vest, M                |18      |34.925    |
+|53,535      |HL Touring Frame - Blue, 60    |18      |552.1505  |
+|65,226      |Short-Sleeve Classic Jersey, XL|18      |29.6945   |
+|51,116      |Racing Socks, L                |18      |4.9445    |
+|51,839      |AWC Logo Cap                   |18      |4.9445    |
+|47,394      |Full-Finger Gloves, L          |18      |20.8945   |
+|47,355      |Sport-100 Helmet, Black        |18      |18.5043   |
+|51,109      |Water Bottle - 30 oz.          |18      |2.7445    |
+|58,931      |AWC Logo Cap                   |18      |4.9445    |
+|51,127      |Women's Mountain Shorts, S     |18      |38.4945   |
+|55,249      |Classic Vest, S                |17      |34.925    |
+|51,092      |Bike Wash - Dissolver          |17      |4.3725    |
+|46,624      |Full-Finger Gloves, L          |17      |20.8945   |
+|53,578      |Racing Socks, L                |17      |4.9445    |
+|47,039      |Full-Finger Gloves, L          |17      |20.8945   |
+|67,325      |Hitch Rack - 4-Bike            |17      |66        |
+|50,663      |Road-650 Red, 48               |17      |430.6445  |
+|57,125      |Classic Vest, M                |17      |34.925    |
+|51,160      |Half-Finger Gloves, M          |17      |13.4695   |
+|67,263      |Women's Mountain Shorts, L     |17      |38.4945   |
+|65,195      |Women's Mountain Shorts, S     |17      |38.4945   |
+|49,843      |Full-Finger Gloves, M          |17      |20.8945   |
+|49,890      |Road-650 Red, 44               |17      |430.6445  |
+|55,328      |Sport-100 Helmet, Blue         |17      |19.2445   |
+|55,282      |Touring-1000 Yellow, 60        |17      |1,311.2385|
+|51,169      |Short-Sleeve Classic Jersey, XL|17      |29.6945   |
+|46,669      |Road-650 Red, 44               |17      |234.897   |
+|69,437      |Women's Mountain Shorts, L     |17      |38.4945   |
+|51,822      |Women's Mountain Shorts, S     |17      |38.4945   |
+|51,168      |AWC Logo Cap                   |17      |4.9445    |
+|69,475      |Classic Vest, S                |17      |34.925    |
+|51,734      |Road-350-W Yellow, 48          |17      |935.5445  |
+|53,505      |Short-Sleeve Classic Jersey, XL|17      |29.6945   |
+|53,573      |Mountain-200 Black, 38         |17      |1,262.2445|
+|53,458      |Short-Sleeve Classic Jersey, S |17      |29.6945   |
+|49,884      |Road-650 Black, 52             |17      |430.6445  |
+|46,671      |Women's Tights, S              |17      |41.2445   |
+|69,442      |Classic Vest, S                |17      |34.925    |
+|51,845      |Women's Mountain Shorts, S     |17      |38.4945   |
+|71,889      |Classic Vest, S                |17      |34.925    |
+|51,143      |Classic Vest, M                |17      |34.925    |
+|46,672      |Women's Tights, L              |17      |41.2445   |
+|65,160      |Road-350-W Yellow, 48          |17      |935.5445  |
+|51,810      |Hitch Rack - 4-Bike            |17      |66        |
+|71,783      |Long-Sleeve Logo Jersey, L     |17      |27.4945   |
+|48,295      |Long-Sleeve Logo Jersey, L     |17      |26.437    |
+|71,830      |Short-Sleeve Classic Jersey, XL|17      |29.6945   |
+|48,295      |Road-650 Black, 52             |17      |430.6445  |
+|61,190      |Short-Sleeve Classic Jersey, XL|17      |29.6945   |
+|46,604      |Full-Finger Gloves, L          |17      |20.8945   |
+|51,140      |Short-Sleeve Classic Jersey, XL|17      |29.6945   |
+|59,037      |Racing Socks, L                |17      |4.9445    |
+|69,526      |Sport-100 Helmet, Blue         |17      |19.2445   |
+|58,932      |Sport-100 Helmet, Black        |17      |19.2445   |
+|46,993      |Women's Tights, S              |17      |41.2445   |
+|55,249      |Bike Wash - Dissolver          |17      |4.3725    |
+|53,478      |Women's Mountain Shorts, S     |17      |38.4945   |
+|51,853      |Women's Mountain Shorts, L     |17      |38.4945   |
+|57,051      |Hitch Rack - 4-Bike            |17      |66        |
+|50,738      |Sport-100 Helmet, Red          |17      |18.5043   |
+|53,580      |Women's Mountain Shorts, L     |17      |38.4945   |
+|47,395      |Road-650 Black, 52             |17      |430.6445  |
+|51,111      |Women's Mountain Shorts, L     |17      |38.4945   |
+|49,870      |Road-650 Black, 52             |17      |430.6445  |
+|58,974      |Classic Vest, S                |17      |34.925    |
+|53,567      |AWC Logo Cap                   |17      |4.9445    |
+|53,530      |Road-350-W Yellow, 48          |17      |935.5445  |
+|57,023      |Hydration Pack - 70 oz.        |17      |30.2445   |
+|51,789      |Long-Sleeve Logo Jersey, L     |17      |27.4945   |
+|48,295      |AWC Logo Cap                   |17      |4.7543    |
+|53,530      |Hitch Rack - 4-Bike            |17      |66        |
+|57,023      |Road-350-W Yellow, 48          |17      |935.5445  |
+|51,157      |Short-Sleeve Classic Jersey, L |17      |29.6945   |
+|47,031      |Full-Finger Gloves, L          |17      |20.8945   |
+|71,794      |Classic Vest, S                |17      |34.925    |
+|51,703      |Long-Sleeve Logo Jersey, M     |17      |27.4945   |
+|51,147      |Bike Wash - Dissolver          |17      |4.3725    |
+|51,154      |Water Bottle - 30 oz.          |17      |2.7445    |
+|57,065      |Sport-100 Helmet, Black        |17      |19.2445   |
+|46,953      |Road-650 Red, 44               |17      |234.897   |
+|67,343      |Bike Wash - Dissolver          |17      |4.3725    |
+|50,688      |Women's Tights, S              |17      |41.2445   |
+|47,045      |Full-Finger Gloves, M          |17      |20.8945   |
+|51,151      |Sport-100 Helmet, Blue         |17      |15.7455   |
+|53,600      |Racing Socks, L                |17      |4.9445    |
+|51,778      |Racing Socks, L                |17      |4.9445    |
+|55,253      |Women's Mountain Shorts, S     |17      |38.4945   |
+|50,683      |Road-650 Red, 44               |17      |430.6445  |
+|46,668      |Road-650 Black, 52             |17      |430.6445  |
+|46,987      |Women's Tights, L              |17      |41.2445   |
+|53,512      |Women's Mountain Shorts, S     |17      |38.4945   |
+|58,920      |Classic Vest, M                |17      |34.925    |
+|47,413      |Full-Finger Gloves, M          |17      |20.8945   |
+|55,323      |Hydration Pack - 70 oz.        |17      |30.2445   |
+|53,536      |Water Bottle - 30 oz.          |17      |2.7445    |
+|48,359      |Road-650 Red, 60               |17      |430.6445  |
+|67,324      |Classic Vest, S                |17      |34.925    |
+|67,305      |Hitch Rack - 4-Bike            |17      |66        |
+|51,715      |Women's Mountain Shorts, S     |17      |38.4945   |
+|63,291      |Mountain-200 Silver, 42        |17      |1,275.9945|
+|53,530      |Bike Wash - Dissolver          |17      |4.3725    |
+|71,797      |Bike Wash - Dissolver          |17      |4.3725    |
+|71,949      |Sport-100 Helmet, Black        |17      |19.2445   |
+|49,481      |Women's Tights, S              |17      |41.2445   |
+|47,359      |Long-Sleeve Logo Jersey, L     |16      |26.437    |
+|53,505      |Women's Mountain Shorts, L     |16      |38.4945   |
+|53,460      |Long-Sleeve Logo Jersey, M     |16      |27.4945   |
+|57,122      |AWC Logo Cap                   |16      |4.9445    |
+|46,616      |Men's Bib-Shorts, M            |16      |49.4945   |
+|57,067      |AWC Logo Cap                   |16      |4.9445    |
+|51,810      |Water Bottle - 30 oz.          |16      |2.7445    |
+|51,809      |Women's Mountain Shorts, L     |16      |38.4945   |
+|51,826      |Touring-2000 Blue, 54          |16      |668.1675  |
+|46,953      |Men's Bib-Shorts, M            |16      |49.4945   |
+|51,156      |Women's Mountain Shorts, S     |16      |38.4945   |
+|47,395      |Road-550-W Yellow, 48          |16      |550.2406  |
+|51,131      |Touring-1000 Blue, 46          |16      |1,311.2385|
+|49,825      |Full-Finger Gloves, M          |16      |20.8945   |
+|51,120      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|50,716      |AWC Logo Cap                   |16      |4.7543    |
+|67,268      |Road-750 Black, 48             |16      |296.9945  |
+|47,033      |Long-Sleeve Logo Jersey, L     |16      |26.437    |
+|46,648      |Sport-100 Helmet, Blue         |16      |16.8221   |
+|47,365      |AWC Logo Cap                   |16      |4.7543    |
+|51,774      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|51,839      |Classic Vest, M                |16      |34.925    |
+|47,369      |Women's Tights, L              |16      |41.2445   |
+|50,688      |Half-Finger Gloves, M          |16      |12.9515   |
+|67,268      |Long-Sleeve Logo Jersey, L     |16      |27.4945   |
+|57,061      |Sport-100 Helmet, Blue         |16      |19.2445   |
+|47,394      |Long-Sleeve Logo Jersey, L     |16      |26.437    |
+|58,909      |Long-Sleeve Logo Jersey, L     |16      |27.4945   |
+|53,510      |Women's Mountain Shorts, S     |16      |38.4945   |
+|51,774      |Long-Sleeve Logo Jersey, L     |16      |27.4945   |
+|57,154      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|58,950      |Road-750 Black, 48             |16      |296.9945  |
+|51,833      |Women's Mountain Shorts, L     |16      |38.4945   |
+|49,489      |Full-Finger Gloves, L          |16      |20.8945   |
+|51,124      |Women's Mountain Shorts, L     |16      |38.4945   |
+|57,132      |Half-Finger Gloves, M          |16      |13.4695   |
+|46,660      |Road-650 Red, 44               |16      |234.897   |
+|51,774      |Hitch Rack - 4-Bike            |16      |66        |
+|67,297      |Mountain-200 Black, 42         |16      |1,262.2445|
+|51,168      |Bike Wash - Dissolver          |16      |4.3725    |
+|58,909      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|46,086      |AWC Logo Cap                   |16      |4.7543    |
+|51,721      |LL Mountain Handlebars         |16      |24.497    |
+|55,268      |AWC Logo Cap                   |16      |4.9445    |
+|51,774      |Half-Finger Gloves, M          |16      |13.4695   |
+|71,792      |Racing Socks, L                |16      |4.9445    |
+|71,808      |Water Bottle - 30 oz.          |16      |2.7445    |
+|48,295      |Women's Tights, S              |16      |41.2445   |
+|48,295      |Men's Sports Shorts, M         |16      |32.9945   |
+|51,157      |Sport-100 Helmet, Black        |16      |15.7455   |
+|51,721      |Bike Wash - Dissolver          |16      |4.3725    |
+|46,944      |Full-Finger Gloves, L          |16      |20.8945   |
+|59,011      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|51,774      |Bike Wash - Dissolver          |16      |4.3725    |
+|51,104      |Women's Mountain Shorts, S     |16      |38.4945   |
+|46,953      |AWC Logo Cap                   |16      |4.7543    |
+|55,276      |Touring-2000 Blue, 54          |16      |668.1675  |
+|50,663      |Sport-100 Helmet, Black        |16      |18.5043   |
+|71,801      |Sport-100 Helmet, Blue         |16      |19.2445   |
+|57,067      |Sport-100 Helmet, Red          |16      |19.2445   |
+|58,958      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|47,454      |AWC Logo Cap                   |16      |4.7543    |
+|53,576      |Women's Mountain Shorts, L     |16      |38.4945   |
+|67,324      |AWC Logo Cap                   |16      |4.9445    |
+|48,780      |Road-650 Red, 44               |16      |430.6445  |
+|50,306      |AWC Logo Cap                   |16      |4.7543    |
+|47,006      |Full-Finger Gloves, L          |16      |20.8945   |
+|55,254      |Touring-1000 Yellow, 60        |16      |1,311.2385|
+|67,327      |Water Bottle - 30 oz.          |16      |2.7445    |
+|47,062      |Full-Finger Gloves, L          |16      |20.8945   |
+|55,322      |Bike Wash - Dissolver          |16      |4.3725    |
+|53,530      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|57,125      |Hitch Rack - 4-Bike            |16      |66        |
+|57,132      |Long-Sleeve Logo Jersey, L     |16      |27.4945   |
+|57,125      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|55,311      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|53,580      |Women's Mountain Shorts, S     |16      |38.4945   |
+|51,160      |Women's Mountain Shorts, S     |16      |38.4945   |
+|55,309      |Long-Sleeve Logo Jersey, L     |16      |27.4945   |
+|53,606      |Women's Mountain Shorts, S     |16      |38.4945   |
+|59,011      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|47,055      |Long-Sleeve Logo Jersey, L     |16      |26.437    |
+|57,132      |Water Bottle - 30 oz.          |16      |2.7445    |
+|51,734      |Bike Wash - Dissolver          |16      |4.3725    |
+|57,065      |Water Bottle - 30 oz.          |16      |2.7445    |
+|53,613      |Women's Mountain Shorts, L     |16      |38.4945   |
+|53,530      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|49,891      |Sport-100 Helmet, Black        |16      |18.5043   |
+|51,147      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|67,349      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|51,147      |Classic Vest, M                |16      |34.925    |
+|53,613      |Women's Mountain Shorts, S     |16      |38.4945   |
+|69,401      |AWC Logo Cap                   |16      |4.9445    |
+|69,401      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|51,168      |Sport-100 Helmet, Red          |16      |15.7455   |
+|69,475      |Water Bottle - 30 oz.          |16      |2.7445    |
+|69,401      |Sport-100 Helmet, Black        |16      |19.2445   |
+|53,483      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|46,631      |Full-Finger Gloves, L          |16      |20.8945   |
+|55,243      |Half-Finger Gloves, M          |16      |13.4695   |
+|51,837      |Water Bottle - 30 oz.          |16      |2.7445    |
+|51,131      |Touring-1000 Yellow, 46        |16      |953.628   |
+|49,870      |Sport-100 Helmet, Blue         |16      |18.5043   |
+|53,616      |Sport-100 Helmet, Blue         |16      |19.2445   |
+|51,109      |Sport-100 Helmet, Blue         |16      |15.7455   |
+|44,525      |Long-Sleeve Logo Jersey, L     |16      |26.437    |
+|53,616      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|69,426      |Classic Vest, S                |16      |34.925    |
+|65,191      |AWC Logo Cap                   |16      |4.9445    |
+|51,739      |Women's Mountain Shorts, S     |16      |38.4945   |
+|51,837      |Hitch Rack - 4-Bike            |16      |66        |
+|51,154      |Bike Wash - Dissolver          |16      |4.3725    |
+|51,850      |Water Bottle - 30 oz.          |16      |2.7445    |
+|55,249      |Long-Sleeve Logo Jersey, L     |16      |27.4945   |
+|51,160      |Water Bottle - 30 oz.          |16      |2.7445    |
+|57,051      |Road-350-W Yellow, 48          |16      |935.5445  |
+|53,485      |AWC Logo Cap                   |16      |4.9445    |
+|51,858      |Touring-1000 Yellow, 60        |16      |953.628   |
+|69,437      |Mountain-200 Black, 38         |16      |1,262.2445|
+|53,497      |Road-350-W Yellow, 40          |16      |935.5445  |
+|51,839      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|46,616      |Road-650 Red, 48               |16      |430.6445  |
+|53,455      |Women's Mountain Shorts, L     |16      |38.4945   |
+|53,480      |Women's Mountain Shorts, S     |16      |38.4945   |
+|53,503      |Women's Mountain Shorts, S     |16      |38.4945   |
+|51,734      |Sport-100 Helmet, Blue         |16      |19.2445   |
+|53,616      |Half-Finger Gloves, M          |16      |13.4695   |
+|51,092      |Water Bottle - 30 oz.          |16      |2.7445    |
+|46,967      |Women's Tights, S              |16      |41.2445   |
+|67,273      |AWC Logo Cap                   |16      |4.9445    |
+|51,090      |Short-Sleeve Classic Jersey, XL|16      |29.6945   |
+|71,797      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|53,458      |Short-Sleeve Classic Jersey, L |16      |29.6945   |
+|48,038      |Full-Finger Gloves, L          |15      |20.8945   |
+|53,524      |Long-Sleeve Logo Jersey, L     |15      |27.4945   |
+|51,703      |Road-750 Black, 48             |15      |296.9945  |
+|51,712      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|46,616      |Long-Sleeve Logo Jersey, L     |15      |26.437    |
+|65,238      |Classic Vest, S                |15      |34.925    |
+|51,721      |Sport-100 Helmet, Blue         |15      |19.2445   |
+|57,046      |Women's Mountain Shorts, S     |15      |38.4945   |
+|65,269      |Women's Mountain Shorts, S     |15      |38.4945   |
+|51,748      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|51,748      |Classic Vest, S                |15      |34.925    |
+|47,435      |AWC Logo Cap                   |15      |4.7543    |
+|51,752      |Women's Mountain Shorts, L     |15      |38.4945   |
+|53,513      |Long-Sleeve Logo Jersey, L     |15      |27.4945   |
+|47,067      |Long-Sleeve Logo Jersey, L     |15      |26.437    |
+|46,657      |Women's Tights, L              |15      |41.2445   |
+|53,506      |Road-350-W Yellow, 48          |15      |935.5445  |
+|51,789      |Hitch Rack - 4-Bike            |15      |66        |
+|57,023      |Classic Vest, S                |15      |34.925    |
+|51,822      |Mountain-200 Black, 42         |15      |1,262.2445|
+|51,837      |Long-Sleeve Logo Jersey, L     |15      |27.4945   |
+|51,837      |Classic Vest, S                |15      |34.925    |
+|53,483      |Classic Vest, S                |15      |34.925    |
+|51,850      |Short-Sleeve Classic Jersey, L |15      |29.6945   |
+|47,427      |Full-Finger Gloves, L          |15      |20.8945   |
+|51,850      |Hitch Rack - 4-Bike            |15      |66        |
+|53,483      |Water Bottle - 30 oz.          |15      |2.7445    |
+|51,864      |Women's Mountain Shorts, L     |15      |38.4945   |
+|67,278      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|67,280      |Racing Socks, L                |15      |4.9445    |
+|67,287      |Sport-100 Helmet, Red          |15      |19.2445   |
+|53,475      |Sport-100 Helmet, Red          |15      |19.2445   |
+|53,472      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|58,950      |Road-350-W Yellow, 40          |15      |935.5445  |
+|67,295      |Women's Mountain Shorts, L     |15      |38.4945   |
+|55,324      |Sport-100 Helmet, Black        |15      |19.2445   |
+|67,298      |Touring-1000 Blue, 60          |15      |1,311.2385|
+|55,324      |Long-Sleeve Logo Jersey, L     |15      |27.4945   |
+|58,958      |Classic Vest, M                |15      |34.925    |
+|48,295      |Sport-100 Helmet, Blue         |15      |18.5043   |
+|67,305      |Touring-3000 Blue, 50          |15      |408.2925  |
+|67,314      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|58,958      |Short-Sleeve Classic Jersey, L |15      |29.6945   |
+|55,309      |Hydration Pack - 70 oz.        |15      |30.2445   |
+|69,401      |Classic Vest, S                |15      |34.925    |
+|48,313      |Full-Finger Gloves, L          |15      |20.8945   |
+|57,122      |Hitch Rack - 4-Bike            |15      |66        |
+|69,444      |Classic Vest, S                |15      |34.925    |
+|57,105      |Mountain-200 Black, 38         |15      |1,262.2445|
+|55,282      |Touring-1000 Blue, 60          |15      |1,311.2385|
+|46,672      |AWC Logo Cap                   |15      |4.7543    |
+|69,464      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|46,672      |Road-650 Red, 44               |15      |234.897   |
+|59,011      |Sport-100 Helmet, Blue         |15      |19.2445   |
+|55,268      |Classic Vest, M                |15      |34.925    |
+|59,061      |Racing Socks, L                |15      |4.9445    |
+|48,750      |Road-650 Black, 52             |15      |430.6445  |
+|71,783      |Classic Vest, S                |15      |34.925    |
+|71,783      |Sport-100 Helmet, Blue         |15      |19.2445   |
+|48,757      |Full-Finger Gloves, L          |15      |20.8945   |
+|71,797      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|59,074      |Half-Finger Gloves, M          |15      |13.4695   |
+|71,801      |Long-Sleeve Logo Jersey, L     |15      |27.4945   |
+|49,132      |Full-Finger Gloves, L          |15      |20.8945   |
+|61,199      |Women's Mountain Shorts, S     |15      |38.4945   |
+|55,243      |Short-Sleeve Classic Jersey, L |15      |29.6945   |
+|49,146      |Full-Finger Gloves, L          |15      |20.8945   |
+|57,067      |Hydration Pack - 70 oz.        |15      |30.2445   |
+|71,851      |Hydration Pack - 70 oz.        |15      |30.2445   |
+|71,952      |Women's Mountain Shorts, L     |15      |38.4945   |
+|46,957      |AWC Logo Cap                   |15      |4.7543    |
+|49,495      |Full-Finger Gloves, L          |15      |20.8945   |
+|49,851      |Sport-100 Helmet, Blue         |15      |18.5043   |
+|49,855      |Sport-100 Helmet, Blue         |15      |18.5043   |
+|53,616      |Long-Sleeve Logo Jersey, L     |15      |27.4945   |
+|49,890      |Sport-100 Helmet, Red          |15      |18.5043   |
+|46,981      |Road-250 Red, 44               |15      |1,343.8425|
+|46,981      |AWC Logo Cap                   |15      |4.7543    |
+|58,920      |Road-350-W Yellow, 40          |15      |935.5445  |
+|50,312      |Full-Finger Gloves, M          |15      |20.8945   |
+|46,668      |Road-650 Red, 48               |15      |430.6445  |
+|47,451      |ML Headset                     |15      |56.2595   |
+|50,663      |Women's Tights, L              |15      |41.2445   |
+|57,065      |Classic Vest, S                |15      |34.925    |
+|63,212      |Women's Mountain Shorts, L     |15      |38.4945   |
+|57,065      |Hydration Pack - 70 oz.        |15      |30.2445   |
+|47,451      |Full-Finger Gloves, L          |15      |20.8945   |
+|57,061      |Classic Vest, S                |15      |34.925    |
+|50,688      |HL Mountain Rear Wheel         |15      |179.9683  |
+|46,668      |AWC Logo Cap                   |15      |4.7543    |
+|46,652      |Women's Tights, S              |15      |41.2445   |
+|57,155      |Women's Mountain Shorts, S     |15      |38.4945   |
+|50,756      |Full-Finger Gloves, M          |15      |20.8945   |
+|53,552      |Women's Mountain Shorts, L     |15      |38.4945   |
+|51,090      |Long-Sleeve Logo Jersey, M     |15      |27.4945   |
+|51,090      |Classic Vest, S                |15      |34.925    |
+|51,092      |Sport-100 Helmet, Black        |15      |15.7455   |
+|47,450      |Road-650 Red, 62               |15      |430.6445  |
+|51,092      |Short-Sleeve Classic Jersey, S |15      |29.6945   |
+|51,092      |Classic Vest, S                |15      |34.925    |
+|51,096      |ML Road Frame-W - Yellow, 44   |15      |327.1565  |
+|44,795      |Mountain Bike Socks, M         |15      |5.225     |
+|51,109      |Touring-3000 Yellow, 44        |15      |334.0575  |
+|51,109      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|51,120      |Classic Vest, M                |15      |34.925    |
+|51,120      |Half-Finger Gloves, S          |15      |13.4695   |
+|53,535      |Touring-1000 Yellow, 60        |15      |953.628   |
+|57,057      |Women's Mountain Shorts, S     |15      |38.4945   |
+|51,123      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|51,131      |Sport-100 Helmet, Black        |15      |15.7455   |
+|51,132      |Road-350-W Yellow, 42          |15      |935.5445  |
+|51,138      |Touring-3000 Blue, 50          |15      |334.0575  |
+|51,140      |Classic Vest, S                |15      |34.925    |
+|51,143      |Short-Sleeve Classic Jersey, XL|15      |29.6945   |
+|51,151      |Sport-100 Helmet, Black        |15      |15.7455   |
+|47,441      |Mountain-200 Black, 42         |15      |1,127.004 |
+|57,051      |Classic Vest, S                |15      |34.925    |
+|51,160      |Classic Vest, M                |15      |34.925    |
+|51,168      |Half-Finger Gloves, M          |15      |13.4695   |
+|46,672      |Women's Tights, S              |14      |43.4942   |
+|51,154      |Classic Vest, M                |14      |36.83     |
+|53,460      |Hydration Pack - 70 oz.        |14      |31.8942   |
+|47,365      |Mountain-200 Black, 38         |14      |1,188.477 |
+|57,144      |Women's Mountain Shorts, L     |14      |40.5942   |
+|46,616      |Road-650 Black, 52             |14      |454.1342  |
+|57,046      |Sport-100 Helmet, Black        |14      |20.2942   |
+|51,735      |Touring-2000 Blue, 54          |14      |704.613   |
+|58,932      |Sport-100 Helmet, Red          |14      |20.2942   |
+|57,046      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|69,464      |Sport-100 Helmet, Blue         |14      |20.2942   |
+|51,090      |Sport-100 Helmet, Red          |14      |15.7455   |
+|57,122      |Classic Vest, S                |14      |36.83     |
+|53,458      |Touring-3000 Blue, 50          |14      |334.0575  |
+|51,090      |Classic Vest, M                |14      |36.83     |
+|53,480      |Classic Vest, S                |14      |36.83     |
+|47,031      |Long-Sleeve Logo Jersey, L     |14      |27.879    |
+|53,536      |Sport-100 Helmet, Black        |14      |20.2942   |
+|69,412      |Classic Vest, S                |14      |36.83     |
+|53,458      |HL Touring Frame - Yellow, 54  |14      |582.2678  |
+|55,297      |Women's Mountain Shorts, L     |14      |40.5942   |
+|67,278      |Sport-100 Helmet, Blue         |14      |20.2942   |
+|46,616      |Sport-100 Helmet, Blue         |14      |16.8221   |
+|53,454      |Classic Vest, S                |14      |36.83     |
+|47,359      |Women's Tights, L              |14      |43.4942   |
+|47,726      |Full-Finger Gloves, L          |14      |22.0342   |
+|55,297      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|53,524      |Short-Sleeve Classic Jersey, S |14      |31.3142   |
+|51,858      |Touring-3000 Yellow, 62        |14      |334.0575  |
+|58,974      |Half-Finger Gloves, M          |14      |14.2042   |
+|47,012      |AWC Logo Cap                   |14      |5.0136    |
+|53,613      |Hitch Rack - 4-Bike            |14      |69.6      |
+|51,160      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|69,399      |Classic Vest, S                |14      |36.83     |
+|55,303      |Road-350-W Yellow, 40          |14      |986.5742  |
+|51,855      |Classic Vest, S                |14      |36.83     |
+|58,971      |Sport-100 Helmet, Black        |14      |20.2942   |
+|51,105      |Racing Socks, L                |14      |5.2142    |
+|46,607      |Road-650 Red, 62               |14      |454.1342  |
+|71,839      |Water Bottle - 30 oz.          |14      |2.8942    |
+|67,348      |Women's Mountain Shorts, S     |14      |40.5942   |
+|51,850      |Sport-100 Helmet, Blue         |14      |20.2942   |
+|51,850      |Half-Finger Gloves, S          |14      |14.2042   |
+|46,607      |Road-650 Red, 48               |14      |454.1342  |
+|51,109      |Half-Finger Gloves, M          |14      |14.2042   |
+|51,154      |Long-Sleeve Logo Jersey, M     |14      |28.9942   |
+|53,535      |Touring-3000 Blue, 50          |14      |334.0575  |
+|47,708      |ML Headset                     |14      |59.3282   |
+|51,842      |AWC Logo Cap                   |14      |5.2142    |
+|48,341      |Women's Tights, L              |14      |43.4942   |
+|67,273      |Bike Wash - Dissolver          |14      |4.611     |
+|47,355      |Men's Sports Shorts, M         |14      |34.7942   |
+|46,981      |Road-650 Red, 44               |14      |234.897   |
+|47,400      |Men's Bib-Shorts, S            |14      |52.1942   |
+|51,117      |Racing Socks, M                |14      |5.2142    |
+|53,607      |Racing Socks, L                |14      |5.2142    |
+|46,997      |Road-650 Black, 52             |14      |454.1342  |
+|53,483      |Sport-100 Helmet, Red          |14      |20.2942   |
+|69,456      |Women's Mountain Shorts, S     |14      |40.5942   |
+|51,120      |Sport-100 Helmet, Black        |14      |15.7455   |
+|51,120      |Hydration Pack - 70 oz.        |14      |31.8942   |
+|67,347      |Sport-100 Helmet, Red          |14      |20.2942   |
+|63,133      |Classic Vest, S                |14      |36.83     |
+|53,524      |Sport-100 Helmet, Blue         |14      |20.2942   |
+|53,535      |Touring-1000 Yellow, 46        |14      |953.628   |
+|57,154      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|53,485      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|48,077      |Sport-100 Helmet, Blue         |14      |19.5136   |
+|47,355      |Half-Finger Gloves, M          |14      |13.6579   |
+|55,243      |Sport-100 Helmet, Black        |14      |20.2942   |
+|53,606      |Women's Mountain Shorts, L     |14      |40.5942   |
+|47,441      |Mountain-200 Black, 38         |14      |1,188.477 |
+|63,291      |Mountain-200 Silver, 46        |14      |1,345.5942|
+|45,553      |Mountain Bike Socks, M         |14      |5.51      |
+|69,526      |Hitch Rack - 4-Bike            |14      |69.6      |
+|46,062      |AWC Logo Cap                   |14      |5.0136    |
+|50,218      |Sport-100 Helmet, Black        |14      |19.5136   |
+|51,160      |HL Crankset                    |14      |234.8942  |
+|45,047      |Road-650 Black, 52             |14      |405.477   |
+|53,534      |Racing Socks, M                |14      |5.2142    |
+|51,124      |LL Mountain Frame - Silver, 42 |14      |153.149   |
+|51,832      |AWC Logo Cap                   |14      |5.2142    |
+|51,832      |Women's Mountain Shorts, S     |14      |40.5942   |
+|51,124      |Mountain-200 Silver, 38        |14      |1,345.5942|
+|46,645      |Full-Finger Gloves, L          |14      |22.0342   |
+|69,526      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|51,126      |Touring-3000 Yellow, 62        |14      |334.0575  |
+|46,957      |Sport-100 Helmet, Red          |14      |19.5136   |
+|55,309      |Classic Vest, S                |14      |36.83     |
+|55,311      |Classic Vest, S                |14      |36.83     |
+|47,004      |Long-Sleeve Logo Jersey, L     |14      |27.879    |
+|51,830      |Racing Socks, L                |14      |5.2142    |
+|46,647      |ML Mountain Frame - Black, 48  |14      |202.2808  |
+|51,828      |Classic Vest, S                |14      |36.83     |
+|50,226      |Sport-100 Helmet, Blue         |14      |19.5136   |
+|57,046      |Sport-100 Helmet, Red          |14      |20.2942   |
+|51,828      |AWC Logo Cap                   |14      |5.2142    |
+|53,524      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|51,131      |Sport-100 Helmet, Blue         |14      |15.7455   |
+|51,153      |Road-350-W Yellow, 40          |14      |986.5742  |
+|47,369      |Road-650 Black, 58             |14      |454.1342  |
+|51,131      |AWC Logo Cap                   |14      |5.2142    |
+|49,498      |Road-650 Red, 48               |14      |454.1342  |
+|57,154      |Classic Vest, S                |14      |36.83     |
+|46,385      |Road-650 Black, 52             |14      |405.477   |
+|58,971      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|67,339      |Bike Wash - Dissolver          |14      |4.611     |
+|50,245      |AWC Logo Cap                   |14      |5.0136    |
+|69,522      |AWC Logo Cap                   |14      |5.2142    |
+|43,884      |Mountain-100 Silver, 42        |14      |1,971.9942|
+|51,789      |Short-Sleeve Classic Jersey, S |14      |31.3142   |
+|49,501      |Full-Finger Gloves, L          |14      |22.0342   |
+|47,004      |AWC Logo Cap                   |14      |5.0136    |
+|51,169      |AWC Logo Cap                   |14      |5.2142    |
+|51,775      |Racing Socks, M                |14      |5.2142    |
+|51,169      |Sport-100 Helmet, Blue         |14      |15.7455   |
+|49,513      |Full-Finger Gloves, L          |14      |22.0342   |
+|69,533      |Women's Mountain Shorts, S     |14      |40.5942   |
+|51,140      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|50,280      |AWC Logo Cap                   |14      |5.0136    |
+|47,694      |Road-650 Red, 60               |14      |454.1342  |
+|57,125      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|51,140      |Hitch Rack - 4-Bike            |14      |69.6      |
+|51,773      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|69,522      |Classic Vest, M                |14      |36.83     |
+|51,769      |Road-350-W Yellow, 40          |14      |986.5742  |
+|58,958      |AWC Logo Cap                   |14      |5.2142    |
+|67,268      |Classic Vest, S                |14      |36.83     |
+|45,341      |Mountain Bike Socks, M         |14      |5.51      |
+|47,422      |Sport-100 Helmet, Red          |14      |19.5136   |
+|51,140      |Bike Wash - Dissolver          |14      |4.611     |
+|65,164      |Classic Vest, S                |14      |36.83     |
+|69,540      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|51,721      |ML Mountain Handlebars         |14      |35.9136   |
+|53,513      |Half-Finger Gloves, M          |14      |14.2042   |
+|67,325      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|51,143      |Sport-100 Helmet, Red          |14      |15.7455   |
+|51,169      |Hydration Pack - 70 oz.        |14      |31.8942   |
+|48,336      |Sport-100 Helmet, Blue         |14      |19.5136   |
+|67,325      |Bike Wash - Dissolver          |14      |4.611     |
+|51,143      |Half-Finger Gloves, M          |14      |14.2042   |
+|48,033      |Road-650 Red, 44               |14      |454.1342  |
+|57,051      |Bike Wash - Dissolver          |14      |4.611     |
+|69,444      |Water Bottle - 30 oz.          |14      |2.8942    |
+|47,666      |Full-Finger Gloves, L          |14      |22.0342   |
+|53,530      |Sport-100 Helmet, Red          |14      |20.2942   |
+|65,312      |Women's Mountain Shorts, S     |14      |40.5942   |
+|53,530      |Classic Vest, M                |14      |36.83     |
+|51,748      |Hydration Pack - 70 oz.        |14      |31.8942   |
+|65,310      |Classic Vest, S                |14      |36.83     |
+|55,275      |Women's Mountain Shorts, L     |14      |40.5942   |
+|55,294      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|47,369      |Road-650 Red, 44               |14      |454.1342  |
+|51,147      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|51,748      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|67,316      |AWC Logo Cap                   |14      |5.2142    |
+|57,051      |Sport-100 Helmet, Blue         |14      |20.2942   |
+|51,154      |Hitch Rack - 4-Bike            |14      |69.6      |
+|51,721      |Sport-100 Helmet, Black        |14      |20.2942   |
+|47,012      |Men's Bib-Shorts, M            |14      |52.1942   |
+|65,207      |Classic Vest, S                |14      |36.83     |
+|67,316      |Sport-100 Helmet, Black        |14      |20.2942   |
+|51,748      |Classic Vest, M                |14      |36.83     |
+|51,151      |Classic Vest, S                |14      |36.83     |
+|53,530      |Half-Finger Gloves, M          |14      |14.2042   |
+|71,844      |Hitch Rack - 4-Bike            |14      |69.6      |
+|53,527      |Classic Vest, S                |14      |36.83     |
+|69,520      |Women's Mountain Shorts, L     |14      |40.5942   |
+|47,663      |Road-650 Red, 44               |14      |454.1342  |
+|47,369      |Sport-100 Helmet, Black        |14      |19.5136   |
+|50,663      |Sport-100 Helmet, Blue         |14      |19.5136   |
+|51,157      |AWC Logo Cap                   |14      |5.2142    |
+|71,794      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|71,794      |Front Derailleur               |14      |53.0642   |
+|46,657      |AWC Logo Cap                   |14      |5.0136    |
+|50,663      |AWC Logo Cap                   |14      |5.0136    |
+|55,323      |Half-Finger Gloves, M          |14      |14.2042   |
+|71,794      |Sport-100 Helmet, Red          |14      |20.2942   |
+|55,252      |Classic Vest, S                |14      |36.83     |
+|57,086      |AWC Logo Cap                   |14      |5.2142    |
+|69,437      |Hitch Rack - 4-Bike            |14      |69.6      |
+|51,739      |Hydration Pack - 70 oz.        |14      |31.8942   |
+|49,831      |Sport-100 Helmet, Red          |14      |19.5136   |
+|55,323      |Sport-100 Helmet, Red          |14      |20.2942   |
+|61,240      |Classic Vest, S                |14      |36.83     |
+|69,511      |Water Bottle - 30 oz.          |14      |2.8942    |
+|71,801      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|47,400      |HL Fork                        |14      |133.1042  |
+|65,189      |Classic Vest, S                |14      |36.83     |
+|71,921      |Racing Socks, L                |14      |5.2142    |
+|55,254      |Water Bottle - 30 oz.          |14      |2.8942    |
+|48,755      |Full-Finger Gloves, M          |14      |22.0342   |
+|47,400      |Cable Lock                     |14      |14.5      |
+|47,400      |Sport-100 Helmet, Black        |14      |19.5136   |
+|65,238      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|71,923      |Racing Socks, L                |14      |5.2142    |
+|71,805      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|55,254      |Sport-100 Helmet, Blue         |14      |20.2942   |
+|47,980      |Road-650 Black, 52             |14      |454.1342  |
+|51,168      |Sport-100 Helmet, Black        |14      |15.7455   |
+|46,657      |Long-Sleeve Logo Jersey, L     |14      |27.879    |
+|48,333      |Full-Finger Gloves, L          |14      |22.0342   |
+|48,295      |Long-Sleeve Logo Jersey, M     |14      |27.879    |
+|71,841      |Women's Mountain Shorts, L     |14      |40.5942   |
+|48,295      |Road-650 Red, 44               |14      |454.1342  |
+|69,426      |Bike Wash - Dissolver          |14      |4.611     |
+|71,808      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|69,560      |Women's Mountain Shorts, L     |14      |40.5942   |
+|50,668      |Full-Finger Gloves, L          |14      |22.0342   |
+|46,657      |Sport-100 Helmet, Black        |14      |16.8221   |
+|55,249      |Short-Sleeve Classic Jersey, XL|14      |31.3142   |
+|55,324      |Half-Finger Gloves, M          |14      |14.2042   |
+|71,936      |Women's Mountain Shorts, S     |14      |40.5942   |
+|53,570      |Short-Sleeve Classic Jersey, S |14      |31.3142   |
+|71,829      |Women's Mountain Shorts, L     |14      |40.5942   |
+|48,363      |Long-Sleeve Logo Jersey, L     |14      |27.879    |
+|69,540      |Sport-100 Helmet, Black        |14      |20.2942   |
+|69,511      |Hydration Pack - 70 oz.        |14      |31.8942   |
+|57,067      |Water Bottle - 30 oz.          |14      |2.8942    |
+|71,830      |AWC Logo Cap                   |14      |5.2142    |
+|48,378      |AWC Logo Cap                   |14      |5.0136    |
+|49,100      |Road-650 Red, 44               |14      |454.1342  |
+|55,249      |Hitch Rack - 4-Bike            |14      |69.6      |
+|57,046      |Bike Wash - Dissolver          |14      |4.611     |
+|55,324      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|61,248      |Classic Vest, S                |14      |36.83     |
+|49,100      |Road-650 Red, 60               |14      |454.1342  |
+|71,839      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|55,268      |Classic Vest, S                |14      |36.83     |
+|71,839      |AWC Logo Cap                   |14      |5.2142    |
+|49,848      |Full-Finger Gloves, L          |14      |22.0342   |
+|69,426      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|69,426      |Hitch Rack - 4-Bike            |14      |69.6      |
+|48,005      |Sport-100 Helmet, Black        |14      |19.5136   |
+|49,849      |Full-Finger Gloves, M          |14      |22.0342   |
+|57,061      |Hitch Rack - 4-Bike            |14      |69.6      |
+|58,943      |Road-350-W Yellow, 48          |14      |986.5742  |
+|71,851      |Classic Vest, S                |14      |36.83     |
+|53,524      |Water Bottle - 30 oz.          |14      |2.8942    |
+|47,716      |Long-Sleeve Logo Jersey, L     |14      |27.879    |
+|53,465      |Half-Finger Gloves, M          |14      |14.2042   |
+|51,711      |HL Mountain Pedal              |14      |46.9742   |
+|69,479      |Classic Vest, S                |14      |36.83     |
+|53,616      |Road-350-W Yellow, 48          |14      |986.5742  |
+|55,328      |Classic Vest, M                |14      |36.83     |
+|51,157      |Bike Wash - Dissolver          |14      |4.611     |
+|53,465      |Half-Finger Gloves, S          |14      |14.2042   |
+|55,277      |Women's Mountain Shorts, S     |14      |40.5942   |
+|55,294      |Classic Vest, S                |14      |36.83     |
+|63,283      |Women's Mountain Shorts, L     |14      |40.5942   |
+|53,465      |Long-Sleeve Logo Jersey, M     |14      |28.9942   |
+|57,122      |Long-Sleeve Logo Jersey, L     |14      |28.9942   |
+|47,365      |Women's Tights, S              |14      |43.4942   |
+|58,943      |Road-350-W Yellow, 40          |14      |986.5742  |
+|50,727      |Road-650 Red, 60               |14      |454.1342  |
+|47,708      |ML Mountain Frame - Black, 48  |14      |202.2808  |
+|46,607      |Road-550-W Yellow, 48          |14      |580.2538  |
+|53,563      |Racing Socks, L                |14      |5.2142    |
+|57,168      |Racing Socks, L                |14      |5.2142    |
+|46,607      |Road-650 Red, 60               |14      |454.1342  |
+|71,949      |Short-Sleeve Classic Jersey, L |14      |31.3142   |
+|53,562      |Classic Vest, S                |14      |36.83     |
+|46,993      |AWC Logo Cap                   |14      |5.0136    |
+|69,422      |Sport-100 Helmet, Black        |14      |20.2942   |
+|53,465      |Bike Wash - Dissolver          |14      |4.611     |
+|58,918      |Hitch Rack - 4-Bike            |13      |69.6      |
+|61,195      |Road-350-W Yellow, 48          |13      |986.5742  |
+|55,248      |Classic Vest, S                |13      |36.83     |
+|59,021      |Women's Mountain Shorts, S     |13      |40.5942   |
+|71,839      |Sport-100 Helmet, Red          |13      |20.2942   |
+|59,012      |Classic Vest, S                |13      |36.83     |
+|51,739      |Front Derailleur               |13      |53.0642   |
+|71,844      |Sport-100 Helmet, Blue         |13      |20.2942   |
+|55,269      |Sport-100 Helmet, Red          |13      |20.2942   |
+|51,739      |Long-Sleeve Logo Jersey, M     |13      |28.9942   |
+|57,099      |Classic Vest, S                |13      |36.83     |
+|58,909      |Road-350-W Yellow, 40          |13      |986.5742  |
+|46,953      |Sport-100 Helmet, Blue         |13      |19.5136   |
+|71,886      |Women's Mountain Shorts, L     |13      |40.5942   |
+|71,889      |Sport-100 Helmet, Blue         |13      |20.2942   |
+|46,953      |Long-Sleeve Logo Jersey, M     |13      |27.879    |
+|69,522      |Sport-100 Helmet, Black        |13      |20.2942   |
+|61,215      |Racing Socks, L                |13      |5.2142    |
+|71,935      |Racing Socks, L                |13      |5.2142    |
+|48,359      |Road-650 Red, 44               |13      |454.1342  |
+|69,505      |Women's Mountain Shorts, S     |13      |40.5942   |
+|49,166      |Full-Finger Gloves, M           |13      |22.0342   |
+|47,681      |Full-Finger Gloves, M           |13      |22.0342   |
+|46,652      |Minipump                        |13      |11.5942   |
+|69,464      |Water Bottle - 30 oz.           |13      |2.8942    |
+|57,105      |Mountain-200 Silver, 38         |13      |1,345.5942|
+|49,490      |Women's Tights, L               |13      |43.4942   |
+|69,454      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|46,957      |Full-Finger Gloves, M           |13      |22.0342   |
+|55,287      |Women's Mountain Shorts, L      |13      |40.5942   |
+|55,291      |Touring-1000 Yellow, 60         |13      |1,382.7606|
+|46,672      |Long-Sleeve Logo Jersey, M      |13      |27.879    |
+|58,981      |AWC Logo Cap                    |13      |5.2142    |
+|69,444      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|49,827      |Men's Sports Shorts, M          |13      |34.7942   |
+|47,712      |Road-650 Black, 52              |13      |454.1342  |
+|69,437      |Sport-100 Helmet, Blue          |13      |20.2942   |
+|69,437      |Women's Mountain Shorts, S      |13      |40.5942   |
+|58,909      |Road-350-W Yellow, 48           |13      |986.5742  |
+|49,831      |Sport-100 Helmet, Black         |13      |19.5136   |
+|46,967      |Minipump                        |13      |11.5942   |
+|55,294      |Sport-100 Helmet, Black         |13      |20.2942   |
+|48,321      |Full-Finger Gloves, M           |13      |22.0342   |
+|55,294      |Half-Finger Gloves, M           |13      |14.2042   |
+|49,844      |Road-650 Red, 60                |13      |454.1342  |
+|61,248      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|48,311      |Road-650 Red, 44                |13      |454.1342  |
+|51,731      |Racing Socks, L                 |13      |5.2142    |
+|58,920      |Road-350-W Yellow, 48           |13      |986.5742  |
+|69,422      |Classic Vest, S                 |13      |36.83     |
+|49,865      |Road-650 Red, 62                |13      |454.1342  |
+|69,422      |Hydration Pack - 70 oz.         |13      |31.8942   |
+|53,616      |Bike Wash - Dissolver           |13      |4.611     |
+|69,422      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|55,295      |Racing Socks, L                 |13      |5.2142    |
+|55,297      |Classic Vest, M                 |13      |36.83     |
+|55,297      |Sport-100 Helmet, Blue          |13      |20.2942   |
+|53,518      |Water Bottle - 30 oz.           |13      |2.8942    |
+|58,971      |Classic Vest, S                 |13      |36.83     |
+|55,309      |Bike Wash - Dissolver           |13      |4.611     |
+|50,203      |Road-650 Black, 58              |13      |454.1342  |
+|46,616      |ML Road Frame-W - Yellow, 44    |13      |313.6376  |
+|58,908      |Water Bottle - 30 oz.           |13      |2.8942    |
+|67,347      |Sport-100 Helmet, Black         |13      |20.2942   |
+|43,875      |Mountain-100 Black, 38          |13      |1,957.4942|
+|50,222      |Long-Sleeve Logo Jersey, M      |13      |27.879    |
+|50,222      |Road-650 Red, 60                |13      |454.1342  |
+|63,149      |Women's Mountain Shorts, S      |13      |40.5942   |
+|67,343      |Sport-100 Helmet, Red           |13      |20.2942   |
+|47,400      |Long-Sleeve Logo Jersey, XL     |13      |27.879    |
+|53,598      |Racing Socks, L                 |13      |5.2142    |
+|50,236      |Full-Finger Gloves, L           |13      |22.0342   |
+|55,311      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|67,339      |Hitch Rack - 4-Bike             |13      |69.6      |
+|67,339      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|50,280      |Sport-100 Helmet, Blue          |13      |19.5136   |
+|58,963      |Women's Mountain Shorts, S      |13      |40.5942   |
+|48,306      |Mountain-200 Silver, 42         |13      |1,201.4234|
+|47,705      |Road-650 Red, 62                |13      |454.1342  |
+|50,301      |Full-Finger Gloves, L           |13      |22.0342   |
+|48,299      |Long-Sleeve Logo Jersey, L      |13      |27.879    |
+|67,324      |Water Bottle - 30 oz.           |13      |2.8942    |
+|50,311      |Road-650 Red, 44                |13      |454.1342  |
+|67,324      |Hydration Pack - 70 oz.         |13      |31.8942   |
+|48,295      |Men's Bib-Shorts, M             |13      |52.1942   |
+|50,662      |Full-Finger Gloves, L           |13      |22.0342   |
+|51,721      |Short-Sleeve Classic Jersey, S  |13      |31.3142   |
+|51,721      |Mountain-200 Black, 38          |13      |1,331.0942|
+|46,987      |LL Mountain Front Wheel         |13      |35.2321   |
+|67,316      |Sport-100 Helmet, Red           |13      |20.2942   |
+|50,663      |Women's Tights, S               |13      |43.4942   |
+|67,314      |Bike Wash - Dissolver           |13      |4.611     |
+|47,696      |ML Headset                      |13      |59.3282   |
+|47,422      |Road-650 Red, 60                |13      |454.1342  |
+|53,573      |Mountain-200 Silver, 38         |13      |1,345.5942|
+|55,324      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|46,616      |Road-650 Black, 58              |13      |454.1342  |
+|67,305      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|53,570      |Half-Finger Gloves, M           |13      |14.2042   |
+|50,676      |Full-Finger Gloves, L           |13      |22.0342   |
+|46,669      |Road-650 Black, 58              |13      |454.1342  |
+|67,294      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|58,944      |Women's Mountain Shorts, L      |13      |40.5942   |
+|67,290      |Racing Socks, L                 |13      |5.2142    |
+|63,216      |Classic Vest, S                 |13      |36.83     |
+|67,289      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|53,472      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|53,570      |Bike Wash - Dissolver           |13      |4.611     |
+|53,472      |Bike Wash - Dissolver           |13      |4.611     |
+|53,472      |Road-550-W Yellow, 38           |13      |649.8842  |
+|48,066      |Full-Finger Gloves, L           |13      |22.0342   |
+|46,988      |Road-650 Red, 44                |13      |234.897   |
+|53,568      |Racing Socks, L                 |13      |5.2142    |
+|65,195      |Women's Mountain Shorts, L      |13      |40.5942   |
+|44,547      |Road-450 Red, 58                |13      |845.6342  |
+|67,289      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|48,036      |Road-650 Red, 48                |13      |454.1342  |
+|53,465      |Women's Mountain Shorts, L      |13      |40.5942   |
+|53,465      |Water Bottle - 30 oz.           |13      |2.8942    |
+|50,743      |Full-Finger Gloves, M           |13      |22.0342   |
+|67,289      |AWC Logo Cap                    |13      |5.2142    |
+|53,464      |Racing Socks, L                 |13      |5.2142    |
+|46,993      |Men's Sports Shorts, M          |13      |34.7942   |
+|46,993      |Women's Tights, L               |13      |43.4942   |
+|67,284      |Women's Mountain Shorts, L      |13      |40.5942   |
+|53,458      |Touring-3000 Yellow, 50         |13      |334.0575  |
+|53,458      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|65,200      |Women's Mountain Shorts, S      |13      |40.5942   |
+|47,359      |Sport-100 Helmet, Blue          |13      |19.5136   |
+|51,703      |Sport-100 Helmet, Red           |13      |20.2942   |
+|51,092      |Road-750 Black, 52              |13      |313.1942  |
+|51,160      |Sport-100 Helmet, Black         |13      |15.7455   |
+|48,089      |Full-Finger Gloves, M           |13      |22.0342   |
+|67,277      |Women's Mountain Shorts, S      |13      |40.5942   |
+|51,857      |Front Brakes                    |13      |61.77     |
+|67,276      |Women's Mountain Shorts, S      |13      |40.5942   |
+|43,898      |Road-650 Black, 52              |13      |405.477   |
+|51,850      |Long-Sleeve Logo Jersey, M      |13      |28.9942   |
+|51,108      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|51,168      |Classic Vest, M                 |13      |36.83     |
+|58,931      |Hydration Pack - 70 oz.         |13      |31.8942   |
+|67,274      |Women's Mountain Shorts, L      |13      |40.5942   |
+|51,845      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|51,168      |Short-Sleeve Classic Jersey, S  |13      |31.3142   |
+|51,839      |Water Bottle - 30 oz.           |13      |2.8942    |
+|47,355      |Minipump                        |13      |11.5942   |
+|51,117      |Racing Socks, L                 |13      |5.2142    |
+|46,616      |Road-650 Red, 44                |13      |234.897   |
+|58,931      |Classic Vest, M                 |13      |36.83     |
+|51,837      |Touring-1000 Blue, 60           |13      |1,382.7606|
+|51,837      |Sport-100 Helmet, Blue          |13      |20.2942   |
+|47,004      |Women's Tights, L               |13      |43.4942   |
+|63,291      |Women's Mountain Shorts, S      |13      |40.5942   |
+|58,927      |Road-350-W Yellow, 48           |13      |986.5742  |
+|53,485      |Hitch Rack - 4-Bike             |13      |69.6      |
+|51,123      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|51,160      |HL Mountain Pedal               |13      |46.9742   |
+|51,123      |Long-Sleeve Logo Jersey, M      |13      |28.9942   |
+|51,126      |Touring-3000 Blue, 50           |13      |334.0575  |
+|47,004      |Women's Tights, S               |13      |43.4942   |
+|51,126      |Touring-1000 Blue, 46           |13      |1,382.7606|
+|51,830      |Classic Vest, S                 |13      |36.83     |
+|57,023      |Bike Wash - Dissolver           |13      |4.611     |
+|46,616      |AWC Logo Cap                    |13      |5.0136    |
+|53,485      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|51,826      |Touring-1000 Blue, 60           |13      |1,382.7606|
+|51,824      |Women's Mountain Shorts, L      |13      |40.5942   |
+|51,822      |LL Mountain Frame - Silver, 42  |13      |153.149   |
+|51,814      |Touring-1000 Blue, 46           |13      |1,382.7606|
+|51,814      |Touring-1000 Yellow, 60         |13      |953.628   |
+|48,077      |Women's Tights, L               |13      |43.4942   |
+|51,810      |Sport-100 Helmet, Black         |13      |20.2942   |
+|51,810      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|51,789      |HL Touring Frame - Yellow, 54   |13      |582.2678  |
+|58,932      |Touring-1000 Blue, 60           |13      |1,382.7606|
+|51,132      |Road-750 Black, 52              |13      |313.1942  |
+|51,774      |Short-Sleeve Classic Jersey, S  |13      |31.3142   |
+|51,774      |Sport-100 Helmet, Blue          |13      |20.2942   |
+|51,140      |Water Bottle - 30 oz.           |13      |2.8942    |
+|53,530      |Long-Sleeve Logo Jersey, L      |13      |28.9942   |
+|51,770      |Racing Socks, L                 |13      |5.2142    |
+|51,168      |Long-Sleeve Logo Jersey, L      |13      |28.9942   |
+|51,140      |Half-Finger Gloves, M           |13      |14.2042   |
+|53,513      |Short-Sleeve Classic Jersey, S  |13      |31.3142   |
+|51,761      |Touring-3000 Yellow, 62         |13      |334.0575  |
+|45,786      |Road-650 Black, 52              |13      |405.477   |
+|51,761      |Bike Wash - Dissolver           |13      |4.611     |
+|46,669      |Long-Sleeve Logo Jersey, L      |13      |27.879    |
+|51,761      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|43,879      |AWC Logo Cap                    |13      |5.0136    |
+|51,143      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|47,008      |Sport-100 Helmet, Blue          |13      |19.5136   |
+|58,931      |Half-Finger Gloves, M           |13      |14.2042   |
+|47,450      |Road-650 Red, 44                |13      |454.1342  |
+|53,530      |Sport-100 Helmet, Blue          |13      |20.2942   |
+|47,012      |Women's Tights, L               |13      |43.4942   |
+|51,151      |Road-350-W Yellow, 48           |13      |986.5742  |
+|51,745      |Racing Socks, M                 |13      |5.2142    |
+|53,513      |Touring-1000 Yellow, 60         |13      |953.628   |
+|51,151      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|53,518      |Women's Mountain Shorts, S      |13      |40.5942   |
+|51,151      |Long-Sleeve Logo Jersey, M      |13      |28.9942   |
+|71,794      |Classic Vest, M                 |13      |36.83     |
+|55,252      |Women's Mountain Shorts, L      |13      |40.5942   |
+|47,456      |Full-Finger Gloves, M           |13      |22.0342   |
+|55,251      |Women's Mountain Shorts, S      |13      |40.5942   |
+|46,086      |Sport-100 Helmet, Black         |13      |19.5136   |
+|57,098      |Women's Mountain Shorts, L      |13      |40.5942   |
+|55,254      |Long-Sleeve Logo Jersey, L      |13      |28.9942   |
+|57,086      |Short-Sleeve Classic Jersey, XL |13      |31.3142   |
+|55,249      |Sport-100 Helmet, Red           |13      |20.2942   |
+|71,783      |Road-350-W Yellow, 42           |13      |986.5742  |
+|55,257      |Racing Socks, L                 |13      |5.2142    |
+|47,458      |Full-Finger Gloves, M           |13      |22.0342   |
+|47,685      |Full-Finger Gloves, L           |13      |22.0342   |
+|71,806      |Women's Mountain Shorts, L      |13      |40.5942   |
+|71,808      |Sport-100 Helmet, Black         |13      |20.2942   |
+|59,064      |ML Mountain Frame-W - Silver, 40|13      |211.1722  |
+|69,561      |Women's Mountain Shorts, L      |13      |40.5942   |
+|46,086      |Long-Sleeve Logo Jersey, L      |13      |27.879    |
+|49,095      |Mountain-300 Black, 48          |13      |626.3942  |
+|55,249      |Short-Sleeve Classic Jersey, L  |13      |31.3142   |
+|71,824      |Road-350-W Yellow, 48           |13      |986.5742  |
+|48,392      |Sport-100 Helmet, Black         |13      |19.5136   |
+|59,040      |Touring-1000 Blue, 60           |13      |1,382.7606|
+|59,029      |Women's Mountain Shorts, S      |13      |40.5942   |
+|49,095      |Mountain-300 Black, 40          |13      |626.3942  |
+|47,662      |Long-Sleeve Logo Jersey, L      |13      |27.879    |
+|71,832      |Women's Mountain Shorts, S      |13      |40.5942   |
+|71,836      |Women's Mountain Shorts, S      |13      |40.5942   |
+|57,143      |Touring-1000 Blue, 46           |12      |1,382.7606|
+|46,657      |HL Mountain Rear Wheel          |12      |189.7847  |
+|57,154      |Classic Vest, M                 |12      |36.83     |
+|47,685      |Full-Finger Gloves, M           |12      |22.0342   |
+|58,918      |ML Mountain Seat/Saddle         |12      |22.7012   |
+|58,918      |Women's Mountain Shorts, L      |12      |40.5942   |
+|47,694      |Road-650 Black, 58              |12      |454.1342  |
+|58,920      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|46,657      |ML Headset                      |12      |59.3282   |
+|58,920      |Sport-100 Helmet, Black         |12      |20.2942   |
+|58,922      |Classic Vest, S                 |12      |36.83     |
+|58,927      |Water Bottle - 30 oz.           |12      |2.8942    |
+|58,927      |Bike Wash - Dissolver           |12      |4.611     |
+|58,927      |Sport-100 Helmet, Red           |12      |20.2942   |
+|47,696      |ML Mountain Handlebars          |12      |32.6487   |
+|58,932      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|47,700      |Women's Tights, S               |12      |43.4942   |
+|58,932      |Classic Vest, S                 |12      |36.83     |
+|58,932      |Hitch Rack - 4-Bike             |12      |69.6      |
+|58,944      |Women's Mountain Shorts, S      |12      |40.5942   |
+|58,946      |Touring-2000 Blue, 54           |12      |704.613   |
+|58,951      |Women's Mountain Shorts, S      |12      |40.5942   |
+|46,660      |Road-650 Red, 60                |12      |454.1342  |
+|58,958      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|58,958      |Half-Finger Gloves, M           |12      |14.2042   |
+|58,971      |Bike Wash - Dissolver           |12      |4.611     |
+|47,705      |Women's Tights, L               |12      |43.4942   |
+|47,708      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|58,978      |Women's Mountain Shorts, S      |12      |40.5942   |
+|58,981      |Classic Vest, S                 |12      |36.83     |
+|58,981      |Sport-100 Helmet, Red           |12      |20.2942   |
+|59,011      |Bike Wash - Dissolver           |12      |4.611     |
+|47,716      |Women's Tights, S               |12      |43.4942   |
+|59,074      |Water Bottle - 30 oz.           |12      |2.8942    |
+|46,662      |Road-650 Black, 52              |12      |454.1342  |
+|61,182      |Women's Mountain Shorts, S      |12      |40.5942   |
+|47,724      |Sport-100 Helmet, Red           |12      |19.5136   |
+|47,724      |Road-650 Black, 52              |12      |454.1342  |
+|61,190      |AWC Logo Cap                    |12      |5.2142    |
+|61,193      |Racing Socks, L                 |12      |5.2142    |
+|61,199      |Mountain-200 Black, 42          |12      |1,331.0942|
+|46,662      |Women's Tights, L               |12      |43.4942   |
+|61,218      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|61,228      |Classic Vest, S                 |12      |36.83     |
+|47,980      |Women's Tights, S               |12      |43.4942   |
+|61,263      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|47,986      |Mountain-200 Silver, 38         |12      |1,201.4234|
+|63,157      |Women's Mountain Shorts, S      |12      |40.5942   |
+|63,171      |Touring-1000 Blue, 60           |12      |1,382.7606|
+|47,991      |Full-Finger Gloves, L           |12      |22.0342   |
+|63,179      |Classic Vest, S                 |12      |36.83     |
+|46,668      |Women's Tights, L               |12      |43.4942   |
+|47,997      |Full-Finger Gloves, L           |12      |22.0342   |
+|63,223      |Water Bottle - 30 oz.           |12      |2.8942    |
+|48,017      |Women's Tights, L               |12      |43.4942   |
+|48,017      |Sport-100 Helmet, Blue          |12      |19.5136   |
+|48,023      |Road-650 Red, 44                |12      |454.1342  |
+|63,291      |Mountain-200 Silver, 38         |12      |1,345.5942|
+|45,783      |Mountain Bike Socks, M          |12      |5.51      |
+|48,033      |Women's Tights, S               |12      |43.4942   |
+|65,173      |Racing Socks, L                 |12      |5.2142    |
+|48,036      |AWC Logo Cap                    |12      |5.0136    |
+|65,177      |Classic Vest, S                 |12      |36.83     |
+|48,036      |Women's Tights, L               |12      |43.4942   |
+|65,210      |Classic Vest, S                 |12      |36.83     |
+|48,049      |Full-Finger Gloves, L           |12      |22.0342   |
+|65,232      |Women's Mountain Shorts, L      |12      |40.5942   |
+|65,257      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|67,260      |Classic Vest, S                 |12      |36.83     |
+|67,268      |AWC Logo Cap                    |12      |5.2142    |
+|67,268      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|67,268      |Hitch Rack - 4-Bike             |12      |69.6      |
+|48,076      |Full-Finger Gloves, M           |12      |22.0342   |
+|67,270      |Road-350-W Yellow, 40           |12      |986.5742  |
+|67,272      |Women's Mountain Shorts, S      |12      |40.5942   |
+|67,273      |Water Bottle - 30 oz.           |12      |2.8942    |
+|67,273      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|67,287      |Racing Socks, L                 |12      |5.2142    |
+|67,289      |Classic Vest, S                 |12      |36.83     |
+|67,289      |Bike Wash - Dissolver           |12      |4.611     |
+|67,292      |Racing Socks, M                 |12      |5.2142    |
+|67,294      |AWC Logo Cap                    |12      |5.2142    |
+|67,294      |Classic Vest, S                 |12      |36.83     |
+|67,294      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|67,294      |Water Bottle - 30 oz.           |12      |2.8942    |
+|67,294      |Hitch Rack - 4-Bike             |12      |69.6      |
+|67,294      |Bike Wash - Dissolver           |12      |4.611     |
+|67,295      |HL Mountain Pedal               |12      |46.9742   |
+|67,297      |Mountain-200 Black, 38          |12      |1,331.0942|
+|67,305      |Touring-3000 Yellow, 44         |12      |430.563   |
+|67,305      |Water Bottle - 30 oz.           |12      |2.8942    |
+|48,295      |Men's Sports Shorts, S          |12      |34.7942   |
+|67,305      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|67,314      |Hitch Rack - 4-Bike             |12      |69.6      |
+|67,316      |Bike Wash - Dissolver           |12      |4.611     |
+|67,316      |Classic Vest, M                 |12      |36.83     |
+|67,324      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|67,325      |AWC Logo Cap                    |12      |5.2142    |
+|67,325      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|48,306      |Mountain-200 Silver, 46         |12      |1,201.4234|
+|67,327      |AWC Logo Cap                    |12      |5.2142    |
+|67,339      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|46,671      |Long-Sleeve Logo Jersey, M      |12      |27.879    |
+|67,343      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|67,347      |Hitch Rack - 4-Bike             |12      |69.6      |
+|67,347      |Water Bottle - 30 oz.           |12      |2.8942    |
+|46,671      |Road-650 Red, 48                |12      |454.1342  |
+|67,349      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|67,349      |Classic Vest, M                 |12      |36.83     |
+|67,349      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|48,307      |Sport-100 Helmet, Red           |12      |19.5136   |
+|48,307      |Sport-100 Helmet, Black         |12      |19.5136   |
+|69,401      |Hitch Rack - 4-Bike             |12      |69.6      |
+|69,404      |Women's Mountain Shorts, S      |12      |40.5942   |
+|69,413      |Women's Mountain Shorts, L      |12      |40.5942   |
+|69,422      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|69,422      |AWC Logo Cap                    |12      |5.2142    |
+|69,422      |Sport-100 Helmet, Red           |12      |20.2942   |
+|46,672      |Long-Sleeve Logo Jersey, XL     |12      |27.879    |
+|69,426      |Classic Vest, M                 |12      |36.83     |
+|48,321      |Full-Finger Gloves, L           |12      |22.0342   |
+|69,437      |AWC Logo Cap                    |12      |5.2142    |
+|69,442      |Water Bottle - 30 oz.           |12      |2.8942    |
+|69,442      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|69,444      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|69,454      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|48,336      |Road-650 Red, 60                |12      |454.1342  |
+|69,454      |AWC Logo Cap                    |12      |5.2142    |
+|48,336      |Women's Tights, S               |12      |43.4942   |
+|69,454      |Hitch Rack - 4-Bike             |12      |69.6      |
+|48,336      |AWC Logo Cap                    |12      |5.0136    |
+|69,462      |Racing Socks, M                 |12      |5.2142    |
+|48,341      |Sport-100 Helmet, Blue          |12      |19.5136   |
+|69,464      |Hitch Rack - 4-Bike             |12      |69.6      |
+|48,341      |Sport-100 Helmet, Black         |12      |19.5136   |
+|44,518      |Mountain-100 Black, 42          |12      |1,957.4942|
+|48,363      |AWC Logo Cap                    |12      |5.0136    |
+|69,526      |Bike Wash - Dissolver           |12      |4.611     |
+|69,526      |Water Bottle - 30 oz.           |12      |2.8942    |
+|69,528      |Classic Vest, S                 |12      |36.83     |
+|48,375      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|48,378      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|69,535      |Touring-3000 Yellow, 44         |12      |430.563   |
+|69,540      |Water Bottle - 30 oz.           |12      |2.8942    |
+|48,378      |Road-650 Red, 44                |12      |454.1342  |
+|69,540      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|46,930      |Full-Finger Gloves, L           |12      |22.0342   |
+|69,540      |Classic Vest, S                 |12      |36.83     |
+|69,545      |Classic Vest, S                 |12      |36.83     |
+|69,558      |Touring-1000 Yellow, 46         |12      |1,382.7606|
+|48,730      |Full-Finger Gloves, M           |12      |22.0342   |
+|48,739      |Full-Finger Gloves, M           |12      |22.0342   |
+|71,784      |Touring-1000 Yellow, 60         |12      |1,382.7606|
+|71,784      |Sport-100 Helmet, Black         |12      |20.2942   |
+|46,944      |Mountain-200 Silver, 46         |12      |1,201.4234|
+|71,794      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|71,794      |Women's Mountain Shorts, L      |12      |40.5942   |
+|71,797      |Sport-100 Helmet, Black         |12      |20.2942   |
+|71,801      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|71,801      |Bike Wash - Dissolver           |12      |4.611     |
+|71,801      |AWC Logo Cap                    |12      |5.2142    |
+|49,053      |Full-Finger Gloves, L           |12      |22.0342   |
+|71,803      |Women's Mountain Shorts, L      |12      |40.5942   |
+|71,806      |Women's Mountain Shorts, S      |12      |40.5942   |
+|71,808      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|71,808      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|71,808      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|71,830      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|71,830      |Classic Vest, S                 |12      |36.83     |
+|71,830      |Hitch Rack - 4-Bike             |12      |69.6      |
+|46,090      |Mountain-100 Black, 38          |12      |1,957.4942|
+|71,839      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|71,844      |Half-Finger Gloves, M           |12      |14.2042   |
+|46,953      |Long-Sleeve Logo Jersey, XL     |12      |27.879    |
+|71,844      |Bike Wash - Dissolver           |12      |4.611     |
+|71,851      |Hitch Rack - 4-Bike             |12      |69.6      |
+|71,851      |Bike Wash - Dissolver           |12      |4.611     |
+|71,851      |AWC Logo Cap                    |12      |5.2142    |
+|49,151      |Full-Finger Gloves, M           |12      |22.0342   |
+|71,889      |AWC Logo Cap                    |12      |5.2142    |
+|71,889      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|46,363      |Road-450 Red, 58                |12      |845.6342  |
+|71,949      |Hitch Rack - 4-Bike             |12      |69.6      |
+|71,949      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|71,949      |Bike Wash - Dissolver           |12      |4.611     |
+|49,473      |AWC Logo Cap                    |12      |5.0136    |
+|49,479      |Road-650 Red, 44                |12      |454.1342  |
+|49,481      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|46,957      |ML Mountain Rear Wheel          |12      |136.8945  |
+|49,490      |Sport-100 Helmet, Black         |12      |19.5136   |
+|46,604      |Full-Finger Gloves, M           |12      |22.0342   |
+|49,826      |Full-Finger Gloves, M           |12      |22.0342   |
+|49,827      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|49,828      |Road-650 Red, 44                |12      |454.1342  |
+|44,523      |Mountain Bike Socks, M          |12      |5.51      |
+|49,832      |Full-Finger Gloves, L           |12      |22.0342   |
+|49,844      |Road-650 Red, 62                |12      |454.1342  |
+|49,844      |Road-650 Red, 44                |12      |454.1342  |
+|49,847      |Full-Finger Gloves, L           |12      |22.0342   |
+|49,848      |ML Mountain Frame - Black, 48   |12      |202.2808  |
+|49,855      |Women's Tights, L               |12      |43.4942   |
+|43,875      |Mountain-100 Silver, 44         |12      |1,971.9942|
+|49,884      |Road-650 Black, 44              |12      |454.1342  |
+|49,891      |Road-650 Red, 48                |12      |454.1342  |
+|50,203      |Sport-100 Helmet, Blue          |12      |19.5136   |
+|50,206      |ML Headset                      |12      |59.3282   |
+|50,206      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|50,212      |Full-Finger Gloves, L           |12      |22.0342   |
+|50,222      |Road-650 Red, 62                |12      |454.1342  |
+|46,608      |Men's Sports Shorts, M          |12      |34.7942   |
+|50,222      |Sport-100 Helmet, Red           |12      |19.5136   |
+|50,237      |Sport-100 Helmet, Black         |12      |19.5136   |
+|50,284      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|50,302      |Full-Finger Gloves, L           |12      |22.0342   |
+|50,310      |Mountain-200 Silver, 46         |12      |1,201.4234|
+|46,987      |Full-Finger Gloves, L           |12      |22.0342   |
+|50,663      |Road-650 Black, 58              |12      |454.1342  |
+|50,663      |Cable Lock                      |12      |14.5      |
+|46,987      |Long-Sleeve Logo Jersey, M      |12      |27.879    |
+|50,663      |Half-Finger Gloves, S           |12      |13.6579   |
+|46,611      |Mountain-200 Black, 42          |12      |1,188.477 |
+|44,530      |AWC Logo Cap                    |12      |5.0136    |
+|50,683      |Road-550-W Yellow, 48           |12      |580.2538  |
+|50,683      |AWC Logo Cap                    |12      |5.0136    |
+|50,688      |Full-Finger Gloves, M           |12      |22.0342   |
+|50,688      |Sport-100 Helmet, Red           |12      |19.5136   |
+|50,688      |Men's Bib-Shorts, M             |12      |52.1942   |
+|50,688      |Sport-100 Helmet, Blue          |12      |19.5136   |
+|50,688      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|50,688      |ML Mountain Rear Wheel          |12      |136.8945  |
+|44,534      |Mountain-100 Black, 44          |12      |1,957.4942|
+|50,693      |Women's Tights, L               |12      |43.4942   |
+|50,699      |Full-Finger Gloves, L           |12      |22.0342   |
+|50,703      |Road-650 Red, 62                |12      |454.1342  |
+|50,728      |ML Mountain Handlebars          |12      |32.6487   |
+|50,728      |ML Headset                      |12      |59.3282   |
+|50,748      |Road-650 Black, 58              |12      |454.1342  |
+|46,993      |Full-Finger Gloves, L           |12      |22.0342   |
+|51,092      |Half-Finger Gloves, M           |12      |14.2042   |
+|51,101      |Classic Vest, S                 |12      |36.83     |
+|46,997      |Road-650 Red, 60                |12      |454.1342  |
+|51,123      |AWC Logo Cap                    |12      |5.2142    |
+|51,123      |Water Bottle - 30 oz.           |12      |2.8942    |
+|51,123      |Sport-100 Helmet, Red           |12      |15.7455   |
+|51,123      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|51,123      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|51,126      |Touring-2000 Blue, 60           |12      |704.613   |
+|51,131      |Short-Sleeve Classic Jersey, S  |12      |31.3142   |
+|51,131      |Touring-3000 Yellow, 50         |12      |334.0575  |
+|51,131      |Touring-3000 Yellow, 44         |12      |334.0575  |
+|47,006      |Full-Finger Gloves, M           |12      |22.0342   |
+|51,140      |Road-350-W Yellow, 48           |12      |986.5742  |
+|51,143      |Short-Sleeve Classic Jersey, S  |12      |31.3142   |
+|51,143      |AWC Logo Cap                    |12      |5.2142    |
+|51,143      |Sport-100 Helmet, Blue          |12      |15.7455   |
+|51,143      |Road-350-W Yellow, 48           |12      |986.5742  |
+|51,143      |Bike Wash - Dissolver           |12      |4.611     |
+|47,008      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|51,147      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|51,147      |Sport-100 Helmet, Red           |12      |15.7455   |
+|47,012      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|51,153      |Road-350-W Yellow, 48           |12      |986.5742  |
+|51,153      |Road-750 Black, 52              |12      |313.1942  |
+|51,154      |Short-Sleeve Classic Jersey, S  |12      |31.3142   |
+|51,157      |Half-Finger Gloves, S           |12      |14.2042   |
+|47,028      |Full-Finger Gloves, M           |12      |22.0342   |
+|51,157      |Hitch Rack - 4-Bike             |12      |69.6      |
+|51,157      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|51,157      |Sport-100 Helmet, Red           |12      |15.7455   |
+|51,160      |LL Mountain Frame - Silver, 42  |12      |153.149   |
+|51,160      |Sport-100 Helmet, Red           |12      |15.7455   |
+|51,160      |ML Mountain Seat/Saddle         |12      |22.7012   |
+|51,160      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|47,037      |Sport-100 Helmet, Blue          |12      |19.5136   |
+|51,169      |Touring-1000 Yellow, 60         |12      |953.628   |
+|46,616      |Road-250 Black, 44              |12      |1,265.3063|
+|47,037      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|51,703      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|51,703      |Sport-100 Helmet, Black         |12      |20.2942   |
+|51,703      |Road-350-W Yellow, 48           |12      |986.5742  |
+|51,711      |Women's Mountain Shorts, S      |12      |40.5942   |
+|47,040      |Full-Finger Gloves, L           |12      |22.0342   |
+|51,712      |Classic Vest, S                 |12      |36.83     |
+|51,721      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|51,721      |HL Crankset                     |12      |234.8942  |
+|51,721      |ML Mountain Frame-W - Silver, 40|12      |211.1722  |
+|51,726      |Touring-2000 Blue, 54           |12      |704.613   |
+|47,042      |AWC Logo Cap                    |12      |5.0136    |
+|51,734      |Classic Vest, M                 |12      |36.83     |
+|51,734      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|47,042      |Long-Sleeve Logo Jersey, M      |12      |27.879    |
+|44,549      |Mountain Bike Socks, M          |12      |5.51      |
+|51,735      |HL Touring Frame - Yellow, 54   |12      |582.2678  |
+|46,616      |Road-550-W Yellow, 48           |12      |580.2538  |
+|51,748      |Half-Finger Gloves, M           |12      |14.2042   |
+|46,622      |Full-Finger Gloves, M           |12      |22.0342   |
+|47,055      |Women's Tights, S               |12      |43.4942   |
+|51,751      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|51,761      |AWC Logo Cap                    |12      |5.2142    |
+|51,761      |Short-Sleeve Classic Jersey, S  |12      |31.3142   |
+|51,761      |Classic Vest, S                 |12      |36.83     |
+|51,761      |Water Bottle - 30 oz.           |12      |2.8942    |
+|51,761      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|51,763      |Classic Vest, S                 |12      |36.83     |
+|51,763      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|51,774      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|44,742      |AWC Logo Cap                    |12      |5.0136    |
+|47,352      |Full-Finger Gloves, M           |12      |22.0342   |
+|51,780      |Racing Socks, L                 |12      |5.2142    |
+|46,625      |Men's Bib-Shorts, M             |12      |52.1942   |
+|47,355      |Women's Tights, L               |12      |43.4942   |
+|51,789      |Classic Vest, M                 |12      |36.83     |
+|51,789      |Long-Sleeve Logo Jersey, M      |12      |28.9942   |
+|51,789      |Long-Sleeve Logo Jersey, XL     |12      |28.9942   |
+|51,789      |Half-Finger Gloves, M           |12      |14.2042   |
+|51,806      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|51,810      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|51,814      |HL Touring Frame - Yellow, 54   |12      |582.2678  |
+|46,625      |Full-Finger Gloves, L           |12      |22.0342   |
+|51,830      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|44,283      |Road-650 Black, 52              |12      |405.477   |
+|51,837      |AWC Logo Cap                    |12      |5.2142    |
+|51,837      |Patch Kit/8 Patches             |12      |1.3282    |
+|51,837      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|51,839      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|51,839      |Sport-100 Helmet, Black         |12      |20.2942   |
+|51,839      |Long-Sleeve Logo Jersey, M      |12      |28.9942   |
+|46,626      |Full-Finger Gloves, M           |12      |22.0342   |
+|51,850      |Touring-1000 Blue, 60           |12      |1,382.7606|
+|51,857      |Front Derailleur                |12      |53.0642   |
+|51,858      |Touring-2000 Blue, 54           |12      |704.613   |
+|51,858      |Touring-1000 Blue, 60           |12      |1,382.7606|
+|53,457      |Mountain-200 Black, 38          |12      |1,331.0942|
+|53,458      |Bike Wash - Dissolver           |12      |4.611     |
+|53,458      |Touring-2000 Blue, 60           |12      |704.613   |
+|53,458      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|53,458      |HL Touring Frame - Yellow, 60   |12      |582.2678  |
+|53,458      |Touring-3000 Blue, 54           |12      |334.0575  |
+|53,460      |Short-Sleeve Classic Jersey, S  |12      |31.3142   |
+|47,362      |Full-Finger Gloves, L           |12      |22.0342   |
+|53,464      |Racing Socks, M                 |12      |5.2142    |
+|53,465      |Sport-100 Helmet, Red           |12      |20.2942   |
+|53,465      |LL Mountain Handlebars          |12      |25.8332   |
+|47,365      |HL Mountain Rear Wheel          |12      |189.7847  |
+|53,465      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|53,472      |Classic Vest, S                 |12      |36.83     |
+|53,472      |Road-550-W Yellow, 40           |12      |649.8842  |
+|53,472      |Classic Vest, M                 |12      |36.83     |
+|47,366      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|53,475      |Classic Vest, S                 |12      |36.83     |
+|47,366      |Sport-100 Helmet, Red           |12      |19.5136   |
+|46,630      |Full-Finger Gloves, M           |12      |22.0342   |
+|53,483      |Half-Finger Gloves, S           |12      |14.2042   |
+|47,369      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|53,483      |Long-Sleeve Logo Jersey, M      |12      |28.9942   |
+|53,483      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|53,483      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|53,485      |Half-Finger Gloves, M           |12      |14.2042   |
+|47,369      |Long-Sleeve Logo Jersey, M      |12      |27.879    |
+|53,513      |Sport-100 Helmet, Red           |12      |20.2942   |
+|53,513      |Sport-100 Helmet, Black         |12      |20.2942   |
+|47,369      |Road-250 Red, 44                |12      |1,417.143 |
+|53,518      |Mountain-200 Black, 42          |12      |1,331.0942|
+|53,518      |ML Mountain Handlebars          |12      |35.9136   |
+|53,518      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|53,518      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|44,774      |Mountain Bike Socks, M          |12      |5.51      |
+|53,524      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|53,524      |Half-Finger Gloves, M           |12      |14.2042   |
+|53,524      |AWC Logo Cap                    |12      |5.2142    |
+|53,524      |Sport-100 Helmet, Black         |12      |20.2942   |
+|53,526      |Racing Socks, L                 |12      |5.2142    |
+|53,530      |Half-Finger Gloves, S           |12      |14.2042   |
+|44,792      |Mountain Bike Socks, M          |12      |5.51      |
+|47,395      |Road-650 Red, 62                |12      |454.1342  |
+|46,643      |Road-650 Red, 62                |12      |454.1342  |
+|53,541      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|47,395      |Road-250 Black, 44              |12      |1,265.3063|
+|46,643      |Road-650 Red, 44                |12      |234.897   |
+|53,565      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|46,643      |Road-550-W Yellow, 38           |12      |580.2538  |
+|47,395      |LL Road Frame - Red, 44         |12      |195.5876  |
+|53,573      |Women's Mountain Shorts, L      |12      |40.5942   |
+|53,573      |Chain                           |12      |11.7392   |
+|46,643      |Road-250 Red, 44                |12      |1,417.143 |
+|44,795      |Mountain-100 Silver, 44         |12      |1,971.9942|
+|53,605      |Touring-2000 Blue, 54           |12      |704.613   |
+|53,608      |Women's Mountain Shorts, L      |12      |40.5942   |
+|53,613      |Classic Vest, S                 |12      |36.83     |
+|53,614      |Hitch Rack - 4-Bike             |12      |69.6      |
+|53,615      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|53,616      |Long-Sleeve Logo Jersey, M      |12      |28.9942   |
+|53,616      |Sport-100 Helmet, Red           |12      |20.2942   |
+|53,616      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|53,621      |ML Mountain Frame-W - Silver, 40|12      |211.1722  |
+|55,241      |Women's Mountain Shorts, L      |12      |40.5942   |
+|55,243      |Hitch Rack - 4-Bike             |12      |69.6      |
+|55,243      |Bike Wash - Dissolver           |12      |4.611     |
+|55,245      |Road-750 Black, 48              |12      |313.1942  |
+|55,249      |Water Bottle - 30 oz.           |12      |2.8942    |
+|47,400      |Half-Finger Gloves, M           |12      |13.6579   |
+|55,254      |Sport-100 Helmet, Black         |12      |20.2942   |
+|44,797      |Long-Sleeve Logo Jersey, L      |12      |27.879    |
+|47,403      |Sport-100 Helmet, Black         |12      |19.5136   |
+|55,254      |AWC Logo Cap                    |12      |5.2142    |
+|55,254      |Classic Vest, M                 |12      |36.83     |
+|55,260      |Women's Mountain Shorts, S      |12      |40.5942   |
+|44,285      |Mountain Bike Socks, M          |12      |5.51      |
+|55,264      |Sport-100 Helmet, Red           |12      |20.2942   |
+|55,268      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|55,268      |Hitch Rack - 4-Bike             |12      |69.6      |
+|55,268      |Half-Finger Gloves, M           |12      |14.2042   |
+|55,269      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|55,269      |Hitch Rack - 4-Bike             |12      |69.6      |
+|55,269      |Road-350-W Yellow, 48           |12      |986.5742  |
+|55,275      |ML Mountain Frame-W - Silver, 40|12      |211.1722  |
+|55,282      |Sport-100 Helmet, Red           |12      |20.2942   |
+|55,282      |Sport-100 Helmet, Black         |12      |20.2942   |
+|47,416      |Road-650 Red, 62                |12      |454.1342  |
+|55,294      |Short-Sleeve Classic Jersey, S  |12      |31.3142   |
+|55,294      |Hitch Rack - 4-Bike             |12      |69.6      |
+|55,297      |Women's Mountain Shorts, S      |12      |40.5942   |
+|55,297      |Classic Vest, S                 |12      |36.83     |
+|47,416      |Road-650 Red, 48                |12      |454.1342  |
+|55,301      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|47,416      |Men's Bib-Shorts, M             |12      |52.1942   |
+|44,305      |Mountain Bike Socks, M          |12      |5.51      |
+|55,311      |Water Bottle - 30 oz.           |12      |2.8942    |
+|47,416      |Cable Lock                      |12      |14.5      |
+|47,422      |AWC Logo Cap                    |12      |5.0136    |
+|55,323      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|55,323      |AWC Logo Cap                    |12      |5.2142    |
+|47,422      |Women's Tights, S               |12      |43.4942   |
+|55,323      |Short-Sleeve Classic Jersey, XL |12      |31.3142   |
+|55,328      |Short-Sleeve Classic Jersey, L  |12      |31.3142   |
+|47,435      |Full-Finger Gloves, L           |12      |22.0342   |
+|57,012      |Bike Wash - Dissolver           |12      |4.611     |
+|57,012      |Half-Finger Gloves, M           |12      |14.2042   |
+|47,435      |Men's Bib-Shorts, M             |12      |52.1942   |
+|57,023      |Classic Vest, M                 |12      |36.83     |
+|47,439      |Long-Sleeve Logo Jersey, XL     |12      |27.879    |
+|47,439      |Women's Tights, S               |12      |43.4942   |
+|57,046      |Classic Vest, S                 |12      |36.83     |
+|57,046      |Sport-100 Helmet, Blue          |12      |20.2942   |
+|57,046      |Women's Mountain Shorts, L      |12      |40.5942   |
+|46,648      |Full-Finger Gloves, L           |12      |22.0342   |
+|57,051      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|57,051      |Water Bottle - 30 oz.           |12      |2.8942    |
+|57,054      |Touring-3000 Yellow, 62         |12      |430.563   |
+|57,061      |AWC Logo Cap                    |12      |5.2142    |
+|57,061      |Hydration Pack - 70 oz.         |12      |31.8942   |
+|47,451      |HL Mountain Rear Wheel          |12      |189.7847  |
+|57,065      |Classic Vest, M                 |12      |36.83     |
+|57,067      |Bike Wash - Dissolver           |12      |4.611     |
+|47,451      |Full-Finger Gloves, M           |12      |22.0342   |
+|57,086      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|57,099      |Long-Sleeve Logo Jersey, L      |12      |28.9942   |
+|57,099      |Sport-100 Helmet, Black         |12      |20.2942   |
+|46,651      |Full-Finger Gloves, L           |12      |22.0342   |
+|57,105      |Mountain-400-W Silver, 40       |12      |446.3042  |
+|57,105      |Women's Mountain Shorts, L      |12      |40.5942   |
+|57,122      |Water Bottle - 30 oz.           |12      |2.8942    |
+|57,122      |Long-Sleeve Logo Jersey, M      |12      |28.9942   |
+|57,132      |Sport-100 Helmet, Red           |12      |20.2942   |
+|47,666      |Mountain-200 Black, 46          |12      |1,188.477 |
+|57,143      |HL Touring Frame - Yellow, 54   |12      |582.2678  |
+|51,123      |Long-Sleeve Logo Jersey, XL     |11      |28.9942   |
+|51,121      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|51,120      |Women's Mountain Shorts, L      |11      |40.5942   |
+|51,120      |Hitch Rack - 4-Bike             |11      |69.6      |
+|51,109      |Hitch Rack - 4-Bike             |11      |69.6      |
+|53,536      |Half-Finger Gloves, S           |11      |14.2042   |
+|46,997      |Road-650 Red, 48                |11      |454.1342  |
+|51,101      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|51,101      |Racing Socks, L                 |11      |5.2142    |
+|53,536      |Long-Sleeve Logo Jersey, M      |11      |28.9942   |
+|46,994      |Full-Finger Gloves, M           |11      |22.0342   |
+|53,536      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|51,090      |Women's Mountain Shorts, L      |11      |40.5942   |
+|65,177      |Road-750 Black, 48              |11      |313.1942  |
+|48,033      |Road-650 Black, 52              |11      |454.1342  |
+|58,932      |AWC Logo Cap                    |11      |5.2142    |
+|53,542      |Women's Mountain Shorts, S      |11      |40.5942   |
+|51,081      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|65,160      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|46,614      |Sport-100 Helmet, Blue          |11      |16.8221   |
+|65,160      |Road-350-W Yellow, 40           |11      |986.5742  |
+|50,738      |Sport-100 Helmet, Blue          |11      |19.5136   |
+|53,562      |Half-Finger Gloves, M           |11      |14.2042   |
+|44,100      |Mountain-100 Black, 44          |11      |1,957.4942|
+|50,728      |Full-Finger Gloves, L           |11      |22.0342   |
+|47,696      |Full-Finger Gloves, L           |11      |22.0342   |
+|50,727      |Road-650 Red, 62                |11      |454.1342  |
+|46,614      |Cable Lock                      |11      |14.5      |
+|46,614      |Half-Finger Gloves, M           |11      |13.6579   |
+|50,693      |Sport-100 Helmet, Red           |11      |19.5136   |
+|50,688      |Full-Finger Gloves, L           |11      |22.0342   |
+|47,395      |Road-650 Black, 60              |11      |454.1342  |
+|50,683      |Women's Tights, L               |11      |43.4942   |
+|53,570      |Water Bottle - 30 oz.           |11      |2.8942    |
+|50,683      |LL Road Frame - Red, 62         |11      |195.5876  |
+|46,987      |Men's Bib-Shorts, M             |11      |52.1942   |
+|50,672      |Road-650 Black, 52              |11      |454.1342  |
+|50,668      |Full-Finger Gloves, M           |11      |22.0342   |
+|48,033      |Women's Tights, L               |11      |43.4942   |
+|46,987      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|65,158      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|53,571      |Touring-1000 Yellow, 46         |11      |953.628   |
+|58,920      |Half-Finger Gloves, M           |11      |14.2042   |
+|63,291      |Mountain-200 Black, 42          |11      |1,331.0942|
+|50,663      |Long-Sleeve Logo Jersey, M      |11      |27.879    |
+|50,663      |Road-650 Red, 60                |11      |454.1342  |
+|50,663      |Road-650 Red, 44                |11      |454.1342  |
+|53,573      |LL Mountain Frame - Silver, 42  |11      |153.149   |
+|46,610      |Full-Finger Gloves, M           |11      |22.0342   |
+|47,397      |Men's Bib-Shorts, M             |11      |52.1942   |
+|50,306      |Sport-100 Helmet, Black         |11      |19.5136   |
+|46,608      |Minipump                        |11      |11.5942   |
+|50,237      |AWC Logo Cap                    |11      |5.0136    |
+|48,028      |Women's Tights, S               |11      |43.4942   |
+|46,608      |AWC Logo Cap                    |11      |5.0136    |
+|46,643      |LL Road Frame - Red, 44         |11      |195.5876  |
+|46,643      |Road-650 Red, 48                |11      |454.1342  |
+|48,010      |Sport-100 Helmet, Red           |11      |19.5136   |
+|50,232      |Road-650 Black, 52              |11      |454.1342  |
+|50,226      |Men's Bib-Shorts, M             |11      |52.1942   |
+|46,981      |Men's Bib-Shorts, S             |11      |52.1942   |
+|46,668      |Men's Sports Shorts, M          |11      |34.7942   |
+|53,605      |Touring-1000 Blue, 46           |11      |1,382.7606|
+|53,606      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|50,218      |Long-Sleeve Logo Jersey, XL     |11      |27.879    |
+|46,981      |Road-650 Red, 60                |11      |454.1342  |
+|46,608      |Cable Lock                      |11      |14.5      |
+|58,919      |Touring-1000 Yellow, 60         |11      |1,382.7606|
+|49,893      |Road-650 Red, 60                |11      |454.1342  |
+|46,652      |Sport-100 Helmet, Black         |11      |16.8221   |
+|46,981      |Women's Tights, S               |11      |43.4942   |
+|46,974      |Full-Finger Gloves, L           |11      |22.0342   |
+|46,974      |Women's Tights, L               |11      |43.4942   |
+|63,223      |Hitch Rack - 4-Bike             |11      |69.6      |
+|46,607      |Road-650 Black, 58              |11      |454.1342  |
+|47,451      |Mountain-200 Silver, 38         |11      |1,201.4234|
+|49,876      |AWC Logo Cap                    |11      |5.0136    |
+|53,616      |Road-350-W Yellow, 40           |11      |986.5742  |
+|63,216      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|49,876      |Men's Bib-Shorts, M             |11      |52.1942   |
+|53,616      |Water Bottle - 30 oz.           |11      |2.8942    |
+|49,870      |Road-650 Black, 58              |11      |454.1342  |
+|46,974      |Men's Bib-Shorts, S             |11      |52.1942   |
+|63,216      |Women's Mountain Shorts, S      |11      |40.5942   |
+|49,856      |Road-650 Black, 52              |11      |454.1342  |
+|49,855      |Women's Tights, S               |11      |43.4942   |
+|53,616      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|49,851      |Women's Tights, L               |11      |43.4942   |
+|53,616      |Short-Sleeve Classic Jersey, S  |11      |31.3142   |
+|49,849      |Mountain-300 Black, 40          |11      |626.3942  |
+|48,001      |Full-Finger Gloves, L           |11      |22.0342   |
+|49,828      |Men's Sports Shorts, S          |11      |34.7942   |
+|46,966      |Full-Finger Gloves, M           |11      |22.0342   |
+|47,451      |ML Mountain Rear Wheel          |11      |136.8945  |
+|46,964      |Women's Tights, S               |11      |43.4942   |
+|49,498      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|46,380      |Mountain-100 Black, 42          |11      |843.7475  |
+|49,166      |Mountain-200 Black, 42          |11      |1,188.477 |
+|71,886      |Classic Vest, S                 |11      |36.83     |
+|55,234      |Classic Vest, S                 |11      |36.83     |
+|71,863      |Racing Socks, L                 |11      |5.2142    |
+|71,854      |Classic Vest, M                 |11      |36.83     |
+|44,518      |Mountain-100 Black, 38          |11      |1,957.4942|
+|71,851      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|71,851      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|55,243      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|71,844      |Sport-100 Helmet, Black         |11      |20.2942   |
+|49,118      |Road-650 Red, 60                |11      |454.1342  |
+|71,839      |Bike Wash - Dissolver           |11      |4.611     |
+|47,693      |Full-Finger Gloves, L           |11      |22.0342   |
+|63,200      |Classic Vest, M                 |11      |36.83     |
+|55,245      |Road-350-W Yellow, 40           |11      |986.5742  |
+|55,245      |Road-550-W Yellow, 48           |11      |649.8842  |
+|63,133      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|71,839      |Hitch Rack - 4-Bike             |11      |69.6      |
+|71,830      |Classic Vest, M                 |11      |36.83     |
+|71,830      |Sport-100 Helmet, Red           |11      |20.2942   |
+|71,819      |Women's Mountain Shorts, S      |11      |40.5942   |
+|47,400      |Long-Sleeve Logo Jersey, M      |11      |27.879    |
+|49,095      |Mountain-300 Black, 38          |11      |626.3942  |
+|71,805      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|71,805      |Classic Vest, M                 |11      |36.83     |
+|71,805      |Short-Sleeve Classic Jersey, S  |11      |31.3142   |
+|63,130      |Racing Socks, L                 |11      |5.2142    |
+|71,805      |Long-Sleeve Logo Jersey, M      |11      |28.9942   |
+|71,801      |Road-750 Black, 52              |11      |313.1942  |
+|71,801      |Half-Finger Gloves, M           |11      |14.2042   |
+|71,801      |Road-350-W Yellow, 48           |11      |986.5742  |
+|71,801      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|71,797      |Water Bottle - 30 oz.           |11      |2.8942    |
+|71,795      |Classic Vest, S                 |11      |36.83     |
+|71,794      |HL Mountain Pedal               |11      |46.9742   |
+|55,254      |Classic Vest, S                 |11      |36.83     |
+|46,666      |AWC Logo Cap                    |11      |5.0136    |
+|71,784      |Touring-3000 Yellow, 62         |11      |430.563   |
+|71,784      |Water Bottle - 30 oz.           |11      |2.8942    |
+|47,451      |Mountain-200 Silver, 42         |11      |1,201.4234|
+|57,132      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|71,783      |Sport-100 Helmet, Black         |11      |20.2942   |
+|71,783      |AWC Logo Cap                    |11      |5.2142    |
+|46,940      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|71,783      |Short-Sleeve Classic Jersey, L  |11      |31.3142   |
+|61,229      |Half-Finger Gloves, M           |11      |14.2042   |
+|61,210      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|47,670      |Women's Tights, L               |11      |43.4942   |
+|48,746      |Mountain-200 Silver, 42         |11      |1,201.4234|
+|47,725      |Women's Tights, L               |11      |43.4942   |
+|48,744      |ML Headset                      |11      |59.3282   |
+|69,561      |LL Mountain Seat/Saddle         |11      |15.7296   |
+|61,200      |Touring-1000 Blue, 60           |11      |1,382.7606|
+|61,199      |Mountain-200 Black, 46          |11      |1,331.0942|
+|69,540      |Bike Wash - Dissolver           |11      |4.611     |
+|61,184      |Touring-3000 Blue, 50           |11      |430.563   |
+|47,454      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|69,540      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|69,536      |Women's Mountain Shorts, L      |11      |40.5942   |
+|69,535      |Touring-1000 Yellow, 60         |11      |1,382.7606|
+|69,535      |Touring-1000 Yellow, 46         |11      |1,382.7606|
+|69,533      |Mountain-200 Silver, 38         |11      |1,345.5942|
+|47,724      |Women's Tights, S               |11      |43.4942   |
+|59,075      |Classic Vest, S                 |11      |36.83     |
+|47,724      |Women's Tights, L               |11      |43.4942   |
+|46,645      |ML Mountain Rear Wheel          |11      |136.8945  |
+|58,908      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|46,675      |Women's Tights, S               |11      |43.4942   |
+|69,526      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|46,648      |Minipump                        |11      |11.5942   |
+|69,522      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|69,520      |Mountain-200 Silver, 46         |11      |1,345.5942|
+|55,276      |HL Touring Frame - Blue, 60     |11      |582.2678  |
+|69,475      |Half-Finger Gloves, M           |11      |14.2042   |
+|44,518      |Mountain Bike Socks, M          |11      |5.51      |
+|47,403      |Long-Sleeve Logo Jersey, M      |11      |27.879    |
+|69,475      |Bike Wash - Dissolver           |11      |4.611     |
+|69,471      |Mountain-200 Silver, 42         |11      |1,345.5942|
+|57,088      |Classic Vest, S                 |11      |36.83     |
+|48,341      |Men's Sports Shorts, M          |11      |34.7942   |
+|47,416      |AWC Logo Cap                    |11      |5.0136    |
+|46,672      |Road-550-W Yellow, 38           |11      |580.2538  |
+|69,464      |Sport-100 Helmet, Black         |11      |20.2942   |
+|59,073      |Racing Socks, L                 |11      |5.2142    |
+|48,336      |Road-250 Black, 44              |11      |1,265.3063|
+|69,454      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|69,454      |Classic Vest, M                 |11      |36.83     |
+|55,283      |Front Derailleur                |11      |53.0642   |
+|69,454      |Touring-2000 Blue, 54           |11      |704.613   |
+|69,454      |Classic Vest, S                 |11      |36.83     |
+|69,442      |Sport-100 Helmet, Black         |11      |20.2942   |
+|59,068      |Chain                           |11      |11.7392   |
+|69,442      |Women's Mountain Shorts, S      |11      |40.5942   |
+|47,721      |Men's Bib-Shorts, M             |11      |52.1942   |
+|57,099      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|47,416      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|69,437      |Mountain-200 Black, 42          |11      |1,331.0942|
+|69,426      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|69,422      |Mountain-200 Silver, 42         |11      |1,345.5942|
+|48,311      |Road-650 Black, 52              |11      |454.1342  |
+|58,908      |Short-Sleeve Classic Jersey, L  |11      |31.3142   |
+|55,297      |ML Mountain Seat/Saddle         |11      |22.7012   |
+|47,721      |Road-650 Red, 60                |11      |454.1342  |
+|48,311      |Road-650 Red, 60                |11      |454.1342  |
+|58,907      |Classic Vest, S                 |11      |36.83     |
+|69,408      |Women's Mountain Shorts, S      |11      |40.5942   |
+|46,671      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|69,406      |AWC Logo Cap                    |11      |5.2142    |
+|69,401      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|55,301      |AWC Logo Cap                    |11      |5.2142    |
+|59,023      |Classic Vest, S                 |11      |36.83     |
+|48,307      |Long-Sleeve Logo Jersey, XL     |11      |27.879    |
+|67,349      |Bike Wash - Dissolver           |11      |4.611     |
+|47,720      |Women's Tights, S               |11      |43.4942   |
+|47,677      |Sport-100 Helmet, Black         |11      |19.5136   |
+|43,898      |Long-Sleeve Logo Jersey, L      |11      |27.879    |
+|47,416      |Road-250 Black, 44              |11      |1,265.3063|
+|47,416      |Sport-100 Helmet, Red           |11      |19.5136   |
+|67,347      |Half-Finger Gloves, M           |11      |14.2042   |
+|67,347      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|67,343      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|67,343      |Sport-100 Helmet, Black         |11      |20.2942   |
+|67,343      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|55,311      |Classic Vest, M                 |11      |36.83     |
+|47,716      |Sport-100 Helmet, Black         |11      |19.5136   |
+|67,343      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|67,339      |Half-Finger Gloves, M           |11      |14.2042   |
+|55,313      |Racing Socks, L                 |11      |5.2142    |
+|55,322      |Classic Vest, M                 |11      |36.83     |
+|55,322      |Classic Vest, S                 |11      |36.83     |
+|47,416      |LL Road Frame - Black, 52       |11      |177.8069  |
+|55,322      |Sport-100 Helmet, Black         |11      |20.2942   |
+|57,104      |Racing Socks, L                 |11      |5.2142    |
+|67,339      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|57,143      |Touring-2000 Blue, 60           |11      |704.613   |
+|67,327      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|67,325      |Classic Vest, S                 |11      |36.83     |
+|48,306      |Full-Finger Gloves, L           |11      |22.0342   |
+|59,010      |Classic Vest, S                 |11      |36.83     |
+|67,324      |Sport-100 Helmet, Black         |11      |20.2942   |
+|57,180      |Touring-2000 Blue, 54           |11      |704.613   |
+|67,316      |Women's Mountain Shorts, S      |11      |40.5942   |
+|67,314      |Sport-100 Helmet, Red           |11      |20.2942   |
+|55,323      |Hitch Rack - 4-Bike             |11      |69.6      |
+|58,981      |Front Brakes                    |11      |61.77     |
+|47,712      |Road-650 Red, 60                |11      |454.1342  |
+|67,314      |Sport-100 Helmet, Black         |11      |20.2942   |
+|67,305      |Touring-3000 Yellow, 62         |11      |430.563   |
+|48,295      |Road-650 Red, 60                |11      |454.1342  |
+|55,324      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|67,304      |Road-750 Black, 48              |11      |313.1942  |
+|67,298      |Touring-1000 Blue, 46           |11      |1,382.7606|
+|67,297      |Mountain-200 Black, 46          |11      |1,331.0942|
+|67,294      |Sport-100 Helmet, Blue          |11      |20.2942   |
+|55,324      |Bike Wash - Dissolver           |11      |4.611     |
+|67,289      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|67,289      |Sport-100 Helmet, Black         |11      |20.2942   |
+|47,712      |Road-250 Black, 44              |11      |1,265.3063|
+|67,278      |Touring-1000 Blue, 60           |11      |1,382.7606|
+|67,276      |Women's Mountain Shorts, L      |11      |40.5942   |
+|47,434      |Full-Finger Gloves, M           |11      |22.0342   |
+|55,328      |Sport-100 Helmet, Black         |11      |20.2942   |
+|47,435      |Women's Tights, S               |11      |43.4942   |
+|47,663      |Road-650 Black, 52              |11      |454.1342  |
+|57,121      |Racing Socks, M                 |11      |5.2142    |
+|57,012      |Touring-3000 Yellow, 44         |11      |430.563   |
+|57,012      |Touring-1000 Yellow, 60         |11      |1,382.7606|
+|57,121      |Racing Socks, L                 |11      |5.2142    |
+|44,318      |Mountain Bike Socks, M          |11      |5.51      |
+|57,012      |Short-Sleeve Classic Jersey, L  |11      |31.3142   |
+|67,273      |Mountain-200 Black, 46          |11      |1,331.0942|
+|45,323      |AWC Logo Cap                    |11      |5.0136    |
+|67,273      |Sport-100 Helmet, Red           |11      |20.2942   |
+|57,023      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|67,271      |Racing Socks, L                 |11      |5.2142    |
+|53,472      |LL Road Frame - Black, 52       |11      |195.5876  |
+|67,268      |Water Bottle - 30 oz.           |11      |2.8942    |
+|53,472      |Half-Finger Gloves, S           |11      |14.2042   |
+|67,266      |Mountain-200 Silver, 38         |11      |1,345.5942|
+|53,470      |HL Touring Frame - Blue, 54     |11      |582.2678  |
+|65,310      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|53,469      |Road-550-W Yellow, 48           |11      |649.8842  |
+|47,366      |AWC Logo Cap                    |11      |5.0136    |
+|47,365      |ML Headset                      |11      |59.3282   |
+|65,293      |Racing Socks, L                 |11      |5.2142    |
+|53,465      |Hitch Rack - 4-Bike             |11      |69.6      |
+|53,463      |Women's Mountain Shorts, S      |11      |40.5942   |
+|53,458      |Touring-2000 Blue, 54           |11      |704.613   |
+|53,456      |Racing Socks, L                 |11      |5.2142    |
+|46,657      |ML Mountain Rear Wheel          |11      |136.8945  |
+|51,857      |Chain                           |11      |11.7392   |
+|47,359      |Cable Lock                      |11      |14.5      |
+|46,647      |Mountain-200 Silver, 38         |11      |1,201.4234|
+|47,359      |HL Mountain Rear Wheel          |11      |189.7847  |
+|51,850      |Long-Sleeve Logo Jersey, XL     |11      |28.9942   |
+|57,037      |Women's Mountain Shorts, L      |11      |40.5942   |
+|65,278      |Touring-1000 Yellow, 60         |11      |1,382.7606|
+|53,483      |AWC Logo Cap                    |11      |5.2142    |
+|47,359      |Full-Finger Gloves, L           |11      |22.0342   |
+|53,483      |Long-Sleeve Logo Jersey, XL     |11      |28.9942   |
+|65,257      |Bike Wash - Dissolver           |11      |4.611     |
+|58,974      |Road-750 Black, 52              |11      |313.1942  |
+|51,837      |Half-Finger Gloves, S           |11      |14.2042   |
+|57,046      |Classic Vest, M                 |11      |36.83     |
+|44,762      |Sport-100 Helmet, Blue          |11      |19.5136   |
+|51,837      |Touring-3000 Yellow, 62         |11      |334.0575  |
+|53,485      |Long-Sleeve Logo Jersey, M      |11      |28.9942   |
+|65,253      |Road-750 Black, 48              |11      |313.1942  |
+|46,625      |Long-Sleeve Logo Jersey, XL     |11      |27.879    |
+|51,832      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|51,830      |Road-550-W Yellow, 48           |11      |649.8842  |
+|53,485      |Classic Vest, M                 |11      |36.83     |
+|46,648      |Men's Sports Shorts, M          |11      |34.7942   |
+|51,828      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|47,369      |Road-250 Red, 48                |11      |1,417.143 |
+|51,824      |Mountain-200 Black, 38          |11      |1,331.0942|
+|47,369      |Road-650 Red, 48                |11      |454.1342  |
+|51,823      |LL Touring Frame - Yellow, 44   |11      |193.3836  |
+|53,497      |LL Road Frame - Black, 52       |11      |195.5876  |
+|51,823      |HL Touring Frame - Yellow, 60   |11      |582.2678  |
+|53,497      |Road-350-W Yellow, 42           |11      |986.5742  |
+|51,822      |Mountain-400-W Silver, 46       |11      |446.3042  |
+|51,822      |Mountain-200 Silver, 42         |11      |1,345.5942|
+|51,810      |AWC Logo Cap                    |11      |5.2142    |
+|47,355      |Road-250 Black, 48              |11      |1,265.3063|
+|51,800      |Women's Mountain Shorts, S      |11      |40.5942   |
+|51,783      |Mountain-400-W Silver, 40       |11      |446.3042  |
+|53,508      |Touring-3000 Yellow, 50         |11      |334.0575  |
+|51,783      |Mountain-200 Silver, 46         |11      |1,345.5942|
+|51,775      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|51,763      |AWC Logo Cap                    |11      |5.2142    |
+|51,762      |Road-350-W Yellow, 48           |11      |986.5742  |
+|65,253      |Road-350-W Yellow, 48           |11      |986.5742  |
+|51,761      |Classic Vest, M                 |11      |36.83     |
+|51,761      |Short-Sleeve Classic Jersey, L  |11      |31.3142   |
+|53,513      |Touring-3000 Blue, 54           |11      |334.0575  |
+|46,633      |Mountain-300 Black, 38          |11      |626.3942  |
+|51,761      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|47,055      |Men's Bib-Shorts, M             |11      |52.1942   |
+|51,748      |Short-Sleeve Classic Jersey, L  |11      |31.3142   |
+|51,748      |Front Brakes                    |11      |61.77     |
+|58,974      |Hydration Pack - 70 oz.         |11      |31.8942   |
+|47,045      |Women's Tights, S               |11      |43.4942   |
+|58,974      |Short-Sleeve Classic Jersey, S  |11      |31.3142   |
+|51,739      |AWC Logo Cap                    |11      |5.2142    |
+|65,238      |Half-Finger Gloves, S           |11      |14.2042   |
+|65,237      |Road-350-W Yellow, 48           |11      |986.5742  |
+|51,739      |Mountain-200 Black, 38          |11      |1,331.0942|
+|46,620      |Women's Tights, S               |11      |43.4942   |
+|53,518      |LL Mountain Frame - Black, 44   |11      |144.8782  |
+|51,735      |Touring-2000 Blue, 46           |11      |704.613   |
+|46,057      |Road-650 Red, 60                |11      |405.477   |
+|53,518      |AWC Logo Cap                    |11      |5.2142    |
+|53,518      |LL Mountain Handlebars          |11      |25.8332   |
+|53,518      |LL Mountain Frame - Silver, 40  |11      |153.149   |
+|47,042      |Women's Tights, L               |11      |43.4942   |
+|47,708      |Sport-100 Helmet, Blue          |11      |19.5136   |
+|53,518      |LL Mountain Frame - Silver, 42  |11      |153.149   |
+|46,633      |Mountain-300 Black, 40          |11      |626.3942  |
+|51,721      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|65,206      |Mountain-200 Black, 38          |11      |1,331.0942|
+|47,037      |Women's Tights, S               |11      |43.4942   |
+|51,169      |Touring-1000 Blue, 46           |11      |1,382.7606|
+|65,205      |Long-Sleeve Logo Jersey, L      |11      |28.9942   |
+|51,169      |Long-Sleeve Logo Jersey, M      |11      |28.9942   |
+|47,441      |Mountain-200 Black, 46          |11      |1,188.477 |
+|51,154      |Half-Finger Gloves, S           |11      |14.2042   |
+|46,616      |Men's Sports Shorts, M          |11      |34.7942   |
+|65,205      |AWC Logo Cap                    |11      |5.2142    |
+|58,971      |Long-Sleeve Logo Jersey, M      |11      |28.9942   |
+|65,191      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|47,012      |Cable Lock                      |11      |14.5      |
+|51,153      |LL Road Frame - Black, 52       |11      |195.5876  |
+|51,151      |Bike Wash - Dissolver           |11      |4.611     |
+|53,528      |Women's Mountain Shorts, L      |11      |40.5942   |
+|47,012      |Road-650 Red, 44                |11      |234.897   |
+|58,970      |Racing Socks, L                 |11      |5.2142    |
+|51,147      |Hitch Rack - 4-Bike             |11      |69.6      |
+|51,147      |Half-Finger Gloves, S           |11      |14.2042   |
+|47,008      |Long-Sleeve Logo Jersey, XL     |11      |27.879    |
+|65,177      |Short-Sleeve Classic Jersey, XL |11      |31.3142   |
+|51,146      |Touring-1000 Yellow, 46         |11      |953.628   |
+|53,530      |Road-750 Black, 52              |11      |313.1942  |
+|51,143      |Hitch Rack - 4-Bike             |11      |69.6      |
+|51,140      |Short-Sleeve Classic Jersey, S  |11      |31.3142   |
+|51,140      |Long-Sleeve Logo Jersey, M      |11      |28.9942   |
+|51,140      |Half-Finger Gloves, S           |11      |14.2042   |
+|51,140      |Classic Vest, M                 |11      |36.83     |
+|53,530      |Half-Finger Gloves, L           |11      |14.2042   |
+|51,131      |Touring-3000 Blue, 54           |11      |334.0575  |
+|51,131      |Touring-3000 Blue, 50           |11      |334.0575  |
+|46,639      |Women's Tights, L               |11      |43.4942   |
+|51,131      |Short-Sleeve Classic Jersey, L  |11      |31.3142   |
+|51,124      |HL Mountain Frame - Silver, 38  |11      |791.41    |
+|51,123      |Road-250 Black, 48              |11      |1,417.143 |
+|53,621      |ML Mountain Seat/Saddle         |10      |23.484    |
+|43,884      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|43,884      |Mountain-100 Black, 44          |10      |2,024.994 |
+|43,897      |Mountain Bike Socks, M          |10      |5.7       |
+|43,898      |Road-450 Red, 52                |10      |874.794   |
+|44,086      |Mountain Bike Socks, M          |10      |5.7       |
+|44,086      |AWC Logo Cap                    |10      |5.1865    |
+|44,086      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|44,129      |Road-450 Red, 58                |10      |874.794   |
+|44,284      |Mountain-100 Black, 42          |10      |2,024.994 |
+|44,314      |Road-650 Black, 52              |10      |419.4589  |
+|44,317      |AWC Logo Cap                    |10      |5.1865    |
+|44,518      |Mountain-100 Silver, 44         |10      |2,039.994 |
+|44,525      |Sport-100 Helmet, Red           |10      |20.1865   |
+|44,525      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|44,528      |Mountain-100 Silver, 38         |10      |2,039.994 |
+|44,547      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|44,547      |AWC Logo Cap                    |10      |5.1865    |
+|44,742      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|44,742      |Road-650 Red, 44                |10      |419.4589  |
+|44,762      |Sport-100 Helmet, Red           |10      |20.1865   |
+|44,773      |Road-650 Red, 60                |10      |419.4589  |
+|44,797      |Road-650 Red, 60                |10      |419.4589  |
+|45,300      |Mountain-100 Black, 38          |10      |2,024.994 |
+|45,307      |Mountain Bike Socks, M          |10      |5.7       |
+|45,308      |Mountain-100 Black, 42          |10      |2,024.994 |
+|45,323      |Road-650 Red, 44                |10      |419.4589  |
+|45,328      |Mountain Bike Socks, M          |10      |5.7       |
+|45,547      |Mountain Bike Socks, M          |10      |5.7       |
+|45,575      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|46,066      |Mountain-100 Silver, 48         |10      |2,039.994 |
+|46,066      |Mountain-100 Silver, 38         |10      |2,039.994 |
+|46,380      |Mountain-100 Black, 44          |10      |843.7475  |
+|46,607      |Road-250 Black, 44              |10      |1,308.9375|
+|46,607      |Road-650 Black, 52              |10      |469.794   |
+|46,607      |LL Road Frame - Black, 52       |10      |183.9382  |
+|46,608      |Long-Sleeve Logo Jersey, XL     |10      |28.8404   |
+|46,608      |Sport-100 Helmet, Black         |10      |16.8221   |
+|46,611      |Mountain-200 Black, 38          |10      |1,229.4589|
+|46,614      |Women's Tights, S               |10      |44.994    |
+|46,614      |Long-Sleeve Logo Jersey, XL     |10      |28.8404   |
+|46,614      |Sport-100 Helmet, Red           |10      |16.8221   |
+|46,614      |AWC Logo Cap                    |10      |5.1865    |
+|46,616      |Minipump                        |10      |11.994    |
+|46,624      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|46,625      |Sport-100 Helmet, Blue          |10      |16.8221   |
+|46,625      |Sport-100 Helmet, Red           |10      |16.8221   |
+|46,626      |Men's Sports Shorts, M          |10      |35.994    |
+|46,629      |ML Road Frame-W - Yellow, 38    |10      |324.4527  |
+|46,630      |Long-Sleeve Logo Jersey, XL     |10      |28.8404   |
+|46,633      |Sport-100 Helmet, Red           |10      |16.8221   |
+|46,638      |Minipump                        |10      |11.994    |
+|46,642      |Road-650 Black, 48              |10      |469.794   |
+|46,643      |Road-550-W Yellow, 48           |10      |600.2625  |
+|46,645      |Mountain-200 Black, 42          |10      |1,229.4589|
+|46,645      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|46,645      |Mountain-200 Silver, 42         |10      |1,242.8518|
+|46,645      |Full-Finger Gloves, M           |10      |22.794    |
+|46,645      |Mountain-200 Black, 38          |10      |1,229.4589|
+|46,647      |Mountain-200 Black, 46          |10      |1,229.4589|
+|46,648      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|46,657      |Women's Tights, S               |10      |44.994    |
+|46,657      |LL Mountain Handlebars          |10      |24.2945   |
+|46,660      |LL Road Frame - Red, 60         |10      |202.332   |
+|46,662      |Sport-100 Helmet, Red           |10      |16.8221   |
+|46,666      |Women's Tights, L               |10      |44.994    |
+|46,666      |Road-550-W Yellow, 40           |10      |600.2625  |
+|46,668      |Long-Sleeve Logo Jersey, XL     |10      |28.8404   |
+|46,668      |Sport-100 Helmet, Black         |10      |16.8221   |
+|46,669      |Sport-100 Helmet, Blue          |10      |16.8221   |
+|46,669      |Road-650 Red, 52                |10      |469.794   |
+|46,669      |Women's Tights, L               |10      |44.994    |
+|46,671      |Cable Lock                      |10      |15        |
+|46,671      |Men's Bib-Shorts, M             |10      |53.994    |
+|46,672      |Road-650 Red, 48                |10      |469.794   |
+|46,672      |LL Road Frame - Black, 52       |10      |183.9382  |
+|46,673      |Sport-100 Helmet, Blue          |10      |16.8221   |
+|46,931      |ML Mountain Frame - Black, 44   |10      |209.256   |
+|46,938      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|46,944      |Mountain-200 Silver, 42         |10      |1,242.8518|
+|46,953      |Road-250 Black, 44              |10      |1,308.9375|
+|46,953      |Minipump                        |10      |11.994    |
+|46,953      |Road-650 Black, 52              |10      |469.794   |
+|46,957      |Men's Sports Shorts, M          |10      |35.994    |
+|46,957      |LL Mountain Front Wheel         |10      |36.447    |
+|46,957      |Mountain-300 Black, 44          |10      |647.994   |
+|46,957      |LL Mountain Handlebars          |10      |24.2945   |
+|46,957      |ML Mountain Handlebars          |10      |33.7745   |
+|46,967      |Sport-100 Helmet, Black         |10      |20.1865   |
+|46,974      |ML Mountain Handlebars          |10      |33.7745   |
+|46,974      |Cable Lock                      |10      |15        |
+|46,974      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|46,974      |Sport-100 Helmet, Black         |10      |20.1865   |
+|46,974      |Long-Sleeve Logo Jersey, M      |10      |28.8404   |
+|46,981      |Sport-100 Helmet, Black         |10      |20.1865   |
+|46,981      |Road-650 Black, 52              |10      |469.794   |
+|46,981      |Road-650 Red, 52                |10      |469.794   |
+|46,981      |Minipump                        |10      |11.994    |
+|46,981      |Road-550-W Yellow, 40           |10      |600.2625  |
+|46,981      |Road-250 Red, 48                |10      |1,466.01  |
+|46,987      |Mountain-200 Silver, 38         |10      |1,242.8518|
+|46,987      |ML Mountain Rear Wheel          |10      |141.615   |
+|46,987      |Sport-100 Helmet, Red           |10      |20.1865   |
+|46,987      |Sport-100 Helmet, Black         |10      |20.1865   |
+|46,987      |Cable Lock                      |10      |15        |
+|46,987      |HL Fork                         |10      |137.694   |
+|46,988      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|46,988      |Road-650 Red, 60                |10      |469.794   |
+|46,988      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|46,988      |Sport-100 Helmet, Red           |10      |20.1865   |
+|46,988      |Sport-100 Helmet, Black         |10      |20.1865   |
+|46,988      |AWC Logo Cap                    |10      |5.1865    |
+|46,992      |Long-Sleeve Logo Jersey, M      |10      |28.8404   |
+|46,992      |Sport-100 Helmet, Black         |10      |20.1865   |
+|46,993      |Sport-100 Helmet, Red           |10      |20.1865   |
+|46,993      |Men's Bib-Shorts, M             |10      |53.994    |
+|47,001      |Road-650 Black, 58              |10      |469.794   |
+|47,001      |Road-650 Black, 52              |10      |469.794   |
+|47,004      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|47,018      |Road-650 Black, 62              |10      |469.794   |
+|47,027      |Road-650 Red, 48                |10      |469.794   |
+|47,031      |Full-Finger Gloves, M           |10      |22.794    |
+|47,034      |Road-650 Red, 62                |10      |469.794   |
+|47,037      |Women's Tights, L               |10      |44.994    |
+|47,039      |Full-Finger Gloves, M           |10      |22.794    |
+|47,041      |Road-650 Red, 62                |10      |469.794   |
+|47,041      |Men's Sports Shorts, M          |10      |35.994    |
+|47,042      |Minipump                        |10      |11.994    |
+|47,042      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|47,045      |Mountain-200 Silver, 38         |10      |1,242.8518|
+|47,052      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|47,052      |Men's Bib-Shorts, S             |10      |53.994    |
+|47,055      |Sport-100 Helmet, Red           |10      |20.1865   |
+|47,056      |Men's Bib-Shorts, M             |10      |53.994    |
+|47,067      |AWC Logo Cap                    |10      |5.1865    |
+|47,355      |Road-650 Black, 52              |10      |469.794   |
+|47,355      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|47,355      |Road-650 Red, 44                |10      |469.794   |
+|47,355      |LL Road Frame - Red, 44         |10      |202.332   |
+|47,355      |AWC Logo Cap                    |10      |5.1865    |
+|47,355      |Half-Finger Gloves, L           |10      |14.1289   |
+|47,359      |Sport-100 Helmet, Red           |10      |20.1865   |
+|47,365      |Cable Lock                      |10      |15        |
+|47,365      |Sport-100 Helmet, Black         |10      |20.1865   |
+|47,366      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|47,366      |Sport-100 Helmet, Black         |10      |20.1865   |
+|47,369      |Sport-100 Helmet, Red           |10      |20.1865   |
+|47,369      |Road-650 Red, 60                |10      |469.794   |
+|47,369      |Road-550-W Yellow, 38           |10      |600.2625  |
+|47,374      |Full-Finger Gloves, M           |10      |22.794    |
+|47,377      |Road-650 Black, 52              |10      |469.794   |
+|47,378      |AWC Logo Cap                    |10      |5.1865    |
+|47,380      |Women's Tights, L               |10      |44.994    |
+|47,391      |LL Road Frame - Red, 60         |10      |202.332   |
+|47,395      |LL Road Frame - Red, 60         |10      |202.332   |
+|47,395      |Minipump                        |10      |11.994    |
+|47,395      |Women's Tights, S               |10      |44.994    |
+|47,395      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|47,398      |Cable Lock                      |10      |15        |
+|47,400      |HL Mountain Rear Wheel          |10      |196.329   |
+|47,400      |Sport-100 Helmet, Red           |10      |20.1865   |
+|47,400      |Mountain-200 Black, 38          |10      |1,229.4589|
+|47,400      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|47,403      |Full-Finger Gloves, L           |10      |22.794    |
+|47,403      |AWC Logo Cap                    |10      |5.1865    |
+|47,403      |Women's Tights, L               |10      |44.994    |
+|47,416      |Road-650 Red, 60                |10      |469.794   |
+|47,416      |LL Road Frame - Red, 60         |10      |202.332   |
+|47,416      |ML Road Frame-W - Yellow, 44    |10      |324.4527  |
+|47,416      |Road-250 Red, 44                |10      |1,466.01  |
+|47,435      |Cable Lock                      |10      |15        |
+|47,439      |Sport-100 Helmet, Black         |10      |20.1865   |
+|47,439      |Long-Sleeve Logo Jersey, M      |10      |28.8404   |
+|47,439      |Men's Bib-Shorts, M             |10      |53.994    |
+|47,439      |Road-650 Red, 44                |10      |469.794   |
+|47,441      |Mountain-200 Silver, 38         |10      |1,242.8518|
+|47,450      |Minipump                        |10      |11.994    |
+|47,455      |Road-250 Black, 52              |10      |1,308.9375|
+|47,663      |Road-650 Black, 58              |10      |469.794   |
+|47,663      |Road-650 Red, 60                |10      |469.794   |
+|47,666      |Long-Sleeve Logo Jersey, M      |10      |28.8404   |
+|47,668      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|47,670      |AWC Logo Cap                    |10      |5.1865    |
+|47,670      |Sport-100 Helmet, Black         |10      |20.1865   |
+|47,670      |Road-650 Red, 44                |10      |469.794   |
+|47,675      |Women's Tights, L               |10      |44.994    |
+|47,677      |Women's Tights, S               |10      |44.994    |
+|47,680      |Women's Tights, S               |10      |44.994    |
+|47,694      |Road-650 Red, 62                |10      |469.794   |
+|47,698      |Mountain-300 Black, 44          |10      |647.994   |
+|47,698      |Mountain-300 Black, 48          |10      |647.994   |
+|47,700      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|47,700      |ML Headset                      |10      |61.374    |
+|47,700      |Women's Tights, L               |10      |44.994    |
+|47,705      |Sport-100 Helmet, Black         |10      |20.1865   |
+|47,708      |Men's Bib-Shorts, M             |10      |53.994    |
+|47,712      |Road-550-W Yellow, 48           |10      |600.2625  |
+|47,724      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|47,725      |Men's Bib-Shorts, M             |10      |53.994    |
+|47,970      |Mountain-200 Black, 46          |10      |1,229.4589|
+|47,980      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|47,981      |Full-Finger Gloves, M           |10      |22.794    |
+|47,986      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|47,988      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|47,992      |Women's Tights, S               |10      |44.994    |
+|47,996      |HL Mountain Rear Wheel          |10      |196.329   |
+|47,999      |ML Mountain Rear Wheel          |10      |141.615   |
+|48,005      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|48,006      |Road-650 Red, 44                |10      |469.794   |
+|48,017      |AWC Logo Cap                    |10      |5.1865    |
+|48,028      |AWC Logo Cap                    |10      |5.1865    |
+|48,033      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|48,033      |Men's Sports Shorts, M          |10      |35.994    |
+|48,063      |AWC Logo Cap                    |10      |5.1865    |
+|48,071      |ML Headset                      |10      |61.374    |
+|48,295      |Road-650 Black, 58              |10      |469.794   |
+|48,295      |Road-650 Red, 48                |10      |469.794   |
+|48,299      |Women's Tights, L               |10      |44.994    |
+|48,306      |ML Headset                      |10      |61.374    |
+|48,306      |Full-Finger Gloves, M           |10      |22.794    |
+|48,307      |Men's Sports Shorts, M          |10      |35.994    |
+|48,308      |AWC Logo Cap                    |10      |5.1865    |
+|48,311      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|48,311      |Women's Tights, L               |10      |44.994    |
+|48,336      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|48,341      |Sport-100 Helmet, Red           |10      |20.1865   |
+|48,341      |Women's Tights, S               |10      |44.994    |
+|48,341      |Full-Finger Gloves, M           |10      |22.794    |
+|48,341      |ML Mountain Rear Wheel          |10      |141.615   |
+|48,341      |Men's Bib-Shorts, S             |10      |53.994    |
+|48,347      |AWC Logo Cap                    |10      |5.1865    |
+|48,347      |Women's Tights, S               |10      |44.994    |
+|48,347      |Women's Tights, L               |10      |44.994    |
+|48,348      |Full-Finger Gloves, M           |10      |22.794    |
+|48,363      |Road-550-W Yellow, 38           |10      |600.2625  |
+|48,375      |AWC Logo Cap                    |10      |5.1865    |
+|48,384      |ML Mountain Rear Wheel          |10      |141.615   |
+|48,395      |Full-Finger Gloves, M           |10      |22.794    |
+|48,396      |Full-Finger Gloves, M           |10      |22.794    |
+|48,755      |Full-Finger Gloves, L           |10      |22.794    |
+|48,757      |Mountain-200 Silver, 38         |10      |1,242.8518|
+|48,757      |Mountain-200 Black, 46          |10      |1,229.4589|
+|48,758      |Men's Sports Shorts, M          |10      |35.994    |
+|48,764      |Road-650 Red, 60                |10      |469.794   |
+|48,768      |Full-Finger Gloves, L           |10      |22.794    |
+|48,780      |Road-650 Black, 52              |10      |469.794   |
+|49,106      |Road-650 Black, 52              |10      |469.794   |
+|49,114      |Full-Finger Gloves, L           |10      |22.794    |
+|49,114      |Full-Finger Gloves, M           |10      |22.794    |
+|49,139      |Road-650 Black, 52              |10      |469.794   |
+|49,151      |Mountain-200 Black, 46          |10      |1,229.4589|
+|49,157      |Mountain-200 Silver, 42         |10      |1,242.8518|
+|49,158      |Road-650 Red, 60                |10      |469.794   |
+|49,464      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|49,479      |Women's Tights, L               |10      |44.994    |
+|49,481      |Half-Finger Gloves, M           |10      |14.1289   |
+|49,490      |Sport-100 Helmet, Red           |10      |20.1865   |
+|49,490      |Road-650 Red, 62                |10      |469.794   |
+|49,490      |Women's Tights, S               |10      |44.994    |
+|49,492      |Full-Finger Gloves, L           |10      |22.794    |
+|49,498      |Road-650 Black, 58              |10      |469.794   |
+|49,498      |Road-650 Red, 44                |10      |469.794   |
+|49,538      |AWC Logo Cap                    |10      |5.1865    |
+|49,826      |Mountain-200 Black, 38          |10      |1,229.4589|
+|49,827      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|49,828      |AWC Logo Cap                    |10      |5.1865    |
+|49,828      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|49,828      |Road-650 Black, 52              |10      |469.794   |
+|49,831      |Half-Finger Gloves, M           |10      |14.1289   |
+|49,831      |Women's Tights, S               |10      |44.994    |
+|49,844      |Road-650 Red, 48                |10      |469.794   |
+|49,856      |Road-650 Black, 60              |10      |469.794   |
+|49,856      |Road-650 Black, 58              |10      |469.794   |
+|49,865      |Women's Tights, L               |10      |44.994    |
+|49,865      |Sport-100 Helmet, Black         |10      |20.1865   |
+|49,870      |Women's Tights, S               |10      |44.994    |
+|49,876      |Minipump                        |10      |11.994    |
+|49,879      |Full-Finger Gloves, M           |10      |22.794    |
+|49,884      |Road-650 Black, 58              |10      |469.794   |
+|49,890      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|49,890      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|49,891      |Women's Tights, L               |10      |44.994    |
+|50,203      |Road-650 Red, 60                |10      |469.794   |
+|50,203      |Men's Bib-Shorts, S             |10      |53.994    |
+|50,203      |Road-650 Red, 44                |10      |469.794   |
+|50,203      |Women's Tights, S               |10      |44.994    |
+|50,203      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|50,206      |Full-Finger Gloves, M           |10      |22.794    |
+|50,218      |AWC Logo Cap                    |10      |5.1865    |
+|50,222      |Road-250 Red, 44                |10      |1,466.01  |
+|50,222      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|50,225      |ML Mountain Frame - Black, 48   |10      |209.256   |
+|50,237      |Men's Bib-Shorts, M             |10      |53.994    |
+|50,242      |Sport-100 Helmet, Blue          |10      |20.1865   |
+|50,270      |Mountain-300 Black, 48          |10      |647.994   |
+|50,280      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|50,311      |AWC Logo Cap                    |10      |5.1865    |
+|50,311      |Women's Tights, S               |10      |44.994    |
+|50,663      |Road-650 Black, 52              |10      |469.794   |
+|50,663      |Minipump                        |10      |11.994    |
+|50,663      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|50,663      |Sport-100 Helmet, Red           |10      |20.1865   |
+|50,668      |Sport-100 Helmet, Black         |10      |20.1865   |
+|50,668      |ML Mountain Rear Wheel          |10      |141.615   |
+|50,668      |AWC Logo Cap                    |10      |5.1865    |
+|50,672      |Road-650 Red, 44                |10      |469.794   |
+|50,682      |Full-Finger Gloves, M           |10      |22.794    |
+|50,683      |Road-250 Black, 44              |10      |1,308.9375|
+|50,688      |ML Headset                      |10      |61.374    |
+|50,693      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|50,694      |Half-Finger Gloves, M           |10      |14.1289   |
+|50,699      |Full-Finger Gloves, M           |10      |22.794    |
+|50,703      |Road-550-W Yellow, 48           |10      |600.2625  |
+|50,703      |Cable Lock                      |10      |15        |
+|50,738      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|50,738      |Women's Tights, S               |10      |44.994    |
+|50,747      |Sport-100 Helmet, Red           |10      |20.1865   |
+|50,747      |Full-Finger Gloves, L           |10      |22.794    |
+|50,748      |Women's Tights, L               |10      |44.994    |
+|50,753      |Full-Finger Gloves, L           |10      |22.794    |
+|51,081      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|51,090      |HL Mountain Frame - Silver, 38  |10      |818.7     |
+|51,092      |Road-350-W Yellow, 48           |10      |1,020.594 |
+|51,108      |Classic Vest, S                 |10      |38.1      |
+|51,109      |HL Touring Frame - Blue, 60     |10      |602.346   |
+|51,120      |Front Brakes                    |10      |63.9      |
+|51,120      |Water Bottle - 30 oz.           |10      |2.994     |
+|51,120      |Classic Vest, S                 |10      |38.1      |
+|51,122      |Racing Socks, M                 |10      |5.394     |
+|51,126      |Touring-1000 Yellow, 46         |10      |953.628   |
+|51,127      |Mountain-200 Black, 42          |10      |1,376.994 |
+|51,130      |ML Mountain Seat/Saddle         |10      |23.484    |
+|51,132      |ML Road Frame-W - Yellow, 44    |10      |356.898   |
+|51,140      |Road-750 Black, 48              |10      |323.994   |
+|51,143      |Water Bottle - 30 oz.           |10      |2.994     |
+|51,147      |Classic Vest, S                 |10      |38.1      |
+|51,147      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|51,147      |Road-350-W Yellow, 40           |10      |1,020.594 |
+|51,147      |AWC Logo Cap                    |10      |5.394     |
+|51,149      |Racing Socks, L                 |10      |5.394     |
+|51,151      |Sport-100 Helmet, Red           |10      |15.7455   |
+|51,151      |Half-Finger Gloves, S           |10      |14.694    |
+|51,154      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|51,154      |Sport-100 Helmet, Black         |10      |15.7455   |
+|51,154      |Sport-100 Helmet, Blue          |10      |15.7455   |
+|51,154      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|51,157      |ML Mountain Frame-W - Silver, 40|10      |218.454   |
+|51,157      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|51,160      |Front Brakes                    |10      |63.9      |
+|51,160      |HL Mountain Frame - Silver, 38  |10      |818.7     |
+|51,160      |Bike Wash - Dissolver           |10      |4.77      |
+|51,160      |Hydration Pack - 70 oz.         |10      |32.994    |
+|51,168      |Road-750 Black, 48              |10      |323.994   |
+|51,169      |Short-Sleeve Classic Jersey, S  |10      |32.394    |
+|51,693      |Racing Socks, M                 |10      |5.394     |
+|51,703      |Road-350-W Yellow, 40           |10      |1,020.594 |
+|51,704      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|51,711      |ML Mountain Handlebars          |10      |37.152    |
+|51,711      |LL Mountain Frame - Silver, 40  |10      |158.43    |
+|51,714      |Racing Socks, L                 |10      |5.394     |
+|51,717      |Racing Socks, L                 |10      |5.394     |
+|51,721      |ML Mountain Frame-W - Silver, 42|10      |218.454   |
+|51,729      |Racing Socks, M                 |10      |5.394     |
+|51,735      |HL Touring Frame - Yellow, 60   |10      |602.346   |
+|51,735      |Touring-3000 Yellow, 62         |10      |334.0575  |
+|51,739      |LL Mountain Frame - Silver, 42  |10      |158.43    |
+|51,739      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|51,739      |Mountain-200 Silver, 42         |10      |1,391.994 |
+|51,739      |Mountain-200 Silver, 46         |10      |1,391.994 |
+|51,739      |Bike Wash - Dissolver           |10      |4.77      |
+|51,748      |Half-Finger Gloves, L           |10      |14.694    |
+|51,748      |Women's Mountain Shorts, L      |10      |41.994    |
+|51,751      |Front Derailleur                |10      |54.894    |
+|51,751      |HL Crankset                     |10      |242.994   |
+|51,751      |Short-Sleeve Classic Jersey, S  |10      |32.394    |
+|51,751      |Bike Wash - Dissolver           |10      |4.77      |
+|51,751      |Half-Finger Gloves, S           |10      |14.694    |
+|51,760      |Touring-1000 Yellow, 46         |10      |953.628   |
+|51,761      |Sport-100 Helmet, Black         |10      |20.994    |
+|51,761      |Touring-3000 Yellow, 44         |10      |334.0575  |
+|51,761      |Touring-1000 Blue, 46           |10      |1,430.442 |
+|51,770      |Racing Socks, M                 |10      |5.394     |
+|51,774      |ML Mountain Frame-W - Silver, 40|10      |218.454   |
+|51,774      |Water Bottle - 30 oz.           |10      |2.994     |
+|51,775      |AWC Logo Cap                    |10      |5.394     |
+|51,775      |Patch Kit/8 Patches             |10      |1.374     |
+|51,783      |Mountain-200 Black, 46          |10      |1,376.994 |
+|51,789      |Touring-3000 Yellow, 44         |10      |334.0575  |
+|51,793      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|51,806      |AWC Logo Cap                    |10      |5.394     |
+|51,809      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|51,810      |Sport-100 Helmet, Red           |10      |20.994    |
+|51,810      |Sport-100 Helmet, Blue          |10      |20.994    |
+|51,822      |Mountain-200 Silver, 38         |10      |1,391.994 |
+|51,825      |ML Mountain Seat/Saddle         |10      |23.484    |
+|51,830      |Racing Socks, M                 |10      |5.394     |
+|51,834      |Women's Mountain Shorts, S      |10      |41.994    |
+|51,836      |Racing Socks, L                 |10      |5.394     |
+|51,837      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|51,837      |HL Touring Frame - Blue, 54     |10      |602.346   |
+|51,839      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|51,839      |Road-750 Black, 48              |10      |323.994   |
+|51,845      |Hitch Rack - 4-Bike             |10      |72        |
+|51,850      |Half-Finger Gloves, M           |10      |14.694    |
+|51,852      |Women's Mountain Shorts, S      |10      |41.994    |
+|51,855      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,454      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,458      |Long-Sleeve Logo Jersey, XL     |10      |29.994    |
+|53,459      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,460      |Classic Vest, M                 |10      |38.1      |
+|53,460      |Sport-100 Helmet, Red           |10      |20.994    |
+|53,460      |Road-550-W Yellow, 38           |10      |672.294   |
+|53,465      |HL Mountain Pedal               |10      |48.594    |
+|53,465      |Front Brakes                    |10      |63.9      |
+|53,465      |ML Mountain Handlebars          |10      |37.152    |
+|53,465      |Classic Vest, S                 |10      |38.1      |
+|53,465      |ML Mountain Seat/Saddle         |10      |23.484    |
+|53,465      |Chain                           |10      |12.144    |
+|53,472      |Hydration Pack - 70 oz.         |10      |32.994    |
+|53,475      |Long-Sleeve Logo Jersey, XL     |10      |29.994    |
+|53,475      |Sport-100 Helmet, Blue          |10      |20.994    |
+|53,480      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,483      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,483      |Patch Kit/8 Patches             |10      |1.374     |
+|53,483      |Touring-1000 Blue, 60           |10      |1,430.442 |
+|53,485      |Sport-100 Helmet, Black         |10      |20.994    |
+|53,485      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|53,485      |Half-Finger Gloves, S           |10      |14.694    |
+|53,485      |Chain                           |10      |12.144    |
+|53,497      |Road-350-W Yellow, 48           |10      |1,020.594 |
+|53,499      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,506      |Road-550-W Yellow, 48           |10      |672.294   |
+|53,509      |Racing Socks, M                 |10      |5.394     |
+|53,513      |Bike Wash - Dissolver           |10      |4.77      |
+|53,513      |Patch Kit/8 Patches             |10      |1.374     |
+|53,514      |Hydration Pack - 70 oz.         |10      |32.994    |
+|53,514      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|53,518      |ML Mountain Seat/Saddle         |10      |23.484    |
+|53,518      |HL Bottom Bracket               |10      |72.894    |
+|53,518      |ML Mountain Frame-W - Silver, 40|10      |218.454   |
+|53,518      |Women's Mountain Shorts, L      |10      |41.994    |
+|53,524      |Touring-3000 Yellow, 44         |10      |334.0575  |
+|53,530      |Road-750 Black, 48              |10      |323.994   |
+|53,530      |Long-Sleeve Logo Jersey, XL     |10      |29.994    |
+|53,531      |Chain                           |10      |12.144    |
+|53,531      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,535      |Touring-3000 Blue, 54           |10      |334.0575  |
+|53,536      |Half-Finger Gloves, M           |10      |14.694    |
+|53,536      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,541      |AWC Logo Cap                    |10      |5.394     |
+|53,560      |Half-Finger Gloves, S           |10      |14.694    |
+|53,561      |ML Mountain Handlebars          |10      |37.152    |
+|53,562      |Hitch Rack - 4-Bike             |10      |72        |
+|53,562      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|53,565      |Classic Vest, M                 |10      |38.1      |
+|53,570      |Sport-100 Helmet, Blue          |10      |20.994    |
+|53,570      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|53,570      |Sport-100 Helmet, Black         |10      |20.994    |
+|53,577      |Front Derailleur                |10      |54.894    |
+|53,583      |Front Derailleur                |10      |54.894    |
+|53,583      |Water Bottle - 30 oz.           |10      |2.994     |
+|53,586      |Racing Socks, M                 |10      |5.394     |
+|53,587      |Women's Mountain Shorts, M      |10      |41.994    |
+|53,595      |Women's Mountain Shorts, M      |10      |41.994    |
+|53,598      |Racing Socks, M                 |10      |5.394     |
+|53,614      |Mountain-200 Black, 38          |10      |1,376.994 |
+|53,616      |Classic Vest, M                 |10      |38.1      |
+|53,621      |HL Crankset                     |10      |242.994   |
+|53,621      |Chain                           |10      |12.144    |
+|53,621      |HL Mountain Pedal               |10      |48.594    |
+|43,692      |Long-Sleeve Logo Jersey, L      |10      |28.8404   |
+|55,243      |Water Bottle - 30 oz.           |10      |2.994     |
+|55,243      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|55,249      |Sport-100 Helmet, Blue          |10      |20.994    |
+|55,249      |AWC Logo Cap                    |10      |5.394     |
+|55,249      |Mountain-200 Black, 38          |10      |1,376.994 |
+|55,254      |Hydration Pack - 70 oz.         |10      |32.994    |
+|55,254      |Touring-1000 Yellow, 46         |10      |1,430.442 |
+|55,254      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|55,254      |Touring-3000 Yellow, 44         |10      |445.41    |
+|55,254      |Touring-2000 Blue, 54           |10      |728.91    |
+|55,264      |Classic Vest, S                 |10      |38.1      |
+|55,269      |Water Bottle - 30 oz.           |10      |2.994     |
+|55,269      |Sport-100 Helmet, Blue          |10      |20.994    |
+|55,280      |Road-350-W Yellow, 42           |10      |1,020.594 |
+|55,280      |Road-350-W Yellow, 40           |10      |1,020.594 |
+|55,282      |Hitch Rack - 4-Bike             |10      |72        |
+|55,282      |Sport-100 Helmet, Blue          |10      |20.994    |
+|55,282      |Half-Finger Gloves, M           |10      |14.694    |
+|55,294      |AWC Logo Cap                    |10      |5.394     |
+|55,294      |Sport-100 Helmet, Blue          |10      |20.994    |
+|55,294      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|55,297      |Hydration Pack - 70 oz.         |10      |32.994    |
+|55,303      |Road-750 Black, 48              |10      |323.994   |
+|55,309      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|55,309      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|55,309      |Touring-1000 Yellow, 46         |10      |1,430.442 |
+|55,309      |Water Bottle - 30 oz.           |10      |2.994     |
+|55,322      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|55,322      |Hydration Pack - 70 oz.         |10      |32.994    |
+|55,322      |Sport-100 Helmet, Blue          |10      |20.994    |
+|55,323      |Water Bottle - 30 oz.           |10      |2.994     |
+|55,323      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|55,323      |Short-Sleeve Classic Jersey, S  |10      |32.394    |
+|55,328      |Hitch Rack - 4-Bike             |10      |72        |
+|55,328      |Short-Sleeve Classic Jersey, S  |10      |32.394    |
+|57,012      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|57,012      |Sport-100 Helmet, Blue          |10      |20.994    |
+|57,012      |Touring-3000 Yellow, 50         |10      |445.41    |
+|57,024      |Hitch Rack - 4-Bike             |10      |72        |
+|57,026      |Water Bottle - 30 oz.           |10      |2.994     |
+|57,030      |Women's Mountain Shorts, S      |10      |41.994    |
+|57,034      |AWC Logo Cap                    |10      |5.394     |
+|57,041      |Touring-1000 Yellow, 60         |10      |1,430.442 |
+|57,045      |Touring-1000 Blue, 60           |10      |1,430.442 |
+|57,046      |Hitch Rack - 4-Bike             |10      |72        |
+|57,046      |AWC Logo Cap                    |10      |5.394     |
+|57,046      |Mountain-200 Black, 42          |10      |1,376.994 |
+|57,050      |Women's Mountain Shorts, L      |10      |41.994    |
+|57,051      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|57,051      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|57,051      |Road-750 Black, 52              |10      |323.994   |
+|57,061      |Women's Mountain Shorts, L      |10      |41.994    |
+|57,061      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|57,061      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|57,061      |Water Bottle - 30 oz.           |10      |2.994     |
+|57,061      |Mountain-200 Black, 38          |10      |1,376.994 |
+|57,061      |Half-Finger Gloves, M           |10      |14.694    |
+|57,065      |AWC Logo Cap                    |10      |5.394     |
+|57,065      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|57,067      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|57,067      |HL Mountain Pedal               |10      |48.594    |
+|57,067      |Sport-100 Helmet, Black         |10      |20.994    |
+|57,086      |Long-Sleeve Logo Jersey, XL     |10      |29.994    |
+|57,086      |Hitch Rack - 4-Bike             |10      |72        |
+|57,086      |Sport-100 Helmet, Black         |10      |20.994    |
+|57,093      |Sport-100 Helmet, Red           |10      |20.994    |
+|57,097      |Bike Wash - Dissolver           |10      |4.77      |
+|57,099      |Patch Kit/8 Patches             |10      |1.374     |
+|57,099      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|57,099      |Touring-3000 Blue, 50           |10      |445.41    |
+|57,099      |AWC Logo Cap                    |10      |5.394     |
+|57,105      |Mountain-200 Silver, 46         |10      |1,391.994 |
+|57,105      |Mountain-200 Black, 42          |10      |1,376.994 |
+|57,125      |Bike Wash - Dissolver           |10      |4.77      |
+|57,125      |Sport-100 Helmet, Red           |10      |20.994    |
+|57,132      |AWC Logo Cap                    |10      |5.394     |
+|57,136      |Road-750 Black, 48              |10      |323.994   |
+|57,142      |Racing Socks, L                 |10      |5.394     |
+|57,143      |HL Touring Frame - Blue, 54     |10      |602.346   |
+|57,150      |Touring-1000 Blue, 50           |10      |1,430.442 |
+|57,154      |Touring-3000 Yellow, 62         |10      |445.41    |
+|57,154      |Sport-100 Helmet, Red           |10      |20.994    |
+|57,154      |Bike Wash - Dissolver           |10      |4.77      |
+|57,154      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|57,154      |Half-Finger Gloves, M           |10      |14.694    |
+|57,168      |Racing Socks, M                 |10      |5.394     |
+|57,186      |Mountain-200 Silver, 46         |10      |1,391.994 |
+|58,907      |Sport-100 Helmet, Black         |10      |20.994    |
+|58,908      |Hydration Pack - 70 oz.         |10      |32.994    |
+|58,909      |Water Bottle - 30 oz.           |10      |2.994     |
+|58,915      |Sport-100 Helmet, Blue          |10      |20.994    |
+|58,918      |Bike Wash - Dissolver           |10      |4.77      |
+|58,918      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|58,920      |Hitch Rack - 4-Bike             |10      |72        |
+|58,920      |Road-250 Black, 44              |10      |1,466.01  |
+|58,920      |Bike Wash - Dissolver           |10      |4.77      |
+|58,922      |Hydration Pack - 70 oz.         |10      |32.994    |
+|58,927      |Sport-100 Helmet, Black         |10      |20.994    |
+|58,928      |Classic Vest, M                 |10      |38.1      |
+|58,931      |Sport-100 Helmet, Black         |10      |20.994    |
+|58,931      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|58,932      |Bike Wash - Dissolver           |10      |4.77      |
+|58,932      |Water Bottle - 30 oz.           |10      |2.994     |
+|58,932      |Hydration Pack - 70 oz.         |10      |32.994    |
+|58,948      |Classic Vest, S                 |10      |38.1      |
+|58,956      |Touring-3000 Yellow, 62         |10      |445.41    |
+|58,958      |Bike Wash - Dissolver           |10      |4.77      |
+|58,958      |Touring-3000 Yellow, 44         |10      |445.41    |
+|58,971      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|58,971      |Hitch Rack - 4-Bike             |10      |72        |
+|58,974      |Bike Wash - Dissolver           |10      |4.77      |
+|58,974      |Sport-100 Helmet, Black         |10      |20.994    |
+|58,974      |AWC Logo Cap                    |10      |5.394     |
+|58,980      |Touring-1000 Yellow, 50         |10      |1,430.442 |
+|58,980      |Touring-1000 Yellow, 60         |10      |1,430.442 |
+|58,981      |Sport-100 Helmet, Black         |10      |20.994    |
+|58,981      |Classic Vest, M                 |10      |38.1      |
+|58,981      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|59,011      |Hitch Rack - 4-Bike             |10      |72        |
+|59,011      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|59,011      |Water Bottle - 30 oz.           |10      |2.994     |
+|59,011      |Short-Sleeve Classic Jersey, S  |10      |32.394    |
+|59,065      |Racing Socks, M                 |10      |5.394     |
+|59,068      |Women's Mountain Shorts, S      |10      |41.994    |
+|59,074      |Patch Kit/8 Patches             |10      |1.374     |
+|59,074      |Sport-100 Helmet, Blue          |10      |20.994    |
+|61,179      |Road-350-W Yellow, 40           |10      |1,020.594 |
+|61,184      |Touring-3000 Yellow, 44         |10      |445.41    |
+|61,184      |Classic Vest, S                 |10      |38.1      |
+|61,200      |Touring-1000 Yellow, 60         |10      |1,430.442 |
+|61,204      |Classic Vest, S                 |10      |38.1      |
+|61,218      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|61,224      |Classic Vest, S                 |10      |38.1      |
+|61,228      |Hitch Rack - 4-Bike             |10      |72        |
+|61,236      |Racing Socks, L                 |10      |5.394     |
+|61,240      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|61,243      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|61,243      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|61,248      |Women's Mountain Shorts, S      |10      |41.994    |
+|63,131      |Women's Mountain Shorts, L      |10      |41.994    |
+|63,137      |Women's Mountain Shorts, S      |10      |41.994    |
+|63,141      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|63,171      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|63,178      |Women's Mountain Shorts, S      |10      |41.994    |
+|63,179      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|63,191      |Racing Socks, L                 |10      |5.394     |
+|63,200      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|63,204      |Touring-2000 Blue, 54           |10      |728.91    |
+|63,213      |Racing Socks, L                 |10      |5.394     |
+|63,223      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|63,223      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|63,235      |Women's Mountain Shorts, S      |10      |41.994    |
+|63,257      |Racing Socks, L                 |10      |5.394     |
+|63,266      |Mountain-200 Silver, 46         |10      |1,391.994 |
+|63,281      |Mountain-200 Silver, 38         |10      |1,391.994 |
+|63,284      |Touring-3000 Yellow, 50         |10      |445.41    |
+|63,285      |Racing Socks, L                 |10      |5.394     |
+|63,290      |Women's Mountain Shorts, S      |10      |41.994    |
+|65,154      |Women's Mountain Shorts, L      |10      |41.994    |
+|65,155      |Women's Mountain Shorts, L      |10      |41.994    |
+|65,158      |Touring-1000 Blue, 46           |10      |1,430.442 |
+|65,164      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|65,164      |Hitch Rack - 4-Bike             |10      |72        |
+|65,171      |Women's Mountain Shorts, S      |10      |41.994    |
+|65,174      |Women's Mountain Shorts, L      |10      |41.994    |
+|65,174      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|65,177      |Road-350-W Yellow, 48           |10      |1,020.594 |
+|65,191      |Sport-100 Helmet, Black         |10      |20.994    |
+|65,200      |Women's Mountain Shorts, L      |10      |41.994    |
+|65,207      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|65,224      |Women's Mountain Shorts, L      |10      |41.994    |
+|65,236      |Classic Vest, S                 |10      |38.1      |
+|65,236      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|65,269      |Women's Mountain Shorts, L      |10      |41.994    |
+|67,260      |Sport-100 Helmet, Blue          |10      |20.994    |
+|67,268      |Bike Wash - Dissolver           |10      |4.77      |
+|67,270      |Road-350-W Yellow, 48           |10      |1,020.594 |
+|67,271      |Classic Vest, S                 |10      |38.1      |
+|67,273      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|67,278      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|67,278      |AWC Logo Cap                    |10      |5.394     |
+|67,280      |Racing Socks, M                 |10      |5.394     |
+|67,289      |Half-Finger Gloves, M           |10      |14.694    |
+|67,294      |Classic Vest, M                 |10      |38.1      |
+|67,304      |Road-550-W Yellow, 48           |10      |672.294   |
+|67,305      |Touring-2000 Blue, 60           |10      |728.91    |
+|67,305      |Hydration Pack - 70 oz.         |10      |32.994    |
+|67,305      |Sport-100 Helmet, Black         |10      |20.994    |
+|67,305      |Touring-3000 Blue, 54           |10      |445.41    |
+|67,305      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|67,305      |Sport-100 Helmet, Blue          |10      |20.994    |
+|67,305      |HL Touring Frame - Yellow, 54   |10      |602.346   |
+|67,305      |Touring-1000 Blue, 46           |10      |1,430.442 |
+|67,305      |AWC Logo Cap                    |10      |5.394     |
+|67,316      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|67,316      |Mountain-200 Black, 38          |10      |1,376.994 |
+|67,320      |Road-750 Black, 48              |10      |323.994   |
+|67,325      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|67,325      |Water Bottle - 30 oz.           |10      |2.994     |
+|67,327      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|67,327      |Classic Vest, M                 |10      |38.1      |
+|67,339      |Sport-100 Helmet, Red           |10      |20.994    |
+|67,347      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|67,347      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|67,349      |Sport-100 Helmet, Red           |10      |20.994    |
+|69,399      |Water Bottle - 30 oz.           |10      |2.994     |
+|69,401      |Classic Vest, M                 |10      |38.1      |
+|69,401      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|69,408      |HL Mountain Pedal               |10      |48.594    |
+|69,416      |Racing Socks, M                 |10      |5.394     |
+|69,422      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|69,422      |Sport-100 Helmet, Blue          |10      |20.994    |
+|69,424      |Racing Socks, M                 |10      |5.394     |
+|69,426      |Road-350-W Yellow, 48           |10      |1,020.594 |
+|69,426      |Water Bottle - 30 oz.           |10      |2.994     |
+|69,433      |HL Touring Frame - Yellow, 54   |10      |602.346   |
+|69,437      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|69,437      |Hydration Pack - 70 oz.         |10      |32.994    |
+|69,444      |Sport-100 Helmet, Red           |10      |20.994    |
+|69,450      |Road-350-W Yellow, 40           |10      |1,020.594 |
+|69,454      |Sport-100 Helmet, Black         |10      |20.994    |
+|69,454      |Touring-1000 Yellow, 46         |10      |1,430.442 |
+|69,454      |Hydration Pack - 70 oz.         |10      |32.994    |
+|69,454      |Touring-3000 Yellow, 62         |10      |445.41    |
+|69,456      |Hitch Rack - 4-Bike             |10      |72        |
+|69,461      |Bike Wash - Dissolver           |10      |4.77      |
+|69,464      |Sport-100 Helmet, Red           |10      |20.994    |
+|69,464      |Women's Mountain Shorts, S      |10      |41.994    |
+|69,465      |Classic Vest, S                 |10      |38.1      |
+|69,465      |Long-Sleeve Logo Jersey, M      |10      |29.994    |
+|69,471      |Mountain-500 Silver, 40         |10      |112.998   |
+|69,471      |Mountain-500 Silver, 48         |10      |112.998   |
+|69,471      |Mountain-500 Silver, 44         |10      |112.998   |
+|69,471      |Mountain-400-W Silver, 40       |10      |461.694   |
+|69,475      |AWC Logo Cap                    |10      |5.394     |
+|69,475      |Hydration Pack - 70 oz.         |10      |32.994    |
+|69,475      |Sport-100 Helmet, Red           |10      |20.994    |
+|69,475      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|69,475      |Hitch Rack - 4-Bike             |10      |72        |
+|69,478      |Hitch Rack - 4-Bike             |10      |72        |
+|69,479      |Sport-100 Helmet, Blue          |10      |20.994    |
+|69,503      |Racing Socks, M                 |10      |5.394     |
+|69,508      |Road-350-W Yellow, 42           |10      |1,020.594 |
+|69,511      |Classic Vest, M                 |10      |38.1      |
+|69,511      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|69,522      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|69,526      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|69,531      |Touring-2000 Blue, 50           |10      |728.91    |
+|69,531      |Touring-3000 Yellow, 54         |10      |445.41    |
+|69,535      |Touring-2000 Blue, 54           |10      |728.91    |
+|69,540      |Hydration Pack - 70 oz.         |10      |32.994    |
+|69,540      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|69,540      |Sport-100 Helmet, Red           |10      |20.994    |
+|69,558      |Touring-1000 Blue, 60           |10      |1,430.442 |
+|69,561      |LL Mountain Pedal               |10      |24.294    |
+|69,561      |HL Mountain Pedal               |10      |48.594    |
+|71,779      |Water Bottle - 30 oz.           |10      |2.994     |
+|71,779      |Sport-100 Helmet, Red           |10      |20.994    |
+|71,782      |AWC Logo Cap                    |10      |5.394     |
+|71,782      |Bike Wash - Dissolver           |10      |4.77      |
+|71,783      |Water Bottle - 30 oz.           |10      |2.994     |
+|71,783      |Classic Vest, M                 |10      |38.1      |
+|71,783      |Sport-100 Helmet, Red           |10      |20.994    |
+|71,784      |AWC Logo Cap                    |10      |5.394     |
+|71,784      |Touring-1000 Blue, 60           |10      |1,430.442 |
+|71,784      |Sport-100 Helmet, Red           |10      |20.994    |
+|71,794      |Water Bottle - 30 oz.           |10      |2.994     |
+|71,794      |Bike Wash - Dissolver           |10      |4.77      |
+|71,795      |Hydration Pack - 70 oz.         |10      |32.994    |
+|71,797      |Hydration Pack - 70 oz.         |10      |32.994    |
+|71,797      |Hitch Rack - 4-Bike             |10      |72        |
+|71,797      |Road-550-W Yellow, 38           |10      |672.294   |
+|71,801      |Sport-100 Helmet, Red           |10      |20.994    |
+|71,803      |Half-Finger Gloves, M           |10      |14.694    |
+|71,805      |Half-Finger Gloves, M           |10      |14.694    |
+|71,808      |Classic Vest, M                 |10      |38.1      |
+|71,808      |Hitch Rack - 4-Bike             |10      |72        |
+|71,830      |Sport-100 Helmet, Black         |10      |20.994    |
+|71,830      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|71,839      |Short-Sleeve Classic Jersey, XL |10      |32.394    |
+|71,839      |Touring-2000 Blue, 54           |10      |728.91    |
+|71,839      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|71,841      |Mountain-400-W Silver, 46       |10      |461.694   |
+|71,841      |Mountain-200 Black, 38          |10      |1,376.994 |
+|71,844      |Long-Sleeve Logo Jersey, L      |10      |29.994    |
+|71,844      |Short-Sleeve Classic Jersey, L  |10      |32.394    |
+|71,851      |Half-Finger Gloves, M           |10      |14.694    |
+|71,851      |Sport-100 Helmet, Blue          |10      |20.994    |
+|71,852      |Racing Socks, M                 |10      |5.394     |
+|71,857      |Racing Socks, L                 |10      |5.394     |
+|71,889      |Hydration Pack - 70 oz.         |10      |32.994    |
+|71,889      |Hitch Rack - 4-Bike             |10      |72        |
+|71,890      |Racing Socks, L                 |10      |5.394     |
+|71,936      |Mountain-200 Black, 42          |10      |1,376.994 |
+|71,941      |Racing Socks, L                 |10      |5.394     |
+|71,952      |Mountain-200 Silver, 38         |10      |1,391.994 |
+|71,952      |Front Derailleur                |10      |54.894    |

@@ -1,0 +1,39 @@
+|name             |count|
+|-----------------|-----|
+|Bottles and Cages|3    |
+|Touring Frames   |18   |
+|Handlebars       |8    |
+|Cleaners         |1    |
+|Pedals           |7    |
+|Hydration Packs  |1    |
+|Road Frames      |33   |
+|Bib-Shorts       |3    |
+|Lights           |3    |
+|Helmets          |3    |
+|Touring Bikes    |22   |
+|Pumps            |2    |
+|Mountain Frames  |28   |
+|Brakes           |2    |
+|Gloves           |6    |
+|Fenders          |1    |
+|Chains           |1    |
+|Saddles          |9    |
+|Cranksets        |3    |
+|Locks            |1    |
+|Panniers         |1    |
+|Shorts           |7    |
+|Bottom Brackets  |3    |
+|Wheels           |14   |
+|Mountain Bikes   |32   |
+|Tights           |3    |
+|Forks            |3    |
+|Bike Racks       |1    |
+|Tires and Tubes  |11   |
+|Bike Stands      |1    |
+|Headsets         |3    |
+|Jerseys          |8    |
+|Road Bikes       |43   |
+|Socks            |4    |
+|Derailleurs      |2    |
+|Vests            |3    |
+|Caps             |1    |

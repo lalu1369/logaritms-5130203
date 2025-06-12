@@ -1,0 +1,183 @@
+|productid|name                    |safetystocklevel|
+|---------|------------------------|----------------|
+|1        |Adjustable Race         |1,000           |
+|3        |BB Ball Bearing         |800             |
+|2        |Bearing Ball            |1,000           |
+|316      |Blade                   |800             |
+|324      |Chain Stays             |1,000           |
+|322      |Chainring               |1,000           |
+|320      |Chainring Bolts         |1,000           |
+|321      |Chainring Nut           |1,000           |
+|505      |Cone-Shaped Race        |1,000           |
+|323      |Crown Race              |1,000           |
+|504      |Cup-Shaped Race         |1,000           |
+|325      |Decal 1                 |1,000           |
+|326      |Decal 2                 |1,000           |
+|327      |Down Tube               |800             |
+|409      |External Lock Washer 1  |1,000           |
+|411      |External Lock Washer 2  |1,000           |
+|403      |External Lock Washer 3  |1,000           |
+|404      |External Lock Washer 4  |1,000           |
+|406      |External Lock Washer 5  |1,000           |
+|408      |External Lock Washer 6  |1,000           |
+|407      |External Lock Washer 7  |1,000           |
+|410      |External Lock Washer 8  |1,000           |
+|405      |External Lock Washer 9  |1,000           |
+|341      |Flat Washer 1           |1,000           |
+|343      |Flat Washer 2           |1,000           |
+|346      |Flat Washer 3           |1,000           |
+|345      |Flat Washer 4           |1,000           |
+|348      |Flat Washer 5           |1,000           |
+|342      |Flat Washer 6           |1,000           |
+|349      |Flat Washer 7           |1,000           |
+|347      |Flat Washer 8           |1,000           |
+|344      |Flat Washer 9           |1,000           |
+|350      |Fork Crown              |800             |
+|331      |Fork End                |800             |
+|351      |Front Derailleur Cage   |800             |
+|352      |Front Derailleur Linkage|800             |
+|355      |Guide Pulley            |800             |
+|398      |Handlebar Tube          |800             |
+|399      |Head Tube               |800             |
+|4        |Headset Ball Bearings   |800             |
+|386      |Hex Nut 1               |1,000           |
+|387      |Hex Nut 10              |1,000           |
+|388      |Hex Nut 11              |1,000           |
+|384      |Hex Nut 12              |1,000           |
+|385      |Hex Nut 13              |1,000           |
+|393      |Hex Nut 14              |1,000           |
+|394      |Hex Nut 15              |1,000           |
+|377      |Hex Nut 16              |1,000           |
+|378      |Hex Nut 17              |1,000           |
+|396      |Hex Nut 18              |1,000           |
+|397      |Hex Nut 19              |1,000           |
+|389      |Hex Nut 2               |1,000           |
+|390      |Hex Nut 20              |1,000           |
+|391      |Hex Nut 21              |1,000           |
+|382      |Hex Nut 22              |1,000           |
+|383      |Hex Nut 23              |1,000           |
+|392      |Hex Nut 3               |1,000           |
+|395      |Hex Nut 4               |1,000           |
+|375      |Hex Nut 5               |1,000           |
+|376      |Hex Nut 6               |1,000           |
+|379      |Hex Nut 7               |1,000           |
+|380      |Hex Nut 8               |1,000           |
+|381      |Hex Nut 9               |1,000           |
+|358      |HL Grip Tape            |800             |
+|509      |HL Mountain Rim         |800             |
+|491      |HL Nipple               |1,000           |
+|512      |HL Road Rim             |800             |
+|526      |HL Shell                |800             |
+|419      |Internal Lock Washer 1  |1,000           |
+|418      |Internal Lock Washer 10 |1,000           |
+|421      |Internal Lock Washer 2  |1,000           |
+|412      |Internal Lock Washer 3  |1,000           |
+|413      |Internal Lock Washer 4  |1,000           |
+|415      |Internal Lock Washer 5  |1,000           |
+|417      |Internal Lock Washer 6  |1,000           |
+|416      |Internal Lock Washer 7  |1,000           |
+|420      |Internal Lock Washer 8  |1,000           |
+|414      |Internal Lock Washer 9  |1,000           |
+|402      |Keyed Washer            |1,000           |
+|356      |LL Grip Tape            |800             |
+|507      |LL Mountain Rim         |800             |
+|490      |LL Nipple               |1,000           |
+|510      |LL Road Rim             |800             |
+|525      |LL Shell                |800             |
+|449      |Lock Nut 1              |1,000           |
+|450      |Lock Nut 10             |1,000           |
+|451      |Lock Nut 11             |1,000           |
+|447      |Lock Nut 12             |1,000           |
+|448      |Lock Nut 13             |1,000           |
+|456      |Lock Nut 14             |1,000           |
+|457      |Lock Nut 15             |1,000           |
+|440      |Lock Nut 16             |1,000           |
+|441      |Lock Nut 17             |1,000           |
+|460      |Lock Nut 18             |1,000           |
+|459      |Lock Nut 19             |1,000           |
+|452      |Lock Nut 2              |1,000           |
+|453      |Lock Nut 20             |1,000           |
+|454      |Lock Nut 21             |1,000           |
+|445      |Lock Nut 22             |1,000           |
+|446      |Lock Nut 23             |1,000           |
+|455      |Lock Nut 3              |1,000           |
+|458      |Lock Nut 4              |1,000           |
+|438      |Lock Nut 5              |1,000           |
+|439      |Lock Nut 6              |1,000           |
+|442      |Lock Nut 7              |1,000           |
+|443      |Lock Nut 8              |1,000           |
+|444      |Lock Nut 9              |1,000           |
+|461      |Lock Ring               |1,000           |
+|469      |Lock Washer 1           |1,000           |
+|465      |Lock Washer 10          |1,000           |
+|475      |Lock Washer 11          |1,000           |
+|471      |Lock Washer 12          |1,000           |
+|467      |Lock Washer 13          |1,000           |
+|472      |Lock Washer 2           |1,000           |
+|474      |Lock Washer 3           |1,000           |
+|463      |Lock Washer 4           |1,000           |
+|464      |Lock Washer 5           |1,000           |
+|466      |Lock Washer 6           |1,000           |
+|470      |Lock Washer 7           |1,000           |
+|468      |Lock Washer 8           |1,000           |
+|473      |Lock Washer 9           |1,000           |
+|462      |Lower Head Race         |1,000           |
+|476      |Metal Angle             |1,000           |
+|477      |Metal Bar 1             |1,000           |
+|478      |Metal Bar 2             |1,000           |
+|480      |Metal Plate 1           |1,000           |
+|479      |Metal Plate 2           |1,000           |
+|481      |Metal Plate 3           |1,000           |
+|488      |Metal Sheet 1           |1,000           |
+|482      |Metal Sheet 2           |1,000           |
+|483      |Metal Sheet 3           |1,000           |
+|485      |Metal Sheet 4           |1,000           |
+|486      |Metal Sheet 5           |1,000           |
+|487      |Metal Sheet 6           |1,000           |
+|484      |Metal Sheet 7           |1,000           |
+|489      |Metal Tread Plate       |1,000           |
+|357      |ML Grip Tape            |800             |
+|508      |ML Mountain Rim         |800             |
+|511      |ML Road Rim             |800             |
+|328      |Mountain End Caps       |1,000           |
+|497      |Pinch Bolt              |1,000           |
+|506      |Reflector               |1,000           |
+|329      |Road End Caps           |1,000           |
+|528      |Seat Lug                |1,000           |
+|532      |Seat Stays              |800             |
+|527      |Spokes                  |1,000           |
+|535      |Tension Pulley          |800             |
+|361      |Thin-Jam Hex Nut 1      |1,000           |
+|360      |Thin-Jam Hex Nut 10     |1,000           |
+|374      |Thin-Jam Hex Nut 11     |1,000           |
+|373      |Thin-Jam Hex Nut 12     |1,000           |
+|369      |Thin-Jam Hex Nut 13     |1,000           |
+|370      |Thin-Jam Hex Nut 14     |1,000           |
+|363      |Thin-Jam Hex Nut 15     |1,000           |
+|364      |Thin-Jam Hex Nut 16     |1,000           |
+|362      |Thin-Jam Hex Nut 2      |1,000           |
+|367      |Thin-Jam Hex Nut 3      |1,000           |
+|368      |Thin-Jam Hex Nut 4      |1,000           |
+|365      |Thin-Jam Hex Nut 5      |1,000           |
+|366      |Thin-Jam Hex Nut 6      |1,000           |
+|371      |Thin-Jam Hex Nut 7      |1,000           |
+|372      |Thin-Jam Hex Nut 8      |1,000           |
+|359      |Thin-Jam Hex Nut 9      |1,000           |
+|424      |Thin-Jam Lock Nut 1     |1,000           |
+|423      |Thin-Jam Lock Nut 10    |1,000           |
+|437      |Thin-Jam Lock Nut 11    |1,000           |
+|436      |Thin-Jam Lock Nut 12    |1,000           |
+|432      |Thin-Jam Lock Nut 13    |1,000           |
+|433      |Thin-Jam Lock Nut 14    |1,000           |
+|426      |Thin-Jam Lock Nut 15    |1,000           |
+|427      |Thin-Jam Lock Nut 16    |1,000           |
+|425      |Thin-Jam Lock Nut 2     |1,000           |
+|430      |Thin-Jam Lock Nut 3     |1,000           |
+|431      |Thin-Jam Lock Nut 4     |1,000           |
+|428      |Thin-Jam Lock Nut 5     |1,000           |
+|429      |Thin-Jam Lock Nut 6     |1,000           |
+|434      |Thin-Jam Lock Nut 7     |1,000           |
+|435      |Thin-Jam Lock Nut 8     |1,000           |
+|422      |Thin-Jam Lock Nut 9     |1,000           |
+|330      |Touring End Caps        |1,000           |
+|513      |Touring Rim             |800             |

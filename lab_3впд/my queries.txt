@@ -1,0 +1,39 @@
+SELECT 
+    productid, 
+    name, 
+    safetystocklevel
+FROM 
+    "production".product
+WHERE 
+    safetystocklevel > 500
+ORDER BY 
+    name ASC;
+///////////////////////////////////////////////////
+SELECT 
+    od.salesorderid, 
+    p.name AS product_name, 
+    od.orderqty, 
+    od.unitprice
+FROM 
+    "sales".salesorderdetail od
+INNER JOIN 
+    "production".product p ON od.productid = p.productid
+WHERE 
+    od.orderqty >= 10
+ORDER BY 
+    od.orderqty DESC;
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+SELECT 
+    p.productid, 
+    p.name, 
+    SUM(od.orderqty) AS total_ordered
+FROM 
+    "sales".salesorderdetail od
+INNER JOIN 
+    "production".product p ON od.productid = p.productid
+GROUP BY 
+    p.productid, p.name
+HAVING 
+    SUM(od.orderqty) > 100
+ORDER BY 
+    total_ordered DESC;
