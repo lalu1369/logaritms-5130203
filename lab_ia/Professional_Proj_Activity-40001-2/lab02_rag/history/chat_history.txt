@@ -1,21 +1,48 @@
-User: Which is the Address on university?
+User: Which are the last 4 news?
 Bot: <think>
-Okay, so I need to figure out the address of Peter the Great St. Petersburg Polytechnic University based on the given context. Let me start by reading through the context carefully.
+Okay, so I need to figure out which are the last four news from the provided context. Let me go through each entry step by step.
 
-The context mentions several sections like Institutes, Departments, International Office, Admission Office, and various other links such as Prospective Students, Current Students, etc. There's also a mention of the university's ranking, system of education, visa issues, virtual tour, books, and some contact information at the end.
+First, looking at the list of events:
 
-Looking for the address, I see that towards the end of the context, there's an "Address" section. It says: "Contacts Address: Russia, 195251, St.Petersburg, Polytechnicheskaya, 29 B". There are also phone numbers provided, but since the question is about the address, I can focus on that part.
+1. "Читайте также Как электронные сигареты влияют на органы дыхания 11:31" — This is a news item about electronic sigarets affecting respiratory organs.
+2. "Биокад" судится с "АстраЗенекой" из-за нового онкопрепарата 09.06.2025, 09:57 — This seems like a news about a new hypopercarpate operation in the Russian Federation.
+3. "Как готовят спортсменов в футбольной академии 05.06.2025, 11:50" — This is about preparing athletes for football academia.
+4. "Назван новый способ пополнения карты «Тройка» 04.06.2025, 14:22" — This mentions a new method to fill the "Triplets" card.
+5. "В такси выросло число поездок с детьми 30.05.2025, 19:47" — This is about increased taxi rides with children.
 
-I should make sure to include all parts of the address clearly. The country is Russia, the city is St. Petersburg, and the street is Polytechnicheskaya, 29 B. The postal code isn't directly mentioned, but sometimes in such contexts, the postal code might be inferred from the city, which is 195251 for St. Petersburg.
+Now, I need to determine which of these are recent news. Let's check the dates:
 
-I should present this information in a clear and concise manner, probably as a bullet point or separate lines for each part of the address to make it easy to read.
+- The last event mentioned is "В такси выросло число поездок с детьми 30.05.2025, 19:47" from May 30, 2025.
+- The previous events are all in June and July of 2025.
+
+So the last four news would be the most recent ones. But looking at the list, there are only five entries. If we consider "в такси" as the fifth, then maybe the last four include this one along with others from earlier dates. Wait, but the user is asking for the last four in general.
+
+Wait, perhaps I'm misunderstanding. The context lists events up to May 30, 2025, and the next event would be June 5th. But since there are only five entries, maybe the last four include all except the first one. However, without more context on what's considered recent, it's hard to say.
+
+Alternatively, perhaps "в такси" is the fifth news item, so if we're looking for the last four in a list that includes these, but since there are only five, maybe the last four would be from May 30 and earlier. But I'm not sure about the exact order.
+
+Wait, let me recount:
+
+1. 11:31
+2. 09:57
+3. 05:06
+4. 14:22
+5. 19:47
+
+So if we're listing all news in chronological order, the last four would be from May 30, 2025, and earlier dates until June 5, 2025.
+
+But without knowing what's considered recent, it's tricky. Maybe the user is referring to the most recent ones after a certain point. Alternatively, perhaps "в такси" is the last one, so if we're considering the last four in order, it would be from May 30 onwards and before June 5.
+
+But I think the best approach is to list all five entries as news items and pick the last four based on their occurrence. So the last four would include "в такси", then the next ones until perhaps another event after that date.
+
+Wait, but without more context, it's hard to determine exactly which are the last four. However, since there are only five events, I think the user is asking for all of them as news items, so maybe they just want a list of these five.
 </think>
 
-The address of Peter the Great St. Petersburg Polytechnic University is located at:
+The last four news from the provided context would be:
 
-- **Country:** Russia
-- **City:** St. Petersburg
-- **Street Address:** Polytechnicheskaya, 29 B
-- **Postal Code:** 195251 (for reference)
+1. "В такси выросло число поездок с детьми 30.05.2025, 19:47"
+2. "Биокад" судится с "АстраЗенекой" из-за нового онкопрепарата 09.06.2025, 09:57
+3. "Как готовят спортсменов в футбольной академии 05.06.2025, 11:50"
+4. "Назван новый способ пополнения карты «Тройка» 04.06.2025, 14:22"
 
-This information is derived from the provided context and should be used accordingly.
+These are the most recent entries in chronological order from May 30, 2025, up to June 5, 2025.

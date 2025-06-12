@@ -1,303 +1,75 @@
-[ ![](https://english.spbstu.ru/local/templates/main/img/polytech-logo-en-small.svg)](https://english.spbstu.ru/)
-Navigation
-[Version for visually Impaired](https://english.spbstu.ru/university/ "Version for visually Impaired")
-  * [Institutions](https://english.spbstu.ru/structure/institutes/)
-  * [Departments](https://english.spbstu.ru/structure/units/)
-
-
-[en](https://english.spbstu.ru/)
-  * [cn](https://chinese.spbstu.ru/)
-  * [ru](https://www.spbstu.ru/)
-  * [es](https://spanish.spbstu.ru)
-
-
-  * [Institutions](javascript:void\(0\))
-[ Map of the campus](https://english.spbstu.ru/campus-map/)[ Virtual tour](https://vt.spbstu.ru/virt_polytech/)
-Institutes
-    * [Institute of Humanities](https://hum.spbstu.ru)
-    * [Institute of Civil Engineering](https://ice.spbstu.ru/)
-    * [Institute of Biomedical Systems and Biotechnology](https://ibmst.spbstu.ru/)
-    * [Institute of Cybersecurity and Computer Science](https://iccs.spbstu.ru/en/)
-    * [Institute of Machinery, Materials, and Transport](https://immit.spbstu.ru/)
-    * [Institute of Physics and Mathematics](https://phmath.spbstu.ru/)
-    * [Institute of Physical Education, Sport and Tourism](https://ifkst.spbstu.ru/)
-    * [Institute of Electronics and Telecommunications](https://et.spbstu.ru)
-    * [Institute of Energy](https://ie.spbstu.ru)
-    * [School of Advanced Engineering Studies in Digital Engineering](https://pish.spbstu.ru/article/peredovaya-inzhenernaya-shkola)
-    * [Institute of Physics and Mechanics](https://physmech.spbstu.ru)
-    * [Institute of Industrial Management, Economics and Trade](https://imet.spbstu.ru/)
-Higher Schools
-    * [Higher School of International Educational Programs ](https://iep.spbstu.ru/)
-BRANCHES AND REPRESENTATIONS
-    * [Institute of Nuclear Power Engineering in Sosnovyi Bor (SPbPU Branch, Russia)](https://sbor.spbstu.ru)
-    * [SPbPU Representative Office in Shanghai (China)](https://english.spbstu.ru/structure/representative-office-spbpu-shanghai/)
-Centers for continuing education and retraining
-    * [Center of Language Studies](https://do.spbstu.ru/)
-    * [Higher School of Engineering](https://english.spbstu.ru/structure/higher_engineering_school/)
-  * [Departments](javascript:void\(0\))
-Administrative divisions
-    * [Rector’s Office](https://english.spbstu.ru/structure/rektorat/)
-    * [Audit and Economic Security Office](https://english.spbstu.ru/structure/sluzhba_audita_finansovogo_kontrolya_i_ekonomicheskoy_bezopasnosti/)
-    * [UNESCO Department of “Management of the quality of education in the interest of sustainable development” ](https://english.spbstu.ru/structure/kafedra_yunesko_upravlenie_kachestvom_dlya_ustoychivogo_razvitiya/)
-Research Activity
-Educational activity
-    * [Student Creative Work and Cultural Programs Department](https://english.spbstu.ru/structure/departament_molodezhnogo_tvorchestva_i_kulturnykh_programm/)
-    * [Library complex](https://english.spbstu.ru/structure/informatsionno_bibliotechnyy_kompleks/)
-    * [North-West Regional Intercollegiate Education and Research Centre SPbPU-FESTO](https://english.spbstu.ru/structure/educational-scientific-center-spbpu-festo/)
-    * [Center for Education Quality ](https://english.spbstu.ru/structure/tsentr_kachestva_obrazovaniya/)
-    * [Center for Electronic Educational Resources and Distance Learning](https://english.spbstu.ru/structure/open-education-center/)
-International activity
-    * [Supply Center for International Activity](https://english.spbstu.ru/structure/resursnyy_tsentr_mezhdunarodnoy_deyatelnosti/)
-    * [International Education Office](https://english.spbstu.ru/structure/upravlenie_mezhdunarodnogo_obrazovaniya/)
-    * [International Relations Office](https://english.spbstu.ru/structure/upravlenie_mezhdunarodnogo_sotrudnichestva/)
-Innovative projects
-    * [ Scientific Educational Center “Teaching and Learning Board of Russian Higher Education Establishments”](https://english.spbstu.ru/structure/teaching_union_universities_russia/)
-    * [Department of Strategic Planning and Development Programs](https://english.spbstu.ru/structure/departament_strategicheskogo_planirovaniya_i_razvitiya_2976/)
-    * [Economic Planning Office](https://english.spbstu.ru/structure/department_economics/)
-    * [Information technology office](https://english.spbstu.ru/structure/otdel_information_technology/)
-Information resource division
-    * [Chief Engineer Office](https://english.spbstu.ru/structure/departament_glavnogo_inzhenera/)
-INFORMATION RESOURCE DIVISION
-Safety
-    * [Fire Safety Office](https://english.spbstu.ru/structure/civil_security_management/)
-SPbPU Accommodation Complex 
-    * [SPbPU Accommodation Complex ](https://english.spbstu.ru/structure/student_residencek_spbgpu/)
-
-
-[![](https://english.spbstu.ru/local/templates/main/img/polytech-logo-en-big.svg)](https://english.spbstu.ru/)
-  * [ Prospective Students](https://english.spbstu.ru/prospective-students/)
-    * [How to apply ](https://english.spbstu.ru/education/admissions/)
-    * [Study programs ](https://english.spbstu.ru/education/programs/)
-    * [Scholarship](https://english.spbstu.ru/education/admissions/scholarships/)
-    * [System of education](https://english.spbstu.ru/education/programs/system-education/)
-    * [Accommodation](https://english.spbstu.ru/education/students-life/accommodation/)
-    * [About St.Petersburg](https://english.spbstu.ru/education/students-life/about-st-petersburg/)
-    * [Living Costs](https://english.spbstu.ru/education/students-life/living-costs/)
-  * [ Current Students](https://english.spbstu.ru/students/)
-    * [Personal Student’s Account](https://open.spbstu.ru/lk-learner/)
-    * [Scholarships](https://english.spbstu.ru/education/admissions/scholarships/)
-    * [Students' Communities](https://english.spbstu.ru/education/students-life/students-communities/)
-    * [Campus Life](https://english.spbstu.ru/education/students-life/campus-life/)
-    * [Students' Communities](https://english.spbstu.ru/education/students-life/students-communities/)
-    * [Sports](https://english.spbstu.ru/education/students-life/sport/)
-    * [Information and library complex](https://english.spbstu.ru/students/information-library-complex/)
-  * [ Faculty and Staff](https://english.spbstu.ru/faculty-staff/)
-    * [Job Opportunities](https://english.spbstu.ru/international/international-faculty/job-opportunities/)
-    * [Support for International Faculty](https://english.spbstu.ru/international/international-faculty/support-international-faculty/)
-    * [Documents](https://english.spbstu.ru/international/international-faculty/documents/)
-  * [ Business](https://english.spbstu.ru/business/)
-    * [Education for Business](https://english.spbstu.ru/business/education-business/)
-    * [Become a Partner](https://english.spbstu.ru/business/become-partner/)
-    * [Donate](https://english.spbstu.ru/business/donate/)
-    * [Contacts](https://english.spbstu.ru/international/general-information/international-offices/)
-  * [ Partners](https://english.spbstu.ru/partners/)
-    * [Events](https://english.spbstu.ru/science/events/conferences/)
-    * [Our Partners](https://english.spbstu.ru/international/collaboration/partners/)
-    * [Contacts](https://english.spbstu.ru/international/general-information/international-offices/)
-    * [Materials for partners](https://english.spbstu.ru/partners/materials-for-partners/)
-  * [ Alumni](https://english.spbstu.ru/alumni/)
-    * [Alumni Center ](https://english.spbstu.ru/alumni/alumni-center/)
-    * [Distinguished Alumni](https://english.spbstu.ru/alumni/distinguished-alumni/)
-    * [Endowment Fund](https://english.spbstu.ru/alumni/endowment-fund/)
-
-
-  * [About Us](https://english.spbstu.ru/university/)
-General Info
-    * [SPbPU 125th Anniversary](https://english.spbstu.ru/university/about-the-university/spbpu-120/)
-    * [Rector`s Foreword](https://english.spbstu.ru/university/about-the-university/welcome-to-the-university/)
-    * [SPbPU Names](https://english.spbstu.ru/university/about-the-university/names/)
-    * [Our History](https://english.spbstu.ru/university/about-the-university/history/)
-    * [Mission and values](https://english.spbstu.ru/university/about-the-university/vision-values/)
-    * [Charter](https://english.spbstu.ru/university/about-the-university/charter/)
-    * [Facts & Figures](https://english.spbstu.ru/university/about-the-university/facts-figures/)
-Structure & Governance
-    * [Governance](https://english.spbstu.ru/university/structure-governance/governance/)
-    * [Institutions](https://english.spbstu.ru/structure/institutes/)
-    * [Departments](https://english.spbstu.ru/structure/units/)
-    * [Personalities](https://english.spbstu.ru/university/about-the-university/personalities/)
-Key Strategic Points
-    * [Priority 2030](https://english.spbstu.ru/university/key-strategic-points/priority-2030/)
-    * [National Research University](https://english.spbstu.ru/university/key-strategic-points/national-research-university/)
-    * [Russian State Project "5-100-2020"](https://english.spbstu.ru/university/key-strategic-points/russian-state-project-5-100-2020/)
-    * [Rankings](https://english.spbstu.ru/university/key-strategic-points/rankings/)
-    * [Strategic Partners](https://english.spbstu.ru/university/key-strategic-points/strategic-partners/)
-Virtual SPbPU
-    * [Photo Gallery](https://english.spbstu.ru/media/photo-gallery/)
-    * [Virtual Tour](https://vt.spbstu.ru/virt_polytech/)
-    * [Online Excursion](https://vt.spbstu.ru/gz-en/)
-    * [Campus Map](https://english.spbstu.ru/campus-map/)
-  * [Education](https://english.spbstu.ru/education/)
-Programs
-    * [University Foundation Program](https://english.spbstu.ru/education/programs/university-foundation-program/)
-    * [Degree Programs in Russian](https://english.spbstu.ru/education/programs/degree-programs/)
-    * [Degree Programs in English](https://english.spbstu.ru/education/programs/programs-in-english/)
-    * [Double Degree Programs](https://english.spbstu.ru/education/programs/double-degree-programs/)
-    * [Short-term Programs](https://english.spbstu.ru/education/programs/short-term-programs/)
-    * [Student's testimonials](https://english.spbstu.ru/education/programs/students-testimonials/)
-    * [Internships/Jobs for international students](https://english.spbstu.ru/education/programs/internships-jobs-international-students/)
-Admissions
-    * [How to apply](https://english.spbstu.ru/education/admissions/)
-    * [Admission Procedure](https://english.spbstu.ru/education/admissions/admission-procedure/)
-    * [Application Form](https://enroll.spbstu.ru/sign-in)
-    * [Visa Support](https://english.spbstu.ru/education/admissions/visa-issues/)
-    * [Scholarship](https://english.spbstu.ru/education/admissions/scholarships/)
-    * [Readmission and Transfer to SPbPU of International Students](https://english.spbstu.ru/education/admissions/readmission-transfer/)
-Student’s Life
-    * [Accommodation](https://english.spbstu.ru/education/students-life/accommodation/)
-    * [Living Costs](https://english.spbstu.ru/education/students-life/living-costs/)
-    * [Campus Life](https://english.spbstu.ru/education/students-life/campus-life/)
-    * [Sports](https://english.spbstu.ru/education/students-life/sport/)
-    * [Tutor support ](https://english.spbstu.ru/education/students-life/tutor-support/)
-    * [Student’s Communities](https://english.spbstu.ru/education/students-life/students-communities/)
-    * [Our City Saint Petersburg](https://english.spbstu.ru/education/students-life/about-st-petersburg/)
-General Info
-    * [System of Education](https://english.spbstu.ru/education/general-info/system-education/)
-    * [Regulations](https://english.spbstu.ru/education/general-info/regulations/)
-    * [Admission Offices](https://english.spbstu.ru/education/general-info/admission-offices/)
-    * [PolySPACE for international students](https://english.spbstu.ru/education/general-info/polyspace-for-international-students/)
-  * [Science & Research](https://english.spbstu.ru/science/)
-[![](https://english.spbstu.ru/local/templates/main/img/genius.svg?v=1) Science & Research Portal ](https://research.spbstu.ru/en/ "Science & Research Portal")
-General Info
-    * [Our Periodicals](https://english.spbstu.ru/science/general-information/periodicals/)
-    * [Research Programs and Activities](https://english.spbstu.ru/science/general-information/research-programs-activities/)
-    * [Areas of Research](https://english.spbstu.ru/science/general-information/areas-research/)
-    * [Grants and Awards](https://english.spbstu.ru/science/general-information/grants-awards/)
-Structure
-    * [Research Centers](https://english.spbstu.ru/science/structure/research-centers/)
-    * [Research Laboratories](https://english.spbstu.ru/science/structure/research-laboratories/)
-    * [Joint Science and Technology Institute](https://english.spbstu.ru/science/structure/joint-science-technology-institute/)
-    * [Technopark](https://english.spbstu.ru/science/structure/technopark/)
-Scientific Events
-    * [International Week of Science](https://english.spbstu.ru/science/events/week-science/)
-    * [Conferences](https://english.spbstu.ru/science/events/conferences/)
-  * [International activities](https://english.spbstu.ru/international/)
-General Information
-    * [International Vision](https://english.spbstu.ru/international/general-information/international-vision/)
-    * [International Facts](https://english.spbstu.ru/international/general-information/international-facts/)
-    * [International Office](https://english.spbstu.ru/international/general-information/international-offices/)
-    * [SPbPU Representative Office in Shanghai](https://english.spbstu.ru/international/general-information/ro/about/)
-    * [International office of SPbPU in Nanjing](https://english.spbstu.ru/international/general-information/international-office-of-spbpu-in-nanjing/)
-    * [ Supply Center for International Activity](https://english.spbstu.ru/international/general-information/international-resource-center/)
-    * [Centre for International Credential Evaluation](https://english.spbstu.ru/international/general-information/center-International-credential-evaluation/)
-Collaboration
-    * [Partners](https://english.spbstu.ru/international/collaboration/partners/)
-    * [International Polytechnic Week](https://english.spbstu.ru/international/collaboration/international-polytechnic-week/)
-    * [International Networks and Alliances](https://english.spbstu.ru/international/collaboration/international-networks-alliances/)
-    * [Projects](https://english.spbstu.ru/international/collaboration/projects/)
-    * [International Scientific Cooperation](https://english.spbstu.ru/international/collaboration/international-scientific-cooperation/)
-    * [International Research and Education Centers](https://english.spbstu.ru/science/structure/research-centers/)
-    * [ERASMUS+](https://english.spbstu.ru/international/collaboration/erasmus/)
-    * [SPbPU International Review](https://english.spbstu.ru/international/collaboration/spbpu-international-review/)
-    * [International Students Project Marathon](https://english.spbstu.ru/international/collaboration/student-design-marathon/)
-Education
-    * [Degree Program in English](https://english.spbstu.ru/education/programs/programs-in-english/)
-    * [Double Degree](https://english.spbstu.ru/education/programs/double-degree-programs/)
-    * [Semester for free-movers](https://english.spbstu.ru/education/programs/short-term-programs/semesters-english/)
-    * [Summer Schools](https://english.spbstu.ru/education/programs/short-term-programs/summer-school/)
-    * [Winter Schools](https://english.spbstu.ru/education/programs/short-term-programs/winter-school/)
-    * [Exchange semester](https://english.spbstu.ru/education/programs/short-term-programs/exchange-programs/)
-    * [Admissions](https://english.spbstu.ru/education/admissions/admission/)
-    * [Russian Studies and Russian Language](https://english.spbstu.ru/education/programs/short-term-programs/russian-language-studies/)
-International Faculty
-    * [Job Opportunities](https://english.spbstu.ru/international/international-faculty/job-opportunities/)
-    * [Support for International Faculty](https://english.spbstu.ru/international/international-faculty/support-international-faculty/)
-    * [Documents](https://english.spbstu.ru/international/international-faculty/documents/)
-  * [Media](https://english.spbstu.ru/media/)
-    * [News](https://english.spbstu.ru/media/news/)
-    * [Events](https://english.spbstu.ru/media/events/)
-    * [Media about us](https://english.spbstu.ru/media/smi/)
-    * [Photo gallery](https://mstore.spbstu.ru/photo/)
-    * [Video gallery](https://english.spbstu.ru/media/video-gallery/)
-  * [Contacts](https://english.spbstu.ru/contacts/)
-
-
-  1. [](https://english.spbstu.ru/)
-  2. About Us
-
-
-### Sections
-  * [General Info](https://english.spbstu.ru/university/about-the-university/)
-    * [SPbPU 125th Anniversary](https://english.spbstu.ru/university/about-the-university/spbpu-120/)
-    * [Rector`s Foreword](https://english.spbstu.ru/university/about-the-university/welcome-to-the-university/)
-    * [SPbPU Names](https://english.spbstu.ru/university/about-the-university/names/)
-    * [Our History](https://english.spbstu.ru/university/about-the-university/history/)
-    * [Mission and values](https://english.spbstu.ru/university/about-the-university/vision-values/)
-    * [Charter](https://english.spbstu.ru/university/about-the-university/charter/)
-    * [Facts & Figures](https://english.spbstu.ru/university/about-the-university/facts-figures/)
-  * [Structure & Governance](https://english.spbstu.ru/university/structure-governance/)
-    * [Governance](https://english.spbstu.ru/university/structure-governance/governance/)
-    * [Institutions](https://english.spbstu.ru/structure/institutes/)
-    * [Departments](https://english.spbstu.ru/structure/units/)
-    * [Personalities](https://english.spbstu.ru/university/about-the-university/personalities/)
-  * [Key Strategic Points](https://english.spbstu.ru/university/key-strategic-points/)
-    * [Priority 2030](https://english.spbstu.ru/university/key-strategic-points/priority-2030/)
-    * [National Research University](https://english.spbstu.ru/university/key-strategic-points/national-research-university/)
-    * [Russian State Project "5-100-2020"](https://english.spbstu.ru/university/key-strategic-points/russian-state-project-5-100-2020/)
-    * [Rankings](https://english.spbstu.ru/university/key-strategic-points/rankings/)
-    * [Strategic Partners](https://english.spbstu.ru/university/key-strategic-points/strategic-partners/)
-  * [Virtual SPbPU](https://english.spbstu.ru/university/virtual-spbpu/)
-    * [Photo Gallery](https://english.spbstu.ru/media/photo-gallery/)
-    * [Virtual Tour](https://vt.spbstu.ru/virt_polytech/)
-    * [Online Excursion](https://vt.spbstu.ru/gz-en/)
-    * [Campus Map](https://english.spbstu.ru/campus-map/)
-
-
-SPbPU Official Telegram Channel
-Welcome to the official English channel of Peter the Great St. Petersburg Polytechnic University.
-Here you find information about educational process, events, students & scientific life of the university.
-Join the Polytech Community 💚
-[ Join Channel](https://t.me/polytech_eng)
-Follow Us
-  * [polytech_eng](https://t.me/polytech_eng)
-
-
-# About Us
-Welcome to St. Petersburg and Peter the Great St. Petersburg Polytechnic University! Our University’s position as a world-class University is confirmed by [world rankings](https://english.spbstu.ru/university/key-strategic-points/rankings/): 11th among [the top 100 Russia’s universities ](https://raexpert.ru/project/vuz_rating/2017/ranking#3), 5 stars in [international QS ranking](https://www.topuniversities.com/universities/peter-great-st-petersburg-polytechnic-university#wurs) for online learning. SPbPU has always been among the leaders of higher education in Russia. For the recent years we take the TOP-3 position among Russian technical universities by number of international students. 
-Our university is a winner of the Research Leadership track of [the Federal academic leadership program “Priority 2030”](https://priority2030.ru/en/). 
-![Top400-y2022-WUR](https://english.spbstu.ru/upload/medialibrary/about_us/top400-y2023.JPG)
-![Флажок QS 2021](https://english.spbstu.ru/upload/medialibrary/about_us/Флажок%20QS%202021.jpg)
-![world rankings](https://english.spbstu.ru/upload/medialibrary/636/39.jpg)
-![THE WUR 301-350](https://english.spbstu.ru/upload/medialibrary/about_us/the_wur.jpg)
-Our university is situated in one of the most beautiful cities in the world! The second largest city in Russia, St. Petersburg is rightfully called the cultural capital of Russia. A metropolitan city of five million people, it every year attracts nearly seven million tourists, of which about one half are foreign guests coming from all over the world. St. Petersburg was founded by the first Emperor of Russia, Tsar Peter the Great, as a multicultural city, always welcoming guests and specialists from other countries. Polytechnic University retains and strengthens this tradition which has become one of the essential features of our University. More than 5000 foreign students study at our university and this number keeps growing every year. 
-Peter the Great St. Petersburg Polytechnic University, more habitually known in Russia and abroad as the St. Petersburg Polytechnic Institute, was founded in 1899 on the wave of economic and political successes of Russia. It was built as a university campus to the northwest from the then city borders. While now the university is an integral part of St. Petersburg, it still is located in the greenest district of the city with good transportation connections to the historical center of St. Petersburg and other districts of the city. 
-For more than a century, the history and glory of Polytechnic University was created by the people who had taught and studied here, including Nobel Prize winners P.L. Kapitsa, N.N. Semyonov, Z.I. Alferov, famous physicists A.F. Ioffe, I.V. Kurchatov, A.A. Radzig, Y.B. Khariton, Constuctor General O.A. Antonov, and many other talented and famous scientists. 
-![Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/upload/medialibrary/559/40.jpg)
-![Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/upload/medialibrary/d61/36.jpg)
-Polytechnic University has a very prominent place in the global academic community. The University is partner with many academic institutions and industrial companies. More than 320 partner universities from 70 countries, over 100 world's leading companies have direct contracts with Polytechnic University. Annually, the University hosts numerous high-level international symposiums and conferences, publishes tens of scientific magazines and scholarly books. 
-The University campus consists of more than 170 educational and research buildings, a House of Scientists in Lesnoye, the International Student Campus, 18 dormitories and a sports complex. The historical part of the campus is situated in a wonderful park which has always been a place of inspiration and subject of love for many generations of students and faculty. 
-![Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/upload/medialibrary/fff/43.jpg)
-![Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/upload/medialibrary/4b8/42.jpg)
-We are happy to invite those who are interested in good education to come to our university and benefit not only from its highly professional faculty, up-to-date university equipment and other facilities, but also have the great chance to live in our unique city with its famed museums, like the world-famous Hermitage, the Russian Museum with a great collection of Russian art like which one cannot see anywhere else, the Kunskamera, a museum founded by Peter the Great himself, and many others. Millions of tourists and guests come every year to St. Petersburg for a good reason, and you might have a chance to live and study here and keep the memory of its beauty for many years ahead. 
-Loading PDF Service ...
-Loading PDF Service ...
-Loading PDF Service ...
-[](https://english.spbstu.ru/university/)
-Share this page
-  * [ВКонтакте](https://vk.com/share.php?url=https%3A%2F%2Fenglish.spbstu.ru%2Funiversity%2F&title=About%20Us&utm_source=share2 "ВКонтакте")
-  * [Telegram](https://t.me/share/url?url=https%3A%2F%2Fenglish.spbstu.ru%2Funiversity%2F&text=About%20Us&utm_source=share2 "Telegram")
-  * [Одноклассники](https://connect.ok.ru/offer?url=https%3A%2F%2Fenglish.spbstu.ru%2Funiversity%2F&title=About%20Us&utm_source=share2 "Одноклассники")
-  * [Я.Мессенджер](https://yandex.ru/chat?text=About%20Us%0Ahttps%3A%2F%2Fenglish.spbstu.ru%2Funiversity%2F&utm_source=share2#/forward "Я.Мессенджер")
-
-
-[ Useful Information ](https://english.spbstu.ru/university/#footer_menu) [ Campus Map](https://english.spbstu.ru/campus-map/) [ Site Map](https://english.spbstu.ru/site-map/)
-  * [Institutes](https://english.spbstu.ru/structure/bazovye_instituty/)
-  * [Departments](https://english.spbstu.ru/structure/units/)
-  * [International Office](https://english.spbstu.ru/international/general-information/international-offices/)
-  * [Admission Office](https://english.spbstu.ru/education/admissions/admission-offices/)
-
-
-  * [Rankings](https://english.spbstu.ru/university/key-strategic-points/rankings/)
-  * [System Of Education](https://english.spbstu.ru/education/programs/system-education/)
-  * [Visa Issues](https://english.spbstu.ru/education/admissions/visa-issues/)
-  * [SPbPU Virtual Tour](https://english.spbstu.ru/virt_polytech/)
-
-
-© 2010 - 2025 Peter the Great St.Petersburg Polytechnic University (SPbPU)
-When using materials from the site please make an active link to the source
-Submitting information on the web-site
-Format requirements for submitting materials on the web-site you can find [here](https://english.spbstu.ru/information-requirements/)
-[Privacy policy ](https://english.spbstu.ru/upload/personal_data_policy_eng.pdf)
-Contacts
-Address: Russia, 195251, St.Petersburg, Polytechnicheskaya, 29 B [+7 (812) 297 16 16](tel:+78122971616) [+7 (812) 534 13 65](tel:+78125341365) International Office:  [+7 (812) 534 10 02](tel:+78125341002) [+7 (812) 534 13 65](tel:+78125341365)intadm@spbstu.ru Admission Office:  [ 8 (800) 101 18 99](tel:+78001011899) [+7 (812) 534 13 65](tel:+78125341365)interstudy@spbstu.ru
-Follow us
-[](https://vk.com/international_polytech) [ ](https://t.me/polytech_eng) [ ](https://english.spbstu.ru/media/news/international_activities/china-gets-closer-polytechnic-university-is-officially-on-wechat/) [ ](https://www.youtube.com/channel/UCvAvqSXpWHRjYYGXeKuXVeA)
+[ ![](https://static.gazeta.ru/nm2021/img/logo_2021.svg) ](https://www.gazeta.ru/)
+[ Новости ](https://www.gazeta.ru/news/) [ Спорт ](https://www.gazeta.ru/sport/)
+Поисковый запрос
+![](https://static.gazeta.ru/nm2021/img/icon_search.svg)
+[Политика](https://www.gazeta.ru/politics/)
+[Бизнес](https://www.gazeta.ru/business/)
+[Общество](https://www.gazeta.ru/social/)
+[Армия](https://www.gazeta.ru/army/)
+[Мнения](https://www.gazeta.ru/comments/)
+[Культура](https://www.gazeta.ru/culture/)
+[Наука](https://www.gazeta.ru/science/)
+[Семья и дети](https://www.gazeta.ru/children/)
+[Технологии](https://www.gazeta.ru/tech/)
+[Авто](https://www.gazeta.ru/auto/)
+[Стиль](https://www.gazeta.ru/lifestyle/)
+[Фото](https://www.gazeta.ru/photo/)
+[Инфографика](https://www.gazeta.ru/infographics/)
+[Эксклюзивы](https://www.gazeta.ru/exclusive/)
+[Тесты](https://www.gazeta.ru/quiz/)
+[Редакция](https://www.gazeta.ru/about/)
+[Спецпроекты](https://www.gazeta.ru/history.shtml)
+[ ![](https://static.gazeta.ru/nm2021/img/countries_flags/ru.svg) Цивилизация ](https://www.gazeta.ru/subjects/civilization/)
+[ #Протесты в Лос-Анджелесе ](https://www.gazeta.ru/subjects/protesty_v_los-andzhelese.shtml) [ #Переговоры о мире на Украине ](https://www.gazeta.ru/subjects/peregovory_o_konflikte_na_ukraine.shtml)
+[ ![](https://static.gazeta.ru/nm2021/img/logo_2021.svg) ](https://www.gazeta.ru/)
+[ Новости ](https://www.gazeta.ru/news/) [ Спорт ](https://www.gazeta.ru/sport/) [ #Протесты в Лос-Анджелесе ](https://www.gazeta.ru/subjects/protesty_v_los-andzhelese.shtml) [ #Переговоры о мире на Украине ](https://www.gazeta.ru/subjects/peregovory_o_konflikte_na_ukraine.shtml)
+[Политика](https://www.gazeta.ru/politics/)
+[Бизнес](https://www.gazeta.ru/business/)
+[Общество](https://www.gazeta.ru/social/)
+[Армия](https://www.gazeta.ru/army/)
+[Мнения](https://www.gazeta.ru/comments/)
+[Культура](https://www.gazeta.ru/culture/)
+[Наука](https://www.gazeta.ru/science/)
+[Семья и дети](https://www.gazeta.ru/children/)
+[Технологии](https://www.gazeta.ru/tech/)
+[Авто](https://www.gazeta.ru/auto/)
+[Стиль](https://www.gazeta.ru/lifestyle/)
+[Фото](https://www.gazeta.ru/photo/)
+[Инфографика](https://www.gazeta.ru/infographics/)
+[Эксклюзивы](https://www.gazeta.ru/exclusive/)
+[Тесты](https://www.gazeta.ru/quiz/)
+[Редакция](https://www.gazeta.ru/about/)
+[Спецпроекты](https://www.gazeta.ru/history.shtml)
+[ ![](https://static.gazeta.ru/nm2021/img/countries_flags/ru.svg) Цивилизация ](https://www.gazeta.ru/subjects/civilization/)
+[ ![](https://img.gazeta.ru/files3/202/20443202/34-pic330-330x220-30803.jpg) Лукашенко объяснил нехватку картошки  20:25  ](https://www.gazeta.ru/social/news/2025/06/10/26007026.shtml) [ ![](https://img.gazeta.ru/files3/88/15136088/20220306_zaa_s197_195-pic330-330x220-50616.jpg) Глава британских ВС прокомментировал заявление генсека НАТО о необходимости учить...  20:24  ](https://www.gazeta.ru/army/news/2025/06/10/26007062.shtml) [ ![](https://img.gazeta.ru/files3/559/20067559/463875873_27130771756568117_1545341723898381434_n-pic330-330x220-55821.jpg) Шеф Пентагона обратился к НАТО из-за вопроса сдерживания России  20:23  ](https://www.gazeta.ru/politics/news/2025/06/10/26007050.shtml) [ ![](https://img.gazeta.ru/files3/708/21158708/RIA_8937977-pic330-330x220-21785.jpg) Российские военные зашли в село на границе Днепропетровской области Украины  20:21  ](https://www.gazeta.ru/army/news/2025/06/10/26007038.shtml) [ ![](https://img.gazeta.ru/files3/534/21191534/322333232-pic330-330x220-50754.jpg) Сафонов показал фото с Хвичей по пути в США  20:20  ](https://www.gazeta.ru/sport/news/2025/06/10/26007002.shtml) [ ![](https://img.gazeta.ru/files3/880/20485880/70-pic330-330x220-65736.jpg) Пользователь флагманского смартфона Samsung пожаловался на его поломку  20:10  ](https://www.gazeta.ru/tech/news/2025/06/10/26007032.shtml) [ ![](https://img.gazeta.ru/files3/165/19333165/55-pic330-330x220-14287.jpg) Рэпер Канье Уэст в очередной раз сменил имя  20:02  ](https://www.gazeta.ru/culture/news/2025/06/10/26006972.shtml) [ ![](https://img.gazeta.ru/files3/612/21191612/photo_2025-06-10_19-45-39-pic_32ratio_900x600_fit-900x600-74281.jpg) ![](https://img.gazeta.ru/files3/612/21191612/photo_2025-06-10_19-45-39-pic_32ratio_900x600_fit-900x600-74281.jpg) Грузовые вагоны сошли с рельсов в Коми  20:01  ](https://www.gazeta.ru/social/news/2025/06/10/26006984.shtml) [ ![](https://img.gazeta.ru/files3/510/21191510/320932-pic330-330x220-88979.jpg) Турист подхватил опасную инфекцию в грязном турецком отеле и впал в кому  20:00  ](https://www.gazeta.ru/social/news/2025/06/10/26006846.shtml) [ ![](https://img.gazeta.ru/files3/504/21191504/21212112-pic330-330x220-67829.jpg) В Индонезии турист попал в больницу из-за присосавшейся к его глазу пиявки  19:56  ](https://www.gazeta.ru/social/news/2025/06/10/26006816.shtml)
+[Все новости](https://www.gazeta.ru/news/)
+На сайте используются cookies. Продолжая использовать сайт, вы принимаете [условия](https://www.gazeta.ru/terms/)
+Ok
+[](https://t.me/+fhe5c7OMZ8hkNzcy) [ Подписывайтесь на Газету.Ru в Telegram Публикуем там только самое важное и интересное!  ](https://t.me/+fhe5c7OMZ8hkNzcy)
+Новые комментарии + 
+# Новости дня 
+[ 20:25  Лукашенко объяснил нехватку картошки  ![](https://img.gazeta.ru/files3/202/20443202/34-pic330-330x220-30803.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26007026.shtml) [ 20:24  Глава британских ВС прокомментировал заявление генсека НАТО о необходимости учить русский  ![](https://img.gazeta.ru/files3/88/15136088/20220306_zaa_s197_195-pic330-330x220-50616.jpg) ](https://www.gazeta.ru/army/news/2025/06/10/26007062.shtml) [ 20:23  Шеф Пентагона обратился к НАТО из-за вопроса сдерживания России  ![](https://img.gazeta.ru/files3/559/20067559/463875873_27130771756568117_1545341723898381434_n-pic330-330x220-55821.jpg) ](https://www.gazeta.ru/politics/news/2025/06/10/26007050.shtml) [ 20:21  Российские военные зашли в село на границе Днепропетровской области Украины  ![](https://img.gazeta.ru/files3/708/21158708/RIA_8937977-pic330-330x220-21785.jpg) ](https://www.gazeta.ru/army/news/2025/06/10/26007038.shtml) [ 20:20  Сафонов показал фото с Хвичей по пути в США  ![](https://img.gazeta.ru/files3/534/21191534/322333232-pic330-330x220-50754.jpg) ](https://www.gazeta.ru/sport/news/2025/06/10/26007002.shtml) [ 20:10  Пользователь флагманского смартфона Samsung пожаловался на его поломку  ![](https://img.gazeta.ru/files3/880/20485880/70-pic330-330x220-65736.jpg) ](https://www.gazeta.ru/tech/news/2025/06/10/26007032.shtml) [ 20:02  Рэпер Канье Уэст в очередной раз сменил имя  ![](https://img.gazeta.ru/files3/165/19333165/55-pic330-330x220-14287.jpg) ](https://www.gazeta.ru/culture/news/2025/06/10/26006972.shtml) [ 20:01  Грузовые вагоны сошли с рельсов в Коми  ![](https://img.gazeta.ru/files3/612/21191612/photo_2025-06-10_19-45-39-pic_32ratio_900x600_fit-900x600-74281.jpg) ![](https://img.gazeta.ru/files3/612/21191612/photo_2025-06-10_19-45-39-pic_32ratio_900x600_fit-900x600-74281.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006984.shtml) [ 20:00  Турист подхватил опасную инфекцию в грязном турецком отеле и впал в кому  ![](https://img.gazeta.ru/files3/510/21191510/320932-pic330-330x220-88979.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006846.shtml) [ 19:56  В Индонезии турист попал в больницу из-за присосавшейся к его глазу пиявки  ![](https://img.gazeta.ru/files3/504/21191504/21212112-pic330-330x220-67829.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006816.shtml) [ 19:54  Гладков сообщил о новых атаках ВСУ на Шебекинский округ  ![](https://img.gazeta.ru/files3/450/21191450/photo_2025-06-10_19-08-11-pic_32ratio_900x600_fit-900x600-43161.jpg) ![](https://img.gazeta.ru/files3/450/21191450/photo_2025-06-10_19-08-11-pic_32ratio_900x600_fit-900x600-43161.jpg) ](https://www.gazeta.ru/army/news/2025/06/10/26006876.shtml) [ 19:51  Трамп рассказал, когда отзовет нацгвардию из Калифорнии  ![](https://img.gazeta.ru/files3/814/21169814/2025-06-05T181336Z_406107257_RC2FWEAA10F7_RTRMADP_3_USA-TRUMP-MIGRATION-BAN-REACTION-pic330-330x220-93995.jpg) ](https://www.gazeta.ru/politics/news/2025/06/10/26006954.shtml) [ 19:50  Черчесов встретился с представителем ЦСКА  ![](https://img.gazeta.ru/files3/793/19926793/upload-RIA_8535223-pic330-330x220-40357.jpg) ](https://www.gazeta.ru/sport/news/2025/06/10/26006936.shtml) [ 19:47  Первого замгубернатора Владимирской области арестовали по делу о взятке  ![](https://img.gazeta.ru/files3/894/21182894/qZscc1EBrbg-pic330-330x220-74573.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006912.shtml) [ 19:43  Детские травмы необратимо меняют мозг, доказали ученые  ![](https://img.gazeta.ru/files3/928/21097928/shutterstock_2263300709-pic330-330x220-48011.jpg) ](https://www.gazeta.ru/science/news/2025/06/10/26004548.shtml) [ 19:36  Дугин призвал сформировать канон относительно российской идентичности  ![](https://img.gazeta.ru/files3/342/15305342/Untitled-1-pic330-330x220-33572.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006768.shtml) [ 19:31  В Якутске мужчину задержали и оштрафовали за прогулку в женском платье  ![](https://img.gazeta.ru/files3/384/21191384/9292929229922-pic330-330x220-58538.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006654.shtml) [ 19:29  В МВД заявили, что многие дети мигрантов в России не учатся  ![](https://img.gazeta.ru/files3/785/18212785/34232-pic330-330x220-81084.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006804.shtml) [ 19:29  Глава МИД Белоруссии рассказал, собирается ли Россия дойти до Берлина после СВО  ![](https://img.gazeta.ru/files3/216/21188216/RIA_8942542-pic330-330x220-36281.jpg) ](https://www.gazeta.ru/politics/news/2025/06/10/26006792.shtml) [ 19:24  Политолог рассказал, как связан визит отца Маска в Москву с отношением Илона к России  ![](https://img.gazeta.ru/files3/152/21183152/RIA_8941902-pic330-330x220-74252.jpg) ](https://www.gazeta.ru/politics/news/2025/06/10/26006732.shtml) [ 19:20  Акинфеев назвал самый сложный момент в своей карьере  ![](https://img.gazeta.ru/files3/732/20837732/106-pic330-330x220-13256.jpg) ](https://www.gazeta.ru/sport/news/2025/06/10/26006468.shtml) [ 19:20  «Человек-улыбка» Василенко признался, что у него был роман с Жанной Фриске  ![](https://img.gazeta.ru/files3/426/21191426/92-pic330-330x220-14063.jpg) ](https://www.gazeta.ru/culture/news/2025/06/10/26006708.shtml) [ 19:19  Темпы вымирания крупнейших в мире пингвинов ужаснули ученых  ![](https://img.gazeta.ru/files3/347/19916347/RIA_1127768-pic330-330x220-65978.jpg) ](https://www.gazeta.ru/science/news/2025/06/10/26004518.shtml) [ 19:14  Мужчина установил рекорд по количеству времени, проведенного лежа в снегу  ![](https://img.gazeta.ru/files3/360/21191360/97544-pic330-330x220-48127.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006672.shtml) [ 19:13  Врач рассказала, кому нельзя есть рукколу  ![](https://img.gazeta.ru/files3/684/20504684/upload-ru5-pic330-330x220-42663.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006720.shtml) [ 19:10  Путин объяснил россиянам значение понятия «быть гражданином»  ![](https://img.gazeta.ru/files3/474/21170474/699699-pic330-330x220-12850.jpg) ](https://www.gazeta.ru/politics/news/2025/06/10/26006690.shtml) [ 19:09  «Ашан» прокомментировал ситуацию с обнаружением опасной бутилированной воды  ![](https://img.gazeta.ru/files3/171/19819171/RIA_6240282-pic330-330x220-75068.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006582.shtml) [ 19:06  Суд вынес приговор женщине, установившей бомбу под кабину грузовика Минобороны РФ  ![](https://img.gazeta.ru/files3/751/18996751/61-pic330-330x220-38269.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006576.shtml) [ 19:05  На Мальте к пожизненным срокам приговорили убийц журналистки Гализии  ![](https://img.gazeta.ru/files3/607/14163607/upload-Depositphotos_26941769_XL-pic330-330x220-5454.jpg) ](https://www.gazeta.ru/social/news/2025/06/10/26006588.shtml) [ 19:04  Бьянка переезжает из-за проблемных соседей: «У них психические проблемы»  ![](https://img.gazeta.ru/files3/930/20573930/B-yanka_-pic330-330x220-73680.jpg) ](https://www.gazeta.ru/culture/news/2025/06/10/26006618.shtml)
+[ ![](https://img.gazeta.ru/files3/526/21190526/trumpmusk-pic_32ratio_600x400-600x400-40610.jpg) ![](https://img.gazeta.ru/files3/37/18060037/IMG_8221-pic_square_200x200-200x200-25479.jpg) Виталий Рюмшин  Импичмент или «третья партия»? К чему приведет разрыв Трампа и Маска  17:33  ](https://www.gazeta.ru/comments/column/articles/21190466.shtml) [ ![](https://img.gazeta.ru/files3/162/21188162/sex-pic_32ratio_600x400-600x400-55402.jpg) ![](https://img.gazeta.ru/files3/529/18408529/2024-03-12_19.20-pic_square_200x200-200x200-17191.jpg) Анна Сирота  Сиквел «Секса в большом городе». Почему мы ругаемся, но продолжаем смотреть?  12:20  ](https://www.gazeta.ru/comments/column/articles/21187640.shtml) [ ![](https://img.gazeta.ru/files3/342/21182342/otpust-pic_32ratio_600x400-600x400-97459.jpg) ![](https://img.gazeta.ru/files3/587/17645587/2022-01-05_00.57-pic_square_200x200-200x200-9618.jpg) Зинаида Лобанова  Онижедети или взрослые? Когда пора отпускать ребенка в клуб  09.06.2025, 12:28  ](https://www.gazeta.ru/comments/column/articles/21181820.shtml) [ ![](https://img.gazeta.ru/files3/304/21175304/vles-pic_32ratio_600x400-600x400-71903.jpg) ![](https://img.gazeta.ru/files3/143/16355143/photo_2023-03-06_19.25-pic_square_200x200-200x200-77658.jpg) Наталья Тарасова  Яркая одежда и своевременный звонок: что делать, если вы потерялись в лесу  07.06.2025, 18:46  ](https://www.gazeta.ru/comments/column/articles/21175256.shtml) [ ![](https://img.gazeta.ru/files3/180/21161180/detdom-pic_32ratio_600x400-600x400-13001.jpg) ![](https://img.gazeta.ru/files3/684/13565684/anastasiya_mironova-pic_square_200x200-200x200-92050.jpg) Анастасия Миронова  Может, убьют, а может, и не убьют: почему дети просятся в детдом  05.06.2025, 11:34  ](https://www.gazeta.ru/comments/column/mironova/21161036.shtml)
+[![](https://static.smi2.net/static/logo/smi2.svg)](https://smi2.ru/)
+Читайте также 
+[ Как электронные сигареты влияют на органы дыхания  11:31  ](https://www.gazeta.ru/social/2025/06/10/21170786.shtml) [ «Биокад» судится с «АстраЗенекой» из-за нового онкопрепарата  09.06.2025, 09:57  ](https://www.gazeta.ru/business/2025/06/09/21170720.shtml) [ Как готовят спортсменов в футбольной академии  05.06.2025, 11:50  ](https://www.gazeta.ru/sport/2025/06/05/21151922.shtml) [ Назван новый способ пополнения карты «Тройка»  04.06.2025, 14:22  ](https://www.gazeta.ru/social/news/2025/06/04/25954442.shtml) [ В такси выросло число поездок с детьми  30.05.2025, 19:47  ](https://www.gazeta.ru/social/news/2025/05/30/25916396.shtml)
+[![](https://static.gazeta.ru/nm2015/i/__2020/partners/logo_24smi_2020.svg)](https://ex.24smi.info/)
+Загрузка
+[ Показать еще ](https://www.gazeta.ru/news/index.shtml?p=main&d=1749571491&page=2)
+[Редакция](https://www.gazeta.ru/about/) [Реклама](https://www.gazeta.ru/adbook/) [Карта сайта](https://www.gazeta.ru/sitemap.shtml) [Правовая информация](https://www.gazeta.ru/legal/) [Условия использования](https://www.gazeta.ru/terms/) [Политика конфиденциальности](https://www.gazeta.ru/privacy/)
+[](https://vk.com/gazeta) [](https://t.me/gazetaru) [](https://ok.ru/gazetaru) [](https://dzen.ru/gazeta)
+© АО «Газета.Ру» (1999-2025) – Главные новости дня
+Название: Газета.Ru (Gazeta.Ru)
+Учредитель: АО «Газета.Ру», ОГРН 1067761730376, ИНН 7743625728
+Адрес учредителя: 125239, Россия, Москва, Коптевская улица, дом 67
+Адрес редакции и издателя: 117105, г. Москва, Варшавское шоссе, д.9, стр.1
+Телефон редакции: +7 (495) 785-00-12 | Факс: +7 (495) 785-17-01
+Электронная почта: gazeta@gazeta.ru
+Нашли опечатку? Нажмите Ctrl+Enter
+18+
+![](https://static.gazeta.ru/nm2021/img/logo_2021.svg)
+Свидетельство о регистрации СМИ Эл № ФС77-67642 выдано федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 10.11.2016 г. Редакция не несет ответственности за достоверность информации, содержащейся в рекламных объявлениях. Редакция не предоставляет справочной информации. [Информация об ограничениях](https://www.gazeta.ru/credits.shtml) [На информационном ресурсе применяются рекомендательные технологии в соответствии с Правилами](https://www.gazeta.ru/recommended_tech_rules.shtml)
+Найдена ошибка?
+Закрыть
+Спасибо за ваше сообщение, мы скоро все поправим.
+Продолжить чтение

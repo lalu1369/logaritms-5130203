@@ -5,6 +5,7 @@
 1) create python environment
 
 $ python -m venv projact_env
+$ py -m venv projact_env
 
 2) activate python environment
 
@@ -22,3 +23,9 @@ $ playwright install
 5) run the streamlit application 
 
 $ streamlit run app.py
+
+
+2, 3.1, 5
+
+Sin entorno virtual
+C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Scripts\streamlit run app.py
